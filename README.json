@@ -34,7 +34,7 @@
             "last_commit": "2026-06-01T09:35:56Z",
             "owner": "elegantapp",
             "repo": "pwa-asset-generator",
-            "stars": 3030
+            "stars": 3029
           }
         },
         {
@@ -290,7 +290,7 @@
             "last_commit": "2020-10-06T12:35:07Z",
             "owner": "tastejs",
             "repo": "hacker-news-pwas",
-            "stars": 2415
+            "stars": 2416
           }
         },
         {
@@ -421,7 +421,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T08:04:30.703Z",
+    "last_updated": "2026-08-14T08:01:34.915Z",
     "original_repository": "hemanth/awesome-pwa",
     "original_repository_sha": "550377feeb35aaedb3ea74397463e7891d5c051e",
     "enhanced_repository": "enhansome/enhansome-pwa",
