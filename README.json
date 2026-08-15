@@ -96,7 +96,7 @@
             "last_commit": "2026-08-04T00:34:34Z",
             "owner": "GoogleChrome",
             "repo": "workbox",
-            "stars": 12976
+            "stars": 12978
           }
         },
         {
@@ -421,7 +421,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T08:01:34.915Z",
+    "last_updated": "2026-08-15T07:15:30.743Z",
     "original_repository": "hemanth/awesome-pwa",
     "original_repository_sha": "550377feeb35aaedb3ea74397463e7891d5c051e",
     "enhanced_repository": "enhansome/enhansome-pwa",

@@ -65,7 +65,7 @@
 ### Audio and Video
 
 * [BitMidi](https://bitmidi.com): Listen to your favorite MIDI files.
-* [Foldergram](https://github.com/foldergram/foldergram) ⭐ 533 | 🐛 13 | 🌐 TypeScript | 📅 2026-08-09: Local-only photo and video gallery for folders, with an Instagram-inspired browsing pattern.
+* [Foldergram](https://github.com/foldergram/foldergram) ⭐ 535 | 🐛 13 | 🌐 TypeScript | 📅 2026-08-09: Local-only photo and video gallery for folders, with an Instagram-inspired browsing pattern.
 * [guitar-tuner](https://aerotwist.com/blog/guitar-tuner/): Aerotwist Guitar Tuner
 * [Joybox](https://joybox.rosano.ca): A pinboard for audiovisual media.
 * [Lofimusic.app](https://lofimusic.app/): Online radio Radio
@@ -425,7 +425,7 @@
 
 ### Service Worker Libraries
 
-* [`Workbox`](https://github.com/GoogleChrome/workbox) ⭐ 12,976 | 🐛 100 | 🌐 JavaScript | 📅 2026-08-04: Javascript Library for building progressive web apps
+* [`Workbox`](https://github.com/GoogleChrome/workbox) ⭐ 12,978 | 🐛 101 | 🌐 JavaScript | 📅 2026-08-04: Javascript Library for building progressive web apps
 * [`sw-precache`](https://github.com/GoogleChrome/sw-precache) ⚠️ Archived: A node module to generate service worker code that will precache specific resources
 * [`UpUp`](https://github.com/TalAter/UpUp) ⭐ 4,919 | 🐛 38 | 🌐 JavaScript | 📅 2026-08-03: Makes sure your users can always access your site's content, even when they're on a plane, in an elevator, or 20,000 leagues under the sea
 * [`sw-toolbox`](https://github.com/GoogleChrome/sw-toolbox) ⚠️ Archived: A runtime caching library
@@ -487,4 +487,4 @@ Contributions are welcome! Please check the guidelines and open a PR.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-14._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-15._
