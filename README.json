@@ -96,7 +96,7 @@
             "last_commit": "2026-08-04T00:34:34Z",
             "owner": "GoogleChrome",
             "repo": "workbox",
-            "stars": 12978
+            "stars": 12979
           }
         },
         {
@@ -290,7 +290,7 @@
             "last_commit": "2020-10-06T12:35:07Z",
             "owner": "tastejs",
             "repo": "hacker-news-pwas",
-            "stars": 2416
+            "stars": 2409
           }
         },
         {
@@ -421,7 +421,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T07:17:59.472Z",
+    "last_updated": "2026-08-17T07:38:04.030Z",
     "original_repository": "hemanth/awesome-pwa",
     "original_repository_sha": "550377feeb35aaedb3ea74397463e7891d5c051e",
     "enhanced_repository": "enhansome/enhansome-pwa",
