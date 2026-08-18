@@ -253,7 +253,7 @@
           "repo_info": {
             "archived": false,
             "language": "Ruby",
-            "last_commit": "2026-07-31T14:21:35Z",
+            "last_commit": "2026-08-17T13:17:25Z",
             "owner": "rossta",
             "repo": "serviceworker-rails",
             "stars": 584
@@ -421,7 +421,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T07:38:04.030Z",
+    "last_updated": "2026-08-18T07:23:39.757Z",
     "original_repository": "hemanth/awesome-pwa",
     "original_repository_sha": "550377feeb35aaedb3ea74397463e7891d5c051e",
     "enhanced_repository": "enhansome/enhansome-pwa",

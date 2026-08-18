@@ -65,7 +65,7 @@
 ### Audio and Video
 
 * [BitMidi](https://bitmidi.com): Listen to your favorite MIDI files.
-* [Foldergram](https://github.com/foldergram/foldergram) ⭐ 536 | 🐛 13 | 🌐 TypeScript | 📅 2026-08-09: Local-only photo and video gallery for folders, with an Instagram-inspired browsing pattern.
+* [Foldergram](https://github.com/foldergram/foldergram) ⭐ 538 | 🐛 13 | 🌐 TypeScript | 📅 2026-08-09: Local-only photo and video gallery for folders, with an Instagram-inspired browsing pattern.
 * [guitar-tuner](https://aerotwist.com/blog/guitar-tuner/): Aerotwist Guitar Tuner
 * [Joybox](https://joybox.rosano.ca): A pinboard for audiovisual media.
 * [Lofimusic.app](https://lofimusic.app/): Online radio Radio
@@ -123,7 +123,7 @@
 * [Bento-starter](https://bento-starter.firebaseapp.com): Open-Source Full-Stack solution for fast PWA development
 * [bundle](https://bundle.js.org/): A quick and easy way to bundle, minify, and compress (gzip and brotli) your ts, js, jsx and npm projects all online, with the resulting file size.
 * [ColorBeta](https://colorbeta.com): Advanced CSS Gradient Generator
-* [Demo PWA](https://github.com/gokulkrishh/demo-progressive-web-app) ⭐ 968 | 🐛 2 | 🌐 JavaScript | 📅 2023-11-27: Demonstrating offline, push notifications, background sync etc.
+* [Demo PWA](https://github.com/gokulkrishh/demo-progressive-web-app) ⭐ 967 | 🐛 2 | 🌐 JavaScript | 📅 2023-11-27: Demonstrating offline, push notifications, background sync etc.
 * [DevDocs](https://devdocs.io/): API Documentation Browser
 * [Hyperdraft](https://hyperdraft.rosano.ca): Turn your text notes into a website.
 * [JSON Formatter](https://jsonformatter.live/): Minimalist JSON formatter.
@@ -439,7 +439,7 @@
 
 * [`offline-plugin`](https://github.com/NekR/offline-plugin) ⭐ 4,509 | 🐛 110 | 🌐 JavaScript | 📅 2021-11-08: Offline plugin (ServiceWorker, AppCache) for webpack (<http://webpack.github.io/>)
 * [`sw-precache-webpack-plugin`](https://github.com/goldhand/sw-precache-webpack-plugin) ⭐ 1,435 | 🐛 26 | 🌐 JavaScript | 📅 2020-10-15: SW Precache Webpack Plugin
-* [`serviceworker-rails`](https://github.com/rossta/serviceworker-rails) ⭐ 584 | 🐛 5 | 🌐 Ruby | 📅 2026-07-31: Plugin to integrate Service Worker with the Rails asset pipeline.
+* [`serviceworker-rails`](https://github.com/rossta/serviceworker-rails) ⭐ 584 | 🐛 0 | 🌐 Ruby | 📅 2026-08-17: Plugin to integrate Service Worker with the Rails asset pipeline.
 * [`serviceworker-webpack-plugin`](https://github.com/oliviertassinari/serviceworker-webpack-plugin) ⭐ 457 | 🐛 24 | 🌐 JavaScript | 📅 2025-09-20: Simplifies creation of a service worker to serve your webpack bundles.
 
 ### Testing and Auditing
@@ -487,4 +487,4 @@ Contributions are welcome! Please check the guidelines and open a PR.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-17._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-18._
