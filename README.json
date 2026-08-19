@@ -1,359 +1,371 @@
 {
   "items": [
     {
-      "description": "Source: Google Developers - Progressive Web Apps",
-      "items": [],
-      "title": "What is a Progressive Web App"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Articles"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Videos"
-    },
-    {
-      "description": "",
-      "items": [],
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "",
+              "description": "Automates PWA asset generation and image declaration. Automatically generates icon and splash screen images, favicons and mstile images.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 201535836,
+                "language": "TypeScript",
+                "last_commit": "2026-06-01T09:35:56Z",
+                "owner": "elegantapp",
+                "repo": "pwa-asset-generator",
+                "stars": 3029
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "",
+              "description": "CLI tool to convert your PWA into a cross-platform desktop app.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 60727390,
+                "language": "JavaScript",
+                "last_commit": "2020-06-07T05:32:45Z",
+                "owner": "vladikoff",
+                "repo": "PWAify",
+                "stars": 440
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "",
+              "description": "Generate your Service Worker dynamically, webmanifest, rules for requests, redirects, etc.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 62770579,
+                "language": "JavaScript",
+                "last_commit": "2017-10-22T17:50:11Z",
+                "owner": "NascHQ",
+                "repo": "dsw",
+                "stars": 270
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "",
+              "description": "Fetch the from an URL.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 61376095,
+                "language": "JavaScript",
+                "last_commit": "2023-06-23T23:34:45Z",
+                "owner": "hemanth",
+                "repo": "fetch-manifest-json",
+                "stars": 6
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Generators and CLIs"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "",
+              "description": "Javascript Library for building progressive web apps",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 55424670,
+                "language": "JavaScript",
+                "last_commit": "2026-08-04T00:34:34Z",
+                "owner": "GoogleChrome",
+                "repo": "workbox",
+                "stars": 12980
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "",
+              "description": "A node module to generate service worker code that will precache specific resources",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 28489249,
+                "language": "JavaScript",
+                "last_commit": "2019-06-09T22:23:40Z",
+                "owner": "GoogleChromeLabs",
+                "repo": "sw-precache",
+                "stars": 5187
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "",
+              "description": "Makes sure your users can always access your site's content, even when they're on a plane, in an elevator, or 20,000 leagues under the sea",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 32018674,
+                "language": "JavaScript",
+                "last_commit": "2026-08-03T18:16:11Z",
+                "owner": "TalAter",
+                "repo": "UpUp",
+                "stars": 4919
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "",
+              "description": "A runtime caching library",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 34268206,
+                "language": "JavaScript",
+                "last_commit": "2019-10-01T12:23:50Z",
+                "owner": "GoogleChromeLabs",
+                "repo": "sw-toolbox",
+                "stars": 3583
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "",
+              "description": "An incremental cache for the web.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 42822012,
+                "language": "JavaScript",
+                "last_commit": "2016-08-27T16:23:49Z",
+                "owner": "gmetais",
+                "repo": "sw-delta",
+                "stars": 1099
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "",
+              "description": "An Express-like layer on top of ServiceWorkers to provide a way to easily plug functionality",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 31429789,
+                "language": "JavaScript",
+                "last_commit": "2021-09-17T08:17:17Z",
+                "owner": "fxos-components",
+                "repo": "serviceworkerware",
+                "stars": 254
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "",
+              "description": "Resumable, integrity-verified downloads for large offline assets. Includes Service Worker mode for transparent verification of all fetch requests.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1141810923,
+                "language": "TypeScript",
+                "last_commit": "2026-04-07T18:53:45Z",
+                "owner": "hamzaydia",
+                "repo": "verifyfetch",
+                "stars": 156
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "",
+              "description": "Proxy Fetch requests through the Background Sync API",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 52563169,
+                "language": "JavaScript",
+                "last_commit": "2017-07-30T13:29:28Z",
+                "owner": "sdgluck",
+                "repo": "fetch-background-sync",
+                "stars": 127
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "",
+              "description": "Nifty service worker/client message utility",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 61029352,
+                "language": "JavaScript",
+                "last_commit": "2016-08-02T11:16:31Z",
+                "owner": "sdgluck",
+                "repo": "msgr",
+                "stars": 40
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Service Worker Libraries"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "",
+              "description": "Offline plugin (ServiceWorker, AppCache) for webpack (http://webpack.github.io/)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 42321571,
+                "language": "JavaScript",
+                "last_commit": "2021-11-08T05:42:32Z",
+                "owner": "NekR",
+                "repo": "offline-plugin",
+                "stars": 4509
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "",
+              "description": "SW Precache Webpack Plugin",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 59926845,
+                "language": "JavaScript",
+                "last_commit": "2020-10-15T06:28:22Z",
+                "owner": "goldhand",
+                "repo": "sw-precache-webpack-plugin",
+                "stars": 1435
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "",
+              "description": "Plugin to integrate Service Worker with the Rails asset pipeline.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 56937166,
+                "language": "Ruby",
+                "last_commit": "2026-08-17T13:17:25Z",
+                "owner": "rossta",
+                "repo": "serviceworker-rails",
+                "stars": 584
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "",
+              "description": "Simplifies creation of a service worker to serve your webpack bundles.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 60124445,
+                "language": "JavaScript",
+                "last_commit": "2025-09-20T15:13:09Z",
+                "owner": "oliviertassinari",
+                "repo": "serviceworker-webpack-plugin",
+                "stars": 457
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Webpack and Framework Plugins"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "",
+              "description": "Hacker News readers as Progressive Web Apps. A spiritual successor to TodoMVC.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 86204319,
+                "language": "HTML",
+                "last_commit": "2020-10-06T12:35:07Z",
+                "owner": "tastejs",
+                "repo": "hacker-news-pwas",
+                "stars": 2410
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "",
+              "description": "Easily add a website/PWA to home screen on IOS/Android/Desktop.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 679005779,
+                "language": "TypeScript",
+                "last_commit": "2026-08-13T01:31:09Z",
+                "owner": "philfung",
+                "repo": "add-to-homescreen",
+                "stars": 343
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "",
+              "description": "A useful modern JavaScript solution that helps your website users to add (install) a progressive web app to the Home Screen of their mobile iOS devices.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 185619141,
+                "language": "JavaScript",
+                "last_commit": "2026-02-04T02:02:41Z",
+                "owner": "koddr",
+                "repo": "a2hs.js",
+                "stars": 185
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "",
+              "description": "Badging for PWA app icons, Like Native Apps",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 327434590,
+                "language": "JavaScript",
+                "last_commit": "2021-01-12T11:54:06Z",
+                "owner": "ali-master",
+                "repo": "pwa-badge",
+                "stars": 162
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "",
+              "description": "Needs offline filesystem? SimpleFS provides sweet promise based nodejs file API on top of indexeddb.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 133867052,
+                "language": "JavaScript",
+                "last_commit": "2024-11-14T16:43:19Z",
+                "owner": "fagbokforlaget",
+                "repo": "simple-fs",
+                "stars": 155
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Miscellaneous Utilities"
+        }
+      ],
       "title": "Tools"
     },
     {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "",
-          "description": "Automates PWA asset generation and image declaration. Automatically generates icon and splash screen images, favicons and mstile images.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-06-01T09:35:56Z",
-            "owner": "elegantapp",
-            "repo": "pwa-asset-generator",
-            "stars": 3029
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "",
-          "description": "CLI tool to convert your PWA into a cross-platform desktop app.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2020-06-07T05:32:45Z",
-            "owner": "vladikoff",
-            "repo": "PWAify",
-            "stars": 440
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "",
-          "description": "Generate your Service Worker dynamically, webmanifest, rules for requests, redirects, etc.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2017-10-22T17:50:11Z",
-            "owner": "NascHQ",
-            "repo": "dsw",
-            "stars": 270
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "",
-          "description": "Fetch the from an URL.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2023-06-23T23:34:45Z",
-            "owner": "hemanth",
-            "repo": "fetch-manifest-json",
-            "stars": 6
-          }
-        }
-      ],
-      "title": "Generators and CLIs"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "",
-          "description": "Javascript Library for building progressive web apps",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2026-08-04T00:34:34Z",
-            "owner": "GoogleChrome",
-            "repo": "workbox",
-            "stars": 12979
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "",
-          "description": "A node module to generate service worker code that will precache specific resources",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "JavaScript",
-            "last_commit": "2019-06-09T22:23:40Z",
-            "owner": "GoogleChromeLabs",
-            "repo": "sw-precache",
-            "stars": 5187
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "",
-          "description": "Makes sure your users can always access your site's content, even when they're on a plane, in an elevator, or 20,000 leagues under the sea",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2026-08-03T18:16:11Z",
-            "owner": "TalAter",
-            "repo": "UpUp",
-            "stars": 4919
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "",
-          "description": "A runtime caching library",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "JavaScript",
-            "last_commit": "2019-10-01T12:23:50Z",
-            "owner": "GoogleChromeLabs",
-            "repo": "sw-toolbox",
-            "stars": 3583
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "",
-          "description": "An incremental cache for the web.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2016-08-27T16:23:49Z",
-            "owner": "gmetais",
-            "repo": "sw-delta",
-            "stars": 1099
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "",
-          "description": "An Express-like layer on top of ServiceWorkers to provide a way to easily plug functionality",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "JavaScript",
-            "last_commit": "2021-09-17T08:17:17Z",
-            "owner": "fxos-components",
-            "repo": "serviceworkerware",
-            "stars": 254
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "",
-          "description": "Resumable, integrity-verified downloads for large offline assets. Includes Service Worker mode for transparent verification of all fetch requests.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-04-07T18:53:45Z",
-            "owner": "hamzaydia",
-            "repo": "verifyfetch",
-            "stars": 156
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "",
-          "description": "Proxy Fetch requests through the Background Sync API",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2017-07-30T13:29:28Z",
-            "owner": "sdgluck",
-            "repo": "fetch-background-sync",
-            "stars": 127
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "",
-          "description": "Nifty service worker/client message utility",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2016-08-02T11:16:31Z",
-            "owner": "sdgluck",
-            "repo": "msgr",
-            "stars": 40
-          }
-        }
-      ],
-      "title": "Service Worker Libraries"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "",
-          "description": "Offline plugin (ServiceWorker, AppCache) for webpack (http://webpack.github.io/)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2021-11-08T05:42:32Z",
-            "owner": "NekR",
-            "repo": "offline-plugin",
-            "stars": 4509
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "",
-          "description": "SW Precache Webpack Plugin",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2020-10-15T06:28:22Z",
-            "owner": "goldhand",
-            "repo": "sw-precache-webpack-plugin",
-            "stars": 1435
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "",
-          "description": "Plugin to integrate Service Worker with the Rails asset pipeline.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Ruby",
-            "last_commit": "2026-08-17T13:17:25Z",
-            "owner": "rossta",
-            "repo": "serviceworker-rails",
-            "stars": 584
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "",
-          "description": "Simplifies creation of a service worker to serve your webpack bundles.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2025-09-20T15:13:09Z",
-            "owner": "oliviertassinari",
-            "repo": "serviceworker-webpack-plugin",
-            "stars": 457
-          }
-        }
-      ],
-      "title": "Webpack and Framework Plugins"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "",
-          "description": "Hacker News readers as Progressive Web Apps. A spiritual successor to TodoMVC.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "HTML",
-            "last_commit": "2020-10-06T12:35:07Z",
-            "owner": "tastejs",
-            "repo": "hacker-news-pwas",
-            "stars": 2409
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "",
-          "description": "Easily add a website/PWA to home screen on IOS/Android/Desktop.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-13T01:31:09Z",
-            "owner": "philfung",
-            "repo": "add-to-homescreen",
-            "stars": 343
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "",
-          "description": "A useful modern JavaScript solution that helps your website users to add (install) a progressive web app to the Home Screen of their mobile iOS devices.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2026-02-04T02:02:41Z",
-            "owner": "koddr",
-            "repo": "a2hs.js",
-            "stars": 185
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "",
-          "description": "Badging for PWA app icons, Like Native Apps",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2021-01-12T11:54:06Z",
-            "owner": "ali-master",
-            "repo": "pwa-badge",
-            "stars": 162
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "",
-          "description": "Needs offline filesystem? SimpleFS provides sweet promise based nodejs file API on top of indexeddb.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2024-11-14T16:43:19Z",
-            "owner": "fagbokforlaget",
-            "repo": "simple-fs",
-            "stars": 155
-          }
-        }
-      ],
-      "title": "Miscellaneous Utilities"
-    },
-    {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -362,11 +374,12 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 18511024,
             "language": "HTML",
             "last_commit": "2024-04-22T23:42:34Z",
             "owner": "google",
             "repo": "web-starter-kit",
-            "stars": 18281
+            "stars": 18279
           }
         },
         {
@@ -376,6 +389,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 91839306,
             "language": "JavaScript",
             "last_commit": "2024-03-27T18:12:14Z",
             "owner": "preactjs",
@@ -390,6 +404,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 168835006,
             "language": "JavaScript",
             "last_commit": "2021-02-12T03:50:15Z",
             "owner": "kefranabg",
@@ -404,6 +419,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 51506806,
             "language": "JavaScript",
             "last_commit": "2016-02-21T18:09:15Z",
             "owner": "googlearchive",
@@ -413,15 +429,10 @@
         }
       ],
       "title": "Kits"
-    },
-    {
-      "description": "Contributions are welcome! Please check the guidelines and open a PR.",
-      "items": [],
-      "title": "Contributing"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T07:23:39.757Z",
+    "last_updated": "2026-08-19T07:24:40.582Z",
     "original_repository": "hemanth/awesome-pwa",
     "original_repository_sha": "550377feeb35aaedb3ea74397463e7891d5c051e",
     "enhanced_repository": "enhansome/enhansome-pwa",
