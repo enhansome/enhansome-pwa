@@ -84,7 +84,7 @@
                 "last_commit": "2026-08-04T00:34:34Z",
                 "owner": "GoogleChrome",
                 "repo": "workbox",
-                "stars": 12980
+                "stars": 12983
               }
             },
             {
@@ -114,7 +114,7 @@
                 "last_commit": "2026-08-03T18:16:11Z",
                 "owner": "TalAter",
                 "repo": "UpUp",
-                "stars": 4919
+                "stars": 4918
               }
             },
             {
@@ -379,7 +379,7 @@
             "last_commit": "2024-04-22T23:42:34Z",
             "owner": "google",
             "repo": "web-starter-kit",
-            "stars": 18278
+            "stars": 18276
           }
         },
         {
@@ -432,7 +432,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:47:58.071Z",
+    "last_updated": "2026-08-20T07:26:47.429Z",
     "original_repository": "hemanth/awesome-pwa",
     "original_repository_id": 48058974,
     "original_repository_sha": "550377feeb35aaedb3ea74397463e7891d5c051e",
