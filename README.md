@@ -429,7 +429,7 @@
 * [`sw-precache`](https://github.com/GoogleChrome/sw-precache) ⚠️ Archived: A node module to generate service worker code that will precache specific resources
 * [`UpUp`](https://github.com/TalAter/UpUp) ⭐ 4,918 | 🐛 38 | 🌐 JavaScript | 📅 2026-08-03: Makes sure your users can always access your site's content, even when they're on a plane, in an elevator, or 20,000 leagues under the sea
 * [`sw-toolbox`](https://github.com/GoogleChrome/sw-toolbox) ⚠️ Archived: A runtime caching library
-* [`sw-delta`](https://github.com/gmetais/sw-delta) ⭐ 1,099 | 🐛 5 | 🌐 JavaScript | 📅 2016-08-27: An incremental cache for the web.
+* [`sw-delta`](https://github.com/gmetais/sw-delta) ⭐ 1,098 | 🐛 5 | 🌐 JavaScript | 📅 2016-08-27: An incremental cache for the web.
 * [`serviceworkerware`](https://github.com/fxos-components/serviceworkerware) ⚠️ Archived: An Express-like layer on top of ServiceWorkers to provide a way to easily plug functionality
 * [`verifyfetch`](https://github.com/hamzaydia/verifyfetch) ⭐ 156 | 🐛 0 | 🌐 TypeScript | 📅 2026-04-07: Resumable, integrity-verified downloads for large offline assets. Includes Service Worker mode for transparent verification of all fetch requests.
 * [`fetch-sync`](https://github.com/sdgluck/fetch-sync) ⭐ 127 | 🐛 1 | 🌐 JavaScript | 📅 2017-07-30: Proxy Fetch requests through the Background Sync API
@@ -487,4 +487,4 @@ Contributions are welcome! Please check the guidelines and open a PR.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-20._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-21._
