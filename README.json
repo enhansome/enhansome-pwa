@@ -84,7 +84,7 @@
                 "last_commit": "2026-08-04T00:34:34Z",
                 "owner": "GoogleChrome",
                 "repo": "workbox",
-                "stars": 12985
+                "stars": 12987
               }
             },
             {
@@ -394,7 +394,7 @@
             "last_commit": "2024-03-27T18:12:14Z",
             "owner": "preactjs",
             "repo": "preact-cli",
-            "stars": 4667
+            "stars": 4668
           }
         },
         {
@@ -432,7 +432,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T07:18:13.186Z",
+    "last_updated": "2026-08-23T07:19:44.671Z",
     "original_repository": "hemanth/awesome-pwa",
     "original_repository_id": 48058974,
     "original_repository_sha": "550377feeb35aaedb3ea74397463e7891d5c051e",
