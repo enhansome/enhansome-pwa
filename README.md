@@ -65,7 +65,7 @@
 ### Audio and Video
 
 * [BitMidi](https://bitmidi.com): Listen to your favorite MIDI files.
-* [Foldergram](https://github.com/foldergram/foldergram) ⭐ 540 | 🐛 14 | 🌐 TypeScript | 📅 2026-08-23: Local-only photo and video gallery for folders, with an Instagram-inspired browsing pattern.
+* [Foldergram](https://github.com/foldergram/foldergram) ⭐ 541 | 🐛 13 | 🌐 TypeScript | 📅 2026-08-23: Local-only photo and video gallery for folders, with an Instagram-inspired browsing pattern.
 * [guitar-tuner](https://aerotwist.com/blog/guitar-tuner/): Aerotwist Guitar Tuner
 * [Joybox](https://joybox.rosano.ca): A pinboard for audiovisual media.
 * [Lofimusic.app](https://lofimusic.app/): Online radio Radio
@@ -487,4 +487,4 @@ Contributions are welcome! Please check the guidelines and open a PR.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-23._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-24._
