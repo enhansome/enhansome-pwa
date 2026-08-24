@@ -7,7 +7,123 @@
           "children": [
             {
               "node_type": "item",
-              "title": "",
+              "title": "Foldergram",
+              "description": "Local-only photo and video gallery for folders, with an Instagram-inspired browsing pattern.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1181781009,
+                "language": "TypeScript",
+                "last_commit": "2026-08-23T09:50:23Z",
+                "owner": "foldergram",
+                "repo": "foldergram",
+                "stars": 541
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Audio and Video"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "ghChat",
+              "description": "Chat application for GitHub.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 134268716,
+                "language": "JavaScript",
+                "last_commit": "2023-01-04T11:17:17Z",
+                "owner": "aermin",
+                "repo": "ghChat",
+                "stars": 929
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Communication and Social"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Demo PWA",
+              "description": "Demonstrating offline, push notifications, background sync etc.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 48673613,
+                "language": "JavaScript",
+                "last_commit": "2023-11-27T13:21:49Z",
+                "owner": "gokulkrishh",
+                "repo": "demo-progressive-web-app",
+                "stars": 967
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Development and Design"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Shiori",
+              "description": "Open-source AI study companion — SRS flashcards, GPA predictor, Gemini AI study plans, AI quiz generator, habit tracker. Installable PWA, works offline. Google Classroom sync. GitHub",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1204562963,
+                "language": "JavaScript",
+                "last_commit": "2026-07-25T10:24:26Z",
+                "owner": "kaorii-ako",
+                "repo": "Shiori-v1",
+                "stars": 44
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Education and Reading"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Notella",
+              "description": "No fluff notes app.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 77296931,
+                "language": "JavaScript",
+                "last_commit": "2025-07-15T19:36:26Z",
+                "owner": "siddharthkp",
+                "repo": "notella",
+                "stars": 278
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Tools and Utilities"
+        }
+      ],
+      "title": "Apps"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "pwa-asset-generator",
               "description": "Automates PWA asset generation and image declaration. Automatically generates icon and splash screen images, favicons and mstile images.",
               "children": [],
               "repo_info": {
@@ -17,12 +133,12 @@
                 "last_commit": "2026-06-01T09:35:56Z",
                 "owner": "elegantapp",
                 "repo": "pwa-asset-generator",
-                "stars": 3029
+                "stars": 3030
               }
             },
             {
               "node_type": "item",
-              "title": "",
+              "title": "PWAify",
               "description": "CLI tool to convert your PWA into a cross-platform desktop app.",
               "children": [],
               "repo_info": {
@@ -37,7 +153,7 @@
             },
             {
               "node_type": "item",
-              "title": "",
+              "title": "dsw",
               "description": "Generate your Service Worker dynamically, webmanifest, rules for requests, redirects, etc.",
               "children": [],
               "repo_info": {
@@ -52,7 +168,7 @@
             },
             {
               "node_type": "item",
-              "title": "",
+              "title": "fetch-manifest-json",
               "description": "Fetch the from an URL.",
               "children": [],
               "repo_info": {
@@ -74,7 +190,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "",
+              "title": "workbox",
               "description": "Javascript Library for building progressive web apps",
               "children": [],
               "repo_info": {
@@ -89,7 +205,7 @@
             },
             {
               "node_type": "item",
-              "title": "",
+              "title": "sw-precache",
               "description": "A node module to generate service worker code that will precache specific resources",
               "children": [],
               "repo_info": {
@@ -104,7 +220,7 @@
             },
             {
               "node_type": "item",
-              "title": "",
+              "title": "UpUp",
               "description": "Makes sure your users can always access your site's content, even when they're on a plane, in an elevator, or 20,000 leagues under the sea",
               "children": [],
               "repo_info": {
@@ -119,7 +235,7 @@
             },
             {
               "node_type": "item",
-              "title": "",
+              "title": "sw-toolbox",
               "description": "A runtime caching library",
               "children": [],
               "repo_info": {
@@ -134,7 +250,7 @@
             },
             {
               "node_type": "item",
-              "title": "",
+              "title": "sw-delta",
               "description": "An incremental cache for the web.",
               "children": [],
               "repo_info": {
@@ -149,7 +265,7 @@
             },
             {
               "node_type": "item",
-              "title": "",
+              "title": "serviceworkerware",
               "description": "An Express-like layer on top of ServiceWorkers to provide a way to easily plug functionality",
               "children": [],
               "repo_info": {
@@ -164,7 +280,7 @@
             },
             {
               "node_type": "item",
-              "title": "",
+              "title": "verifyfetch",
               "description": "Resumable, integrity-verified downloads for large offline assets. Includes Service Worker mode for transparent verification of all fetch requests.",
               "children": [],
               "repo_info": {
@@ -179,7 +295,7 @@
             },
             {
               "node_type": "item",
-              "title": "",
+              "title": "fetch-background-sync",
               "description": "Proxy Fetch requests through the Background Sync API",
               "children": [],
               "repo_info": {
@@ -194,7 +310,7 @@
             },
             {
               "node_type": "item",
-              "title": "",
+              "title": "msgr",
               "description": "Nifty service worker/client message utility",
               "children": [],
               "repo_info": {
@@ -216,7 +332,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "",
+              "title": "offline-plugin",
               "description": "Offline plugin (ServiceWorker, AppCache) for webpack (http://webpack.github.io/)",
               "children": [],
               "repo_info": {
@@ -231,7 +347,7 @@
             },
             {
               "node_type": "item",
-              "title": "",
+              "title": "sw-precache-webpack-plugin",
               "description": "SW Precache Webpack Plugin",
               "children": [],
               "repo_info": {
@@ -246,7 +362,7 @@
             },
             {
               "node_type": "item",
-              "title": "",
+              "title": "serviceworker-rails",
               "description": "Plugin to integrate Service Worker with the Rails asset pipeline.",
               "children": [],
               "repo_info": {
@@ -261,7 +377,7 @@
             },
             {
               "node_type": "item",
-              "title": "",
+              "title": "serviceworker-webpack-plugin",
               "description": "Simplifies creation of a service worker to serve your webpack bundles.",
               "children": [],
               "repo_info": {
@@ -283,7 +399,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "",
+              "title": "hacker-news-pwas",
               "description": "Hacker News readers as Progressive Web Apps. A spiritual successor to TodoMVC.",
               "children": [],
               "repo_info": {
@@ -298,7 +414,7 @@
             },
             {
               "node_type": "item",
-              "title": "",
+              "title": "add-to-homescreen",
               "description": "Easily add a website/PWA to home screen on IOS/Android/Desktop.",
               "children": [],
               "repo_info": {
@@ -313,7 +429,7 @@
             },
             {
               "node_type": "item",
-              "title": "",
+              "title": "a2hs.js",
               "description": "A useful modern JavaScript solution that helps your website users to add (install) a progressive web app to the Home Screen of their mobile iOS devices.",
               "children": [],
               "repo_info": {
@@ -328,7 +444,7 @@
             },
             {
               "node_type": "item",
-              "title": "",
+              "title": "pwa-badge",
               "description": "Badging for PWA app icons, Like Native Apps",
               "children": [],
               "repo_info": {
@@ -343,7 +459,7 @@
             },
             {
               "node_type": "item",
-              "title": "",
+              "title": "simple-fs",
               "description": "Needs offline filesystem? SimpleFS provides sweet promise based nodejs file API on top of indexeddb.",
               "children": [],
               "repo_info": {
@@ -369,7 +485,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "",
+          "title": "web-starter-kit",
           "description": "A workflow for multi-device websites.",
           "children": [],
           "repo_info": {
@@ -379,7 +495,7 @@
             "last_commit": "2024-04-22T23:42:34Z",
             "owner": "google",
             "repo": "web-starter-kit",
-            "stars": 18275
+            "stars": 18274
           }
         },
         {
@@ -399,7 +515,7 @@
         },
         {
           "node_type": "item",
-          "title": "",
+          "title": "bento-starter",
           "description": "Full-stack solution to build Progressive Web Apps.",
           "children": [],
           "repo_info": {
@@ -414,7 +530,7 @@
         },
         {
           "node_type": "item",
-          "title": "",
+          "title": "progressive-webapp-config",
           "description": "A simple set of skeleton files for shipping a Progressive Web App.",
           "children": [],
           "repo_info": {
@@ -432,7 +548,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T07:43:42.092Z",
+    "last_updated": "2026-08-24T13:55:43.896Z",
     "original_repository": "hemanth/awesome-pwa",
     "original_repository_id": 48058974,
     "original_repository_sha": "550377feeb35aaedb3ea74397463e7891d5c051e",

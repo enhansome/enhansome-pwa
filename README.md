@@ -64,8 +64,8 @@
 
 ### Audio and Video
 
-* [BitMidi](https://bitmidi.com): Listen to your favorite MIDI files.
 * [Foldergram](https://github.com/foldergram/foldergram) ⭐ 541 | 🐛 13 | 🌐 TypeScript | 📅 2026-08-23: Local-only photo and video gallery for folders, with an Instagram-inspired browsing pattern.
+* [BitMidi](https://bitmidi.com): Listen to your favorite MIDI files.
 * [guitar-tuner](https://aerotwist.com/blog/guitar-tuner/): Aerotwist Guitar Tuner
 * [Joybox](https://joybox.rosano.ca): A pinboard for audiovisual media.
 * [Lofimusic.app](https://lofimusic.app/): Online radio Radio
@@ -102,11 +102,11 @@
 
 ### Communication and Social
 
+* [ghChat](https://github.com/aermin/ghChat) ⭐ 929 | 🐛 53 | 🌐 JavaScript | 📅 2023-01-04: Chat application for GitHub.
 * [Bloom Pro](https://bloompro.de/): Bloom Pro – Your Grow Journal - Keep track of your grows
 * [Chitchatter](https://chitchatter.im/): Secure peer-to-peer chat that is serverless, decentralized, and ephemeral
 * [Datememe](https://www.datememe.com): Online dating.
 * [emberclear](https://emberclear.io): Encrypted Chat. No History. No Logs.
-* [ghChat](https://github.com/aermin/ghChat) ⭐ 929 | 🐛 53 | 🌐 JavaScript | 📅 2023-01-04: Chat application for GitHub.
 * [Google Duo](https://duo.google.com/): Video Calling.
 * [Medium](https://medium.com/): Writing space.
 * [Messages for web (by google)](https://messages.google.com/web/): 400
@@ -118,12 +118,12 @@
 
 ### Development and Design
 
+* [Demo PWA](https://github.com/gokulkrishh/demo-progressive-web-app) ⭐ 967 | 🐛 2 | 🌐 JavaScript | 📅 2023-11-27: Demonstrating offline, push notifications, background sync etc.
 * [3D House Editor](https://3dhouseplanner.com/app2.php): Free 3D floor planner
 * [ampproject](https://www.ampproject.org): Web component framework.
 * [Bento-starter](https://bento-starter.firebaseapp.com): Open-Source Full-Stack solution for fast PWA development
 * [bundle](https://bundle.js.org/): A quick and easy way to bundle, minify, and compress (gzip and brotli) your ts, js, jsx and npm projects all online, with the resulting file size.
 * [ColorBeta](https://colorbeta.com): Advanced CSS Gradient Generator
-* [Demo PWA](https://github.com/gokulkrishh/demo-progressive-web-app) ⭐ 967 | 🐛 2 | 🌐 JavaScript | 📅 2023-11-27: Demonstrating offline, push notifications, background sync etc.
 * [DevDocs](https://devdocs.io/): API Documentation Browser
 * [Hyperdraft](https://hyperdraft.rosano.ca): Turn your text notes into a website.
 * [JSON Formatter](https://jsonformatter.live/): Minimalist JSON formatter.
@@ -144,9 +144,9 @@
 
 ### Education and Reading
 
+* [Shiori](https://shiori-v1.vercel.app): Open-source AI study companion — SRS flashcards, GPA predictor, Gemini AI study plans, AI quiz generator, habit tracker. Installable PWA, works offline. Google Classroom sync. [GitHub](https://github.com/kaorii-ako/Shiori-v1) ⭐ 44 | 🐛 6 | 🌐 JavaScript | 📅 2026-07-25
 * [Booksie](https://www.booksie.org/): An open catalog of free picture storybooks for children instantly available for reading.
 * [EPUB Player](https://epubplayer.com): A fully-featured audiobook player with Audible/Spotify-like UX, powered by local TTS models. Turn your EPUBs into audiobooks entirely in-browser.
-* [Shiori](https://shiori-v1.vercel.app): Open-source AI study companion — SRS flashcards, GPA predictor, Gemini AI study plans, AI quiz generator, habit tracker. Installable PWA, works offline. Google Classroom sync. [GitHub](https://github.com/kaorii-ako/Shiori-v1) ⭐ 44 | 🐛 6 | 🌐 JavaScript | 📅 2026-07-25
 * [Kommit](https://kommit.rosano.ca): Create flashcards and learn them with spaced-repetition.
 * [PracticeLoop](https://teal-semifreddo-cad4ad.netlify.app/): Slow down & loop YouTube videos for music practice with progressive speed training.
 * [Room TBA](https://room-tba.uplbtools.me): Offline-capable campus map PWA for finding rooms, class schedules, and transit routes on OpenStreetMap data.
@@ -230,6 +230,7 @@
 
 ### Tools and Utilities
 
+* [Notella](https://github.com/siddharthkp/notella) ⭐ 278 | 🐛 4 | 🌐 JavaScript | 📅 2025-07-15: No fluff notes app.
 * [2brew](https://2brew.github.io/): PWA timer for coffee brewing
 * [AlarmDJ](https://alarmdj.com): Online alarm clock that plays MP3 files or YouTube videos.
 * [Anonynote](https://anonynote.org): Note-taking app.
@@ -246,7 +247,6 @@
 * [MConverter](https://mconverter.eu): Online file converter.
 * [Morse Code Translator](https://morsedecoder.com/): Morse Code tools
 * [Nanocell-csv](https://www.nanocell-csv.com/): A lightweight, cross platform, open-source, PWA CSV file viewer and editor
-* [Notella](https://github.com/siddharthkp/notella) ⭐ 278 | 🐛 4 | 🌐 JavaScript | 📅 2025-07-15: No fluff notes app.
 * [OmniConvert](https://tools.sagasu.art): Free, open-source file and unit converter — 94 formats, 345 units, 100% client-side with WebAssembly.
 * [Passky](https://vault.passky.org/): Free and open-source Password Manager
 * [PasteePad](https://pasteepad.com/): Free and simple notepad app
@@ -414,7 +414,7 @@
 
 ### Generators and CLIs
 
-* [`PWA Asset Generator`](https://github.com/elegantapp/pwa-asset-generator) ⭐ 3,029 | 🐛 51 | 🌐 TypeScript | 📅 2026-06-01: Automates PWA asset generation and image declaration. Automatically generates icon and splash screen images, favicons and mstile images.
+* [`PWA Asset Generator`](https://github.com/elegantapp/pwa-asset-generator) ⭐ 3,030 | 🐛 51 | 🌐 TypeScript | 📅 2026-06-01: Automates PWA asset generation and image declaration. Automatically generates icon and splash screen images, favicons and mstile images.
 * [`PWAify`](https://github.com/vladikoff/PWAify) ⭐ 440 | 🐛 12 | 🌐 JavaScript | 📅 2020-06-07: CLI tool to convert your PWA into a cross-platform desktop app.
 * [`DSW`](https://github.com/naschq/dsw) ⭐ 270 | 🐛 5 | 🌐 JavaScript | 📅 2017-10-22: Generate your Service Worker dynamically, webmanifest, rules for requests, redirects, etc.
 * [`fetch-manifest-json`](https://github.com/hemanth/fetch-manifest-json) ⭐ 6 | 🐛 11 | 🌐 JavaScript | 📅 2023-06-23: Fetch the `mainfest.json` from an URL.
