@@ -17,7 +17,7 @@
                 "last_commit": "2026-08-23T09:50:23Z",
                 "owner": "foldergram",
                 "repo": "foldergram",
-                "stars": 541
+                "stars": 542
               }
             }
           ],
@@ -133,7 +133,7 @@
                 "last_commit": "2026-06-01T09:35:56Z",
                 "owner": "elegantapp",
                 "repo": "pwa-asset-generator",
-                "stars": 3029
+                "stars": 3030
               }
             },
             {
@@ -290,7 +290,7 @@
                 "last_commit": "2026-04-07T18:53:45Z",
                 "owner": "hamzaydia",
                 "repo": "verifyfetch",
-                "stars": 156
+                "stars": 157
               }
             },
             {
@@ -424,7 +424,7 @@
                 "last_commit": "2026-08-13T01:31:09Z",
                 "owner": "philfung",
                 "repo": "add-to-homescreen",
-                "stars": 343
+                "stars": 344
               }
             },
             {
@@ -548,9 +548,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T07:31:09.559Z",
-    "original_repository": "hemanth/awesome-pwa",
-    "original_repository_id": 48058974,
+    "last_updated": "2026-08-27T12:01:05.071Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 48058974,
+      "language": "JavaScript",
+      "last_commit": "2026-08-10T05:18:51Z",
+      "owner": "hemanth",
+      "repo": "awesome-pwa",
+      "stars": 4898
+    },
     "original_repository_sha": "550377feeb35aaedb3ea74397463e7891d5c051e",
     "enhanced_repository": "enhansome/enhansome-pwa",
     "enhanced_repository_description": null,
