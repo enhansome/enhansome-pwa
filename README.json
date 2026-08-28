@@ -17,8 +17,9 @@
                 "last_commit": "2026-08-23T09:50:23Z",
                 "owner": "foldergram",
                 "repo": "foldergram",
-                "stars": 542
-              }
+                "stars": 543
+              },
+              "first_seen": "2026-08-28T19:00:17.247Z"
             }
           ],
           "description": null,
@@ -40,7 +41,8 @@
                 "owner": "aermin",
                 "repo": "ghChat",
                 "stars": 928
-              }
+              },
+              "first_seen": "2026-08-28T19:00:17.247Z"
             }
           ],
           "description": null,
@@ -62,7 +64,8 @@
                 "owner": "gokulkrishh",
                 "repo": "demo-progressive-web-app",
                 "stars": 968
-              }
+              },
+              "first_seen": "2026-08-28T19:00:17.247Z"
             }
           ],
           "description": null,
@@ -84,7 +87,8 @@
                 "owner": "kaorii-ako",
                 "repo": "Shiori-v1",
                 "stars": 44
-              }
+              },
+              "first_seen": "2026-08-28T19:00:17.247Z"
             }
           ],
           "description": null,
@@ -106,7 +110,8 @@
                 "owner": "siddharthkp",
                 "repo": "notella",
                 "stars": 278
-              }
+              },
+              "first_seen": "2026-08-28T19:00:17.247Z"
             }
           ],
           "description": null,
@@ -134,7 +139,8 @@
                 "owner": "elegantapp",
                 "repo": "pwa-asset-generator",
                 "stars": 3030
-              }
+              },
+              "first_seen": "2026-08-28T19:00:17.247Z"
             },
             {
               "node_type": "item",
@@ -149,7 +155,8 @@
                 "owner": "vladikoff",
                 "repo": "PWAify",
                 "stars": 440
-              }
+              },
+              "first_seen": "2026-08-28T19:00:17.247Z"
             },
             {
               "node_type": "item",
@@ -164,7 +171,8 @@
                 "owner": "NascHQ",
                 "repo": "dsw",
                 "stars": 270
-              }
+              },
+              "first_seen": "2026-08-28T19:00:17.247Z"
             },
             {
               "node_type": "item",
@@ -179,7 +187,8 @@
                 "owner": "hemanth",
                 "repo": "fetch-manifest-json",
                 "stars": 6
-              }
+              },
+              "first_seen": "2026-08-28T19:00:17.247Z"
             }
           ],
           "description": null,
@@ -200,8 +209,9 @@
                 "last_commit": "2026-08-04T00:34:34Z",
                 "owner": "GoogleChrome",
                 "repo": "workbox",
-                "stars": 12992
-              }
+                "stars": 12995
+              },
+              "first_seen": "2026-08-28T19:00:17.247Z"
             },
             {
               "node_type": "item",
@@ -216,7 +226,8 @@
                 "owner": "GoogleChromeLabs",
                 "repo": "sw-precache",
                 "stars": 5187
-              }
+              },
+              "first_seen": "2026-08-28T19:00:17.247Z"
             },
             {
               "node_type": "item",
@@ -231,7 +242,8 @@
                 "owner": "TalAter",
                 "repo": "UpUp",
                 "stars": 4918
-              }
+              },
+              "first_seen": "2026-08-28T19:00:17.247Z"
             },
             {
               "node_type": "item",
@@ -246,7 +258,8 @@
                 "owner": "GoogleChromeLabs",
                 "repo": "sw-toolbox",
                 "stars": 3583
-              }
+              },
+              "first_seen": "2026-08-28T19:00:17.247Z"
             },
             {
               "node_type": "item",
@@ -261,7 +274,8 @@
                 "owner": "gmetais",
                 "repo": "sw-delta",
                 "stars": 1098
-              }
+              },
+              "first_seen": "2026-08-28T19:00:17.247Z"
             },
             {
               "node_type": "item",
@@ -276,7 +290,8 @@
                 "owner": "fxos-components",
                 "repo": "serviceworkerware",
                 "stars": 254
-              }
+              },
+              "first_seen": "2026-08-28T19:00:17.247Z"
             },
             {
               "node_type": "item",
@@ -291,7 +306,8 @@
                 "owner": "hamzaydia",
                 "repo": "verifyfetch",
                 "stars": 157
-              }
+              },
+              "first_seen": "2026-08-28T19:00:17.247Z"
             },
             {
               "node_type": "item",
@@ -306,7 +322,8 @@
                 "owner": "sdgluck",
                 "repo": "fetch-background-sync",
                 "stars": 127
-              }
+              },
+              "first_seen": "2026-08-28T19:00:17.247Z"
             },
             {
               "node_type": "item",
@@ -321,7 +338,8 @@
                 "owner": "sdgluck",
                 "repo": "msgr",
                 "stars": 40
-              }
+              },
+              "first_seen": "2026-08-28T19:00:17.247Z"
             }
           ],
           "description": null,
@@ -343,7 +361,8 @@
                 "owner": "NekR",
                 "repo": "offline-plugin",
                 "stars": 4509
-              }
+              },
+              "first_seen": "2026-08-28T19:00:17.247Z"
             },
             {
               "node_type": "item",
@@ -358,7 +377,8 @@
                 "owner": "goldhand",
                 "repo": "sw-precache-webpack-plugin",
                 "stars": 1435
-              }
+              },
+              "first_seen": "2026-08-28T19:00:17.247Z"
             },
             {
               "node_type": "item",
@@ -373,7 +393,8 @@
                 "owner": "rossta",
                 "repo": "serviceworker-rails",
                 "stars": 584
-              }
+              },
+              "first_seen": "2026-08-28T19:00:17.247Z"
             },
             {
               "node_type": "item",
@@ -388,7 +409,8 @@
                 "owner": "oliviertassinari",
                 "repo": "serviceworker-webpack-plugin",
                 "stars": 457
-              }
+              },
+              "first_seen": "2026-08-28T19:00:17.247Z"
             }
           ],
           "description": null,
@@ -410,7 +432,8 @@
                 "owner": "tastejs",
                 "repo": "hacker-news-pwas",
                 "stars": 2410
-              }
+              },
+              "first_seen": "2026-08-28T19:00:17.247Z"
             },
             {
               "node_type": "item",
@@ -425,7 +448,8 @@
                 "owner": "philfung",
                 "repo": "add-to-homescreen",
                 "stars": 344
-              }
+              },
+              "first_seen": "2026-08-28T19:00:17.247Z"
             },
             {
               "node_type": "item",
@@ -440,7 +464,8 @@
                 "owner": "koddr",
                 "repo": "a2hs.js",
                 "stars": 185
-              }
+              },
+              "first_seen": "2026-08-28T19:00:17.247Z"
             },
             {
               "node_type": "item",
@@ -455,7 +480,8 @@
                 "owner": "ali-master",
                 "repo": "pwa-badge",
                 "stars": 162
-              }
+              },
+              "first_seen": "2026-08-28T19:00:17.247Z"
             },
             {
               "node_type": "item",
@@ -470,7 +496,8 @@
                 "owner": "fagbokforlaget",
                 "repo": "simple-fs",
                 "stars": 155
-              }
+              },
+              "first_seen": "2026-08-28T19:00:17.247Z"
             }
           ],
           "description": null,
@@ -496,7 +523,8 @@
             "owner": "google",
             "repo": "web-starter-kit",
             "stars": 18274
-          }
+          },
+          "first_seen": "2026-08-28T19:00:17.247Z"
         },
         {
           "node_type": "item",
@@ -511,7 +539,8 @@
             "owner": "preactjs",
             "repo": "preact-cli",
             "stars": 4668
-          }
+          },
+          "first_seen": "2026-08-28T19:00:17.247Z"
         },
         {
           "node_type": "item",
@@ -526,7 +555,8 @@
             "owner": "kefranabg",
             "repo": "bento-starter",
             "stars": 1512
-          }
+          },
+          "first_seen": "2026-08-28T19:00:17.247Z"
         },
         {
           "node_type": "item",
@@ -541,14 +571,15 @@
             "owner": "googlearchive",
             "repo": "progressive-webapp-config",
             "stars": 89
-          }
+          },
+          "first_seen": "2026-08-28T19:00:17.247Z"
         }
       ],
       "title": "Kits"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T17:53:50.141Z",
+    "last_updated": "2026-08-28T19:00:17.247Z",
     "original_repository_info": {
       "archived": false,
       "id": 48058974,
@@ -556,7 +587,7 @@
       "last_commit": "2026-08-10T05:18:51Z",
       "owner": "hemanth",
       "repo": "awesome-pwa",
-      "stars": 4898
+      "stars": 4900
     },
     "original_repository_sha": "550377feeb35aaedb3ea74397463e7891d5c051e",
     "enhanced_repository": "enhansome/enhansome-pwa",
