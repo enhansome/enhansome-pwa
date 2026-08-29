@@ -12,12 +12,34 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Self-hosted folder-based Instagram-style photo and video gallery app.",
+                "homepage": "https://foldergram.github.io",
                 "id": 1181781009,
                 "language": "TypeScript",
+                "license": "AGPL-3.0",
                 "last_commit": "2026-08-23T09:50:23Z",
+                "open_issues": 13,
                 "owner": "foldergram",
                 "repo": "foldergram",
-                "stars": 543
+                "stars": 543,
+                "topics": [
+                  "docker",
+                  "express",
+                  "ffmpeg",
+                  "folder-based",
+                  "instagram",
+                  "local-first",
+                  "media-gallery",
+                  "nodejs",
+                  "photo-gallery",
+                  "pwa-app",
+                  "self-hosted",
+                  "sqlite",
+                  "typescript",
+                  "video-gallery",
+                  "vite",
+                  "vue"
+                ]
               },
               "first_seen": "2026-08-28T19:00:17.247Z"
             }
@@ -35,12 +57,33 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": ":octocat: 📱A chat application for GitHub. React + PWA + Node(koa2) + Typescripts  + Mysql  + Socket.io",
+                "homepage": "https://im.aermin.top/group_chat/ddbffd80-3663-11e9-a580-d119b23ef62e",
                 "id": 134268716,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2023-01-04T11:17:17Z",
+                "open_issues": 53,
                 "owner": "aermin",
                 "repo": "ghChat",
-                "stars": 928
+                "stars": 928,
+                "topics": [
+                  "axios",
+                  "chat",
+                  "im",
+                  "jwt",
+                  "koa2",
+                  "mysql",
+                  "nodejs",
+                  "pwa",
+                  "react",
+                  "react-router",
+                  "redux",
+                  "scss",
+                  "socket-io",
+                  "typescript",
+                  "webpack"
+                ]
               },
               "first_seen": "2026-08-28T19:00:17.247Z"
             }
@@ -58,12 +101,33 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🎉 Demo for Progressive Web Application and its features.",
+                "homepage": "https://demopwa.surge.sh",
                 "id": 48673613,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2023-11-27T13:21:49Z",
+                "open_issues": 2,
                 "owner": "gokulkrishh",
                 "repo": "demo-progressive-web-app",
-                "stars": 968
+                "stars": 968,
+                "topics": [
+                  "addtohomescreen",
+                  "background-sync",
+                  "google-chrome",
+                  "manifest-json",
+                  "notifications",
+                  "offline",
+                  "progressive-web-app",
+                  "push-notifications",
+                  "pwa",
+                  "pwa-app",
+                  "pwa-apps",
+                  "pwa-example",
+                  "snackbar",
+                  "splash-screen",
+                  "webshare"
+                ]
               },
               "first_seen": "2026-08-28T19:00:17.247Z"
             }
@@ -81,12 +145,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Open-source AI study companion — Google Classroom sync, Gemini AI plans, SRS flashcards, GPA predictor, AI quiz, MCP server for Claude Code. Try demo at shiori-v1.vercel.app",
+                "homepage": "https://shiori-v1.vercel.app",
                 "id": 1204562963,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-07-25T10:24:26Z",
+                "open_issues": 6,
                 "owner": "kaorii-ako",
                 "repo": "Shiori-v1",
-                "stars": 44
+                "stars": 44,
+                "topics": [
+                  "ai",
+                  "docker",
+                  "education",
+                  "flashcards",
+                  "gemini",
+                  "google-classroom",
+                  "gpa-calculator",
+                  "mcp-server",
+                  "open-source",
+                  "pomodoro",
+                  "productivity",
+                  "pwa",
+                  "react",
+                  "self-hosted",
+                  "spaced-repetition",
+                  "student",
+                  "study-planner",
+                  "supabase",
+                  "typescript",
+                  "vite"
+                ]
               },
               "first_seen": "2026-08-28T19:00:17.247Z"
             }
@@ -104,12 +194,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "No fluff notes app",
+                "homepage": "https://siddharthkp.github.io/notella",
                 "id": 77296931,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2025-07-15T19:36:26Z",
+                "open_issues": 4,
                 "owner": "siddharthkp",
                 "repo": "notella",
-                "stars": 278
+                "stars": 278,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:00:17.247Z"
             }
@@ -133,12 +228,37 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Automates PWA asset generation and image declaration. Automatically generates icon and splash screen images, favicons and mstile images. Updates manifest.json and index.html files with the generated images according to Web App Manifest specs and Apple Human Interface guidelines.",
+                "homepage": null,
                 "id": 201535836,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-06-01T09:35:56Z",
+                "open_issues": 51,
                 "owner": "elegantapp",
                 "repo": "pwa-asset-generator",
-                "stars": 3030
+                "stars": 3030,
+                "topics": [
+                  "android",
+                  "favicon",
+                  "favicon-generator",
+                  "html-tags",
+                  "icon",
+                  "icon-sizes",
+                  "image-generation",
+                  "ios",
+                  "launch-image",
+                  "manifest",
+                  "manifest-specs",
+                  "mstile",
+                  "progressive-web-app",
+                  "progressive-web-apps",
+                  "puppeteer",
+                  "pwa",
+                  "pwa-assets",
+                  "splash-screen",
+                  "splash-screens"
+                ]
               },
               "first_seen": "2026-08-28T19:00:17.247Z"
             },
@@ -149,12 +269,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🖥  Brings Progressive Web App to your desktop.",
+                "homepage": null,
                 "id": 60727390,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2020-06-07T05:32:45Z",
+                "open_issues": 12,
                 "owner": "vladikoff",
                 "repo": "PWAify",
-                "stars": 440
+                "stars": 440,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:00:17.247Z"
             },
@@ -165,12 +290,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Dynamic Service Worker - making your offline Progressive Web Apps way easier",
+                "homepage": null,
                 "id": 62770579,
                 "language": "JavaScript",
+                "license": "NOASSERTION",
                 "last_commit": "2017-10-22T17:50:11Z",
+                "open_issues": 5,
                 "owner": "NascHQ",
                 "repo": "dsw",
-                "stars": 270
+                "stars": 270,
+                "topics": [
+                  "dynamic-service-worker",
+                  "indexeddb",
+                  "notification-api",
+                  "offline",
+                  "redirect-requests",
+                  "service-worker"
+                ]
               },
               "first_seen": "2026-08-28T19:00:17.247Z"
             },
@@ -181,12 +318,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "fetch manifest.json",
+                "homepage": "https://git.io/fetch-manifest-json",
                 "id": 61376095,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2023-06-23T23:34:45Z",
+                "open_issues": 11,
                 "owner": "hemanth",
                 "repo": "fetch-manifest-json",
-                "stars": 6
+                "stars": 6,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:00:17.247Z"
             }
@@ -204,12 +346,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "📦 Workbox: JavaScript libraries for Progressive Web Apps",
+                "homepage": "https://developers.google.com/web/tools/workbox/",
                 "id": 55424670,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-08-04T00:34:34Z",
+                "open_issues": 103,
                 "owner": "GoogleChrome",
                 "repo": "workbox",
-                "stars": 12995
+                "stars": 12995,
+                "topics": [
+                  "offline-first",
+                  "progressive-web-app",
+                  "service-worker",
+                  "service-workers",
+                  "sw-precache",
+                  "sw-toolbox"
+                ]
               },
               "first_seen": "2026-08-28T19:00:17.247Z"
             },
@@ -220,12 +374,24 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "[Deprecated] A node module to generate service worker code that will precache specific resources so they work offline.",
+                "homepage": "https://developers.google.com/web/tools/workbox/guides/migrations/migrate-from-sw",
                 "id": 28489249,
                 "language": "JavaScript",
+                "license": "Apache-2.0",
                 "last_commit": "2019-06-09T22:23:40Z",
+                "open_issues": 58,
                 "owner": "GoogleChromeLabs",
                 "repo": "sw-precache",
-                "stars": 5187
+                "stars": 5187,
+                "topics": [
+                  "javascript",
+                  "offline",
+                  "offline-first",
+                  "progressive-web-app",
+                  "service-worker",
+                  "service-workers"
+                ]
               },
               "first_seen": "2026-08-28T19:00:17.247Z"
             },
@@ -236,12 +402,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "✈️ Easily create sites that work offline as well as online",
+                "homepage": "https://www.talater.com/upup/",
                 "id": 32018674,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-08-03T18:16:11Z",
+                "open_issues": 38,
                 "owner": "TalAter",
                 "repo": "UpUp",
-                "stars": 4918
+                "stars": 4918,
+                "topics": [
+                  "hacktoberfest",
+                  "offline",
+                  "offline-first",
+                  "progressive-web-app",
+                  "pwa",
+                  "service-worker"
+                ]
               },
               "first_seen": "2026-08-28T19:00:17.247Z"
             },
@@ -252,12 +430,24 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "[Deprecated] A collection of service worker tools for offlining runtime requests",
+                "homepage": "https://developers.google.com/web/tools/workbox/guides/migrations/migrate-from-sw",
                 "id": 34268206,
                 "language": "JavaScript",
+                "license": "Apache-2.0",
                 "last_commit": "2019-10-01T12:23:50Z",
+                "open_issues": 56,
                 "owner": "GoogleChromeLabs",
                 "repo": "sw-toolbox",
-                "stars": 3583
+                "stars": 3583,
+                "topics": [
+                  "caching",
+                  "javascript",
+                  "offline-first",
+                  "progressive-web-app",
+                  "service-worker",
+                  "service-workers"
+                ]
               },
               "first_seen": "2026-08-28T19:00:17.247Z"
             },
@@ -268,12 +458,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An incremental cache for the web",
+                "homepage": null,
                 "id": 42822012,
                 "language": "JavaScript",
+                "license": "GPL-2.0",
                 "last_commit": "2016-08-27T16:23:49Z",
+                "open_issues": 5,
                 "owner": "gmetais",
                 "repo": "sw-delta",
-                "stars": 1098
+                "stars": 1098,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:00:17.247Z"
             },
@@ -284,12 +479,20 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "DEPRECATED - An Express-like layer on top of Service Workers to provide a way to easily plug functionality.",
+                "homepage": null,
                 "id": 31429789,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2021-09-17T08:17:17Z",
+                "open_issues": 0,
                 "owner": "fxos-components",
                 "repo": "serviceworkerware",
-                "stars": 254
+                "stars": 254,
+                "topics": [
+                  "abandoned",
+                  "unmaintained"
+                ]
               },
               "first_seen": "2026-08-28T19:00:17.247Z"
             },
@@ -300,12 +503,37 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Your users download a 4GB AI model, the connection drops at 3.8GB, verifyfetch resumes from 3.8GB and verifies every byte. Drop-in integrity verification for Transformers.js, WebLLM, and any large file in the browser.",
+                "homepage": "https://verifyfetch.com",
                 "id": 1141810923,
                 "language": "TypeScript",
+                "license": "Apache-2.0",
                 "last_commit": "2026-04-07T18:53:45Z",
+                "open_issues": 0,
                 "owner": "hamzaydia",
                 "repo": "verifyfetch",
-                "stars": 157
+                "stars": 157,
+                "topics": [
+                  "ai-models",
+                  "browser",
+                  "fetch",
+                  "huggingface",
+                  "integrity",
+                  "javascript",
+                  "model-verification",
+                  "nodejs",
+                  "onnx",
+                  "resumable-downloads",
+                  "security",
+                  "sri",
+                  "supply-chain",
+                  "transformers-js",
+                  "typescript",
+                  "verification",
+                  "wasm",
+                  "web-ai",
+                  "webllm"
+                ]
               },
               "first_seen": "2026-08-28T19:00:17.247Z"
             },
@@ -316,12 +544,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": ":v: Proxy fetch requests through the Background Sync API",
+                "homepage": null,
                 "id": 52563169,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2017-07-30T13:29:28Z",
+                "open_issues": 1,
                 "owner": "sdgluck",
                 "repo": "fetch-background-sync",
-                "stars": 127
+                "stars": 127,
+                "topics": [
+                  "background-sync",
+                  "service-workers"
+                ]
               },
               "first_seen": "2026-08-28T19:00:17.247Z"
             },
@@ -332,12 +568,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": ":mailbox_closed: Nifty service worker/client message utility",
+                "homepage": null,
                 "id": 61029352,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2016-08-02T11:16:31Z",
+                "open_issues": 0,
                 "owner": "sdgluck",
                 "repo": "msgr",
-                "stars": 40
+                "stars": 40,
+                "topics": [
+                  "message-handler",
+                  "service-worker"
+                ]
               },
               "first_seen": "2026-08-28T19:00:17.247Z"
             }
@@ -355,12 +599,33 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Offline plugin  (ServiceWorker, AppCache) for webpack (https://webpack.js.org/)",
+                "homepage": null,
                 "id": 42321571,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2021-11-08T05:42:32Z",
+                "open_issues": 110,
                 "owner": "NekR",
                 "repo": "offline-plugin",
-                "stars": 4509
+                "stars": 4509,
+                "topics": [
+                  "appcache",
+                  "application-cache",
+                  "caching",
+                  "javascript",
+                  "offline",
+                  "offline-first",
+                  "plugin",
+                  "progressive-web-app",
+                  "pwa",
+                  "service-worker",
+                  "service-workers",
+                  "serviceworker",
+                  "storage",
+                  "webpack",
+                  "webpack-plugin"
+                ]
               },
               "first_seen": "2026-08-28T19:00:17.247Z"
             },
@@ -371,12 +636,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Webpack plugin that generates a service worker using sw-precache that will cache webpack's bundles' emitted assets. You can optionally pass sw-precache configuration options to webpack through this plugin.",
+                "homepage": null,
                 "id": 59926845,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2020-10-15T06:28:22Z",
+                "open_issues": 26,
                 "owner": "goldhand",
                 "repo": "sw-precache-webpack-plugin",
-                "stars": 1435
+                "stars": 1435,
+                "topics": [
+                  "offline",
+                  "progressive-web-app",
+                  "service-workers",
+                  "sw-guide",
+                  "sw-precache",
+                  "webpack-plugin"
+                ]
               },
               "first_seen": "2026-08-28T19:00:17.247Z"
             },
@@ -387,12 +664,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Use Service Worker with the Rails asset pipeline",
+                "homepage": null,
                 "id": 56937166,
                 "language": "Ruby",
+                "license": "MIT",
                 "last_commit": "2026-08-17T13:17:25Z",
+                "open_issues": 0,
                 "owner": "rossta",
                 "repo": "serviceworker-rails",
-                "stars": 584
+                "stars": 584,
+                "topics": [
+                  "javascript",
+                  "rails",
+                  "rails-asset-pipeline",
+                  "service-worker",
+                  "sprockets"
+                ]
               },
               "first_seen": "2026-08-28T19:00:17.247Z"
             },
@@ -403,12 +691,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Simplifies creation of a service worker to serve your webpack bundles. :recycle:",
+                "homepage": "https://oliviertassinari.github.io/serviceworker-webpack-plugin/",
                 "id": 60124445,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2025-09-20T15:13:09Z",
+                "open_issues": 24,
                 "owner": "oliviertassinari",
                 "repo": "serviceworker-webpack-plugin",
-                "stars": 457
+                "stars": 457,
+                "topics": [
+                  "plugin",
+                  "serviceworker",
+                  "webpack"
+                ]
               },
               "first_seen": "2026-08-28T19:00:17.247Z"
             }
@@ -426,12 +723,25 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "HNPWA - Hacker News readers as Progressive Web Apps 📱",
+                "homepage": "https://hnpwa.com",
                 "id": 86204319,
                 "language": "HTML",
+                "license": null,
                 "last_commit": "2020-10-06T12:35:07Z",
+                "open_issues": 34,
                 "owner": "tastejs",
                 "repo": "hacker-news-pwas",
-                "stars": 2410
+                "stars": 2410,
+                "topics": [
+                  "code-splitting",
+                  "hacker",
+                  "hacker-news-reader",
+                  "lighthouse",
+                  "news",
+                  "progressive-web-app",
+                  "prpl"
+                ]
               },
               "first_seen": "2026-08-28T19:00:17.247Z"
             },
@@ -442,12 +752,36 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Easily add website to your IOS/Android/Desktop homescreen.",
+                "homepage": "https://philfung.github.io/adhs",
                 "id": 679005779,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-13T01:31:09Z",
+                "open_issues": 4,
                 "owner": "philfung",
                 "repo": "add-to-homescreen",
-                "stars": 344
+                "stars": 344,
+                "topics": [
+                  "add-to-homescreen",
+                  "desktop",
+                  "desktop-app",
+                  "desktop-application",
+                  "desktop-apps",
+                  "manifest-json",
+                  "mobile-app",
+                  "mobile-detect",
+                  "mobile-detection",
+                  "mobile-development",
+                  "mobile-web",
+                  "mobile-web-app",
+                  "mobile-website",
+                  "pwa",
+                  "pwa-apps",
+                  "standalone",
+                  "standalone-app",
+                  "webapp"
+                ]
               },
               "first_seen": "2026-08-28T19:00:17.247Z"
             },
@@ -458,12 +792,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "📲 A useful modern JavaScript solution that helps your website users to add (install) a progressive web application (PWA) to the Home Screen of their mobile iOS devices.",
+                "homepage": "https://github.com/koddr/a2hs.js",
                 "id": 185619141,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-02-04T02:02:41Z",
+                "open_issues": 10,
                 "owner": "koddr",
                 "repo": "a2hs.js",
-                "stars": 185
+                "stars": 185,
+                "topics": [
+                  "css-animation",
+                  "css3",
+                  "homescreen",
+                  "ios",
+                  "ipad",
+                  "iphone",
+                  "ipodtouch",
+                  "javascript",
+                  "js",
+                  "progressive-web-app",
+                  "pwa"
+                ]
               },
               "first_seen": "2026-08-28T19:00:17.247Z"
             },
@@ -474,12 +825,34 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Badging for PWA app icons, Like Native Apps",
+                "homepage": null,
                 "id": 327434590,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2021-01-12T11:54:06Z",
+                "open_issues": 1,
                 "owner": "ali-master",
                 "repo": "pwa-badge",
-                "stars": 162
+                "stars": 162,
+                "topics": [
+                  "android",
+                  "angular",
+                  "badge-api",
+                  "badge-count",
+                  "icon",
+                  "ios",
+                  "javascript",
+                  "macos",
+                  "progressive-web-app",
+                  "progressive-web-apps",
+                  "pwa",
+                  "pwa-apps",
+                  "react",
+                  "reactpwa",
+                  "vue",
+                  "windows"
+                ]
               },
               "first_seen": "2026-08-28T19:00:17.247Z"
             },
@@ -490,12 +863,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Handles files on indexeddb like you would do in node.js (promise)",
+                "homepage": null,
                 "id": 133867052,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2024-11-14T16:43:19Z",
+                "open_issues": 7,
                 "owner": "fagbokforlaget",
                 "repo": "simple-fs",
-                "stars": 155
+                "stars": 155,
+                "topics": [
+                  "browser",
+                  "filesystem",
+                  "indexeddb",
+                  "javascript",
+                  "promise"
+                ]
               },
               "first_seen": "2026-08-28T19:00:17.247Z"
             }
@@ -517,12 +901,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Web Starter Kit - a workflow for multi-device websites",
+            "homepage": "http://developers.google.com/web/starter-kit",
             "id": 18511024,
             "language": "HTML",
+            "license": "Apache-2.0",
             "last_commit": "2024-04-22T23:42:34Z",
+            "open_issues": 74,
             "owner": "google",
             "repo": "web-starter-kit",
-            "stars": 18274
+            "stars": 18274,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:00:17.247Z"
         },
@@ -533,12 +922,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "😺 Your next Preact PWA starts in 30 seconds.",
+            "homepage": null,
             "id": 91839306,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2024-03-27T18:12:14Z",
+            "open_issues": 77,
             "owner": "preactjs",
             "repo": "preact-cli",
-            "stars": 4668
+            "stars": 4668,
+            "topics": [
+              "cli",
+              "hacktoberfest",
+              "http2",
+              "preact",
+              "prpl",
+              "pwa",
+              "starter-kit"
+            ]
           },
           "first_seen": "2026-08-28T19:00:17.247Z"
         },
@@ -549,12 +951,31 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":bento: Full-Stack solution to quickly build PWA applications with Vue.js and Firebase",
+            "homepage": "https://bento-starter.firebaseapp.com",
             "id": 168835006,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2021-02-12T03:50:15Z",
+            "open_issues": 23,
             "owner": "kefranabg",
             "repo": "bento-starter",
-            "stars": 1512
+            "stars": 1512,
+            "topics": [
+              "circleci",
+              "firebase",
+              "firebase-auth",
+              "firebase-firestore",
+              "firebase-hosting",
+              "offline",
+              "prerendering",
+              "pwa",
+              "service-worker",
+              "starter",
+              "template",
+              "vuejs",
+              "vuex"
+            ]
           },
           "first_seen": "2026-08-28T19:00:17.247Z"
         },
@@ -565,12 +986,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Generalised Progressive Web App skeleton",
+            "homepage": null,
             "id": 51506806,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2016-02-21T18:09:15Z",
+            "open_issues": 1,
             "owner": "googlearchive",
             "repo": "progressive-webapp-config",
-            "stars": 89
+            "stars": 89,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:00:17.247Z"
         }
@@ -579,15 +1005,27 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T19:00:17.247Z",
+    "last_updated": "2026-08-29T04:22:48.834Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A curated list of Progressive Web Apps, resources, tools and articles",
+      "homepage": "https://hemanth.github.io/awesome-pwa/",
       "id": 48058974,
       "language": "JavaScript",
+      "license": null,
       "last_commit": "2026-08-10T05:18:51Z",
+      "open_issues": 31,
       "owner": "hemanth",
       "repo": "awesome-pwa",
-      "stars": 4900
+      "stars": 4900,
+      "topics": [
+        "awesome-list",
+        "modern-web",
+        "progressive-web-app",
+        "pwa",
+        "service-worker",
+        "web-development"
+      ]
     },
     "original_repository_sha": "550377feeb35aaedb3ea74397463e7891d5c051e",
     "enhanced_repository": "enhansome/enhansome-pwa",
