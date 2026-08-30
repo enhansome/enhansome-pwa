@@ -1005,7 +1005,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T12:49:45.819Z",
+    "last_updated": "2026-08-30T12:13:26.861Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Progressive Web Apps, resources, tools and articles",
@@ -1014,10 +1014,10 @@
       "language": "JavaScript",
       "license": null,
       "last_commit": "2026-08-10T05:18:51Z",
-      "open_issues": 33,
+      "open_issues": 34,
       "owner": "hemanth",
       "repo": "awesome-pwa",
-      "stars": 4900,
+      "stars": 4901,
       "topics": [
         "awesome-list",
         "modern-web",
