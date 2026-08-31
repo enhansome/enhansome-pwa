@@ -18,7 +18,7 @@
                 "language": "TypeScript",
                 "license": "AGPL-3.0",
                 "last_commit": "2026-08-23T09:50:23Z",
-                "open_issues": 13,
+                "open_issues": 14,
                 "owner": "foldergram",
                 "repo": "foldergram",
                 "stars": 543,
@@ -931,7 +931,7 @@
             "open_issues": 77,
             "owner": "preactjs",
             "repo": "preact-cli",
-            "stars": 4668,
+            "stars": 4667,
             "topics": [
               "cli",
               "hacktoberfest",
@@ -1005,7 +1005,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-30T12:13:26.861Z",
+    "last_updated": "2026-08-31T14:24:47.648Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Progressive Web Apps, resources, tools and articles",
@@ -1014,10 +1014,10 @@
       "language": "JavaScript",
       "license": null,
       "last_commit": "2026-08-10T05:18:51Z",
-      "open_issues": 34,
+      "open_issues": 35,
       "owner": "hemanth",
       "repo": "awesome-pwa",
-      "stars": 4901,
+      "stars": 4902,
       "topics": [
         "awesome-list",
         "modern-web",
