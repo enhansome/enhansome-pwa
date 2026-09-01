@@ -18,10 +18,10 @@
                 "language": "TypeScript",
                 "license": "AGPL-3.0",
                 "last_commit": "2026-08-23T09:50:23Z",
-                "open_issues": 14,
+                "open_issues": 15,
                 "owner": "foldergram",
                 "repo": "foldergram",
-                "stars": 543,
+                "stars": 547,
                 "topics": [
                   "docker",
                   "express",
@@ -237,7 +237,7 @@
                 "open_issues": 51,
                 "owner": "elegantapp",
                 "repo": "pwa-asset-generator",
-                "stars": 3030,
+                "stars": 3031,
                 "topics": [
                   "android",
                   "favicon",
@@ -411,7 +411,7 @@
                 "open_issues": 38,
                 "owner": "TalAter",
                 "repo": "UpUp",
-                "stars": 4918,
+                "stars": 4917,
                 "topics": [
                   "hacktoberfest",
                   "offline",
@@ -1005,7 +1005,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-31T14:24:47.648Z",
+    "last_updated": "2026-09-01T12:00:45.638Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Progressive Web Apps, resources, tools and articles",
@@ -1014,7 +1014,7 @@
       "language": "JavaScript",
       "license": null,
       "last_commit": "2026-08-10T05:18:51Z",
-      "open_issues": 35,
+      "open_issues": 38,
       "owner": "hemanth",
       "repo": "awesome-pwa",
       "stars": 4902,
