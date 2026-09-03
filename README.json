@@ -21,7 +21,7 @@
                 "open_issues": 16,
                 "owner": "foldergram",
                 "repo": "foldergram",
-                "stars": 549,
+                "stars": 550,
                 "topics": [
                   "docker",
                   "express",
@@ -237,7 +237,7 @@
                 "open_issues": 51,
                 "owner": "elegantapp",
                 "repo": "pwa-asset-generator",
-                "stars": 3031,
+                "stars": 3032,
                 "topics": [
                   "android",
                   "favicon",
@@ -351,11 +351,11 @@
                 "id": 55424670,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-09-02T10:46:48Z",
-                "open_issues": 85,
+                "last_commit": "2026-09-02T14:24:25Z",
+                "open_issues": 70,
                 "owner": "GoogleChrome",
                 "repo": "workbox",
-                "stars": 12997,
+                "stars": 12999,
                 "topics": [
                   "offline-first",
                   "progressive-web-app",
@@ -512,7 +512,7 @@
                 "open_issues": 0,
                 "owner": "hamzaydia",
                 "repo": "verifyfetch",
-                "stars": 157,
+                "stars": 158,
                 "topics": [
                   "ai-models",
                   "browser",
@@ -669,8 +669,8 @@
                 "id": 56937166,
                 "language": "Ruby",
                 "license": "MIT",
-                "last_commit": "2026-08-17T13:17:25Z",
-                "open_issues": 0,
+                "last_commit": "2026-09-03T11:11:03Z",
+                "open_issues": 1,
                 "owner": "rossta",
                 "repo": "serviceworker-rails",
                 "stars": 584,
@@ -1005,7 +1005,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-02T11:43:26.002Z",
+    "last_updated": "2026-09-03T11:43:02.280Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Progressive Web Apps, resources, tools and articles",
@@ -1014,10 +1014,10 @@
       "language": "JavaScript",
       "license": null,
       "last_commit": "2026-08-10T05:18:51Z",
-      "open_issues": 39,
+      "open_issues": 41,
       "owner": "hemanth",
       "repo": "awesome-pwa",
-      "stars": 4902,
+      "stars": 4903,
       "topics": [
         "awesome-list",
         "modern-web",
