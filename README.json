@@ -17,11 +17,11 @@
                 "id": 1181781009,
                 "language": "TypeScript",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-08-23T09:50:23Z",
+                "last_commit": "2026-09-03T13:45:08Z",
                 "open_issues": 16,
                 "owner": "foldergram",
                 "repo": "foldergram",
-                "stars": 550,
+                "stars": 552,
                 "topics": [
                   "docker",
                   "express",
@@ -237,7 +237,7 @@
                 "open_issues": 51,
                 "owner": "elegantapp",
                 "repo": "pwa-asset-generator",
-                "stars": 3032,
+                "stars": 3031,
                 "topics": [
                   "android",
                   "favicon",
@@ -355,7 +355,7 @@
                 "open_issues": 70,
                 "owner": "GoogleChrome",
                 "repo": "workbox",
-                "stars": 12999,
+                "stars": 13001,
                 "topics": [
                   "offline-first",
                   "progressive-web-app",
@@ -411,7 +411,7 @@
                 "open_issues": 38,
                 "owner": "TalAter",
                 "repo": "UpUp",
-                "stars": 4917,
+                "stars": 4918,
                 "topics": [
                   "hacktoberfest",
                   "offline",
@@ -761,7 +761,7 @@
                 "open_issues": 4,
                 "owner": "philfung",
                 "repo": "add-to-homescreen",
-                "stars": 344,
+                "stars": 343,
                 "topics": [
                   "add-to-homescreen",
                   "desktop",
@@ -910,7 +910,7 @@
             "open_issues": 74,
             "owner": "google",
             "repo": "web-starter-kit",
-            "stars": 18274,
+            "stars": 18272,
             "topics": []
           },
           "first_seen": "2026-08-28T19:00:17.247Z"
@@ -1005,7 +1005,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-03T11:43:02.280Z",
+    "last_updated": "2026-09-04T11:44:05.199Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Progressive Web Apps, resources, tools and articles",
@@ -1014,10 +1014,10 @@
       "language": "JavaScript",
       "license": null,
       "last_commit": "2026-08-10T05:18:51Z",
-      "open_issues": 41,
+      "open_issues": 42,
       "owner": "hemanth",
       "repo": "awesome-pwa",
-      "stars": 4903,
+      "stars": 4905,
       "topics": [
         "awesome-list",
         "modern-web",
