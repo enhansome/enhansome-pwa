@@ -18,10 +18,10 @@
                 "language": "TypeScript",
                 "license": "AGPL-3.0",
                 "last_commit": "2026-09-03T13:45:08Z",
-                "open_issues": 16,
+                "open_issues": 17,
                 "owner": "foldergram",
                 "repo": "foldergram",
-                "stars": 552,
+                "stars": 554,
                 "topics": [
                   "docker",
                   "express",
@@ -278,7 +278,7 @@
                 "open_issues": 12,
                 "owner": "vladikoff",
                 "repo": "PWAify",
-                "stars": 440,
+                "stars": 439,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:00:17.247Z"
@@ -439,7 +439,7 @@
                 "open_issues": 56,
                 "owner": "GoogleChromeLabs",
                 "repo": "sw-toolbox",
-                "stars": 3583,
+                "stars": 3581,
                 "topics": [
                   "caching",
                   "javascript",
@@ -1005,7 +1005,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-04T11:44:05.199Z",
+    "last_updated": "2026-09-05T10:54:58.959Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Progressive Web Apps, resources, tools and articles",
