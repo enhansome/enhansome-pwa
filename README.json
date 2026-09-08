@@ -21,7 +21,7 @@
                 "open_issues": 17,
                 "owner": "foldergram",
                 "repo": "foldergram",
-                "stars": 555,
+                "stars": 557,
                 "topics": [
                   "docker",
                   "express",
@@ -110,7 +110,7 @@
                 "open_issues": 2,
                 "owner": "gokulkrishh",
                 "repo": "demo-progressive-web-app",
-                "stars": 968,
+                "stars": 967,
                 "topics": [
                   "addtohomescreen",
                   "background-sync",
@@ -383,7 +383,7 @@
                 "open_issues": 58,
                 "owner": "GoogleChromeLabs",
                 "repo": "sw-precache",
-                "stars": 5187,
+                "stars": 5185,
                 "topics": [
                   "javascript",
                   "offline",
@@ -608,7 +608,7 @@
                 "open_issues": 110,
                 "owner": "NekR",
                 "repo": "offline-plugin",
-                "stars": 4509,
+                "stars": 4508,
                 "topics": [
                   "appcache",
                   "application-cache",
@@ -910,7 +910,7 @@
             "open_issues": 74,
             "owner": "google",
             "repo": "web-starter-kit",
-            "stars": 18272,
+            "stars": 18271,
             "topics": []
           },
           "first_seen": "2026-08-28T19:00:17.247Z"
@@ -1005,7 +1005,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-07T13:00:56.814Z",
+    "last_updated": "2026-09-08T11:44:05.003Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Progressive Web Apps, resources, tools and articles",
@@ -1014,10 +1014,10 @@
       "language": "JavaScript",
       "license": null,
       "last_commit": "2026-08-10T05:18:51Z",
-      "open_issues": 43,
+      "open_issues": 44,
       "owner": "hemanth",
       "repo": "awesome-pwa",
-      "stars": 4907,
+      "stars": 4908,
       "topics": [
         "awesome-list",
         "modern-web",
