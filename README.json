@@ -233,8 +233,8 @@
                 "id": 201535836,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-06-01T09:35:56Z",
-                "open_issues": 52,
+                "last_commit": "2026-09-10T14:49:42Z",
+                "open_issues": 53,
                 "owner": "elegantapp",
                 "repo": "pwa-asset-generator",
                 "stars": 3033,
@@ -355,7 +355,7 @@
                 "open_issues": 70,
                 "owner": "GoogleChrome",
                 "repo": "workbox",
-                "stars": 13006,
+                "stars": 13007,
                 "topics": [
                   "offline-first",
                   "progressive-web-app",
@@ -1005,7 +1005,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-10T11:49:06.531Z",
+    "last_updated": "2026-09-11T11:48:14.593Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Progressive Web Apps, resources, tools and articles",
