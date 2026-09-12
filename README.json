@@ -355,7 +355,7 @@
                 "open_issues": 70,
                 "owner": "GoogleChrome",
                 "repo": "workbox",
-                "stars": 13007,
+                "stars": 13009,
                 "topics": [
                   "offline-first",
                   "progressive-web-app",
@@ -383,7 +383,7 @@
                 "open_issues": 58,
                 "owner": "GoogleChromeLabs",
                 "repo": "sw-precache",
-                "stars": 5184,
+                "stars": 5183,
                 "topics": [
                   "javascript",
                   "offline",
@@ -411,7 +411,7 @@
                 "open_issues": 40,
                 "owner": "TalAter",
                 "repo": "UpUp",
-                "stars": 4918,
+                "stars": 4919,
                 "topics": [
                   "hacktoberfest",
                   "offline",
@@ -608,7 +608,7 @@
                 "open_issues": 110,
                 "owner": "NekR",
                 "repo": "offline-plugin",
-                "stars": 4507,
+                "stars": 4508,
                 "topics": [
                   "appcache",
                   "application-cache",
@@ -758,7 +758,7 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2026-08-13T01:31:09Z",
-                "open_issues": 4,
+                "open_issues": 7,
                 "owner": "philfung",
                 "repo": "add-to-homescreen",
                 "stars": 343,
@@ -931,7 +931,7 @@
             "open_issues": 77,
             "owner": "preactjs",
             "repo": "preact-cli",
-            "stars": 4666,
+            "stars": 4665,
             "topics": [
               "cli",
               "hacktoberfest",
@@ -1005,7 +1005,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-11T11:48:14.593Z",
+    "last_updated": "2026-09-12T11:15:07.692Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Progressive Web Apps, resources, tools and articles",
@@ -1014,10 +1014,10 @@
       "language": "JavaScript",
       "license": null,
       "last_commit": "2026-08-10T05:18:51Z",
-      "open_issues": 44,
+      "open_issues": 46,
       "owner": "hemanth",
       "repo": "awesome-pwa",
-      "stars": 4910,
+      "stars": 4913,
       "topics": [
         "awesome-list",
         "modern-web",
