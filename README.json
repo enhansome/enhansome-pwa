@@ -21,7 +21,7 @@
                 "open_issues": 17,
                 "owner": "foldergram",
                 "repo": "foldergram",
-                "stars": 557,
+                "stars": 558,
                 "topics": [
                   "docker",
                   "express",
@@ -237,7 +237,7 @@
                 "open_issues": 53,
                 "owner": "elegantapp",
                 "repo": "pwa-asset-generator",
-                "stars": 3033,
+                "stars": 3032,
                 "topics": [
                   "android",
                   "favicon",
@@ -355,7 +355,7 @@
                 "open_issues": 70,
                 "owner": "GoogleChrome",
                 "repo": "workbox",
-                "stars": 13009,
+                "stars": 13011,
                 "topics": [
                   "offline-first",
                   "progressive-web-app",
@@ -608,7 +608,7 @@
                 "open_issues": 110,
                 "owner": "NekR",
                 "repo": "offline-plugin",
-                "stars": 4508,
+                "stars": 4509,
                 "topics": [
                   "appcache",
                   "application-cache",
@@ -910,7 +910,7 @@
             "open_issues": 74,
             "owner": "google",
             "repo": "web-starter-kit",
-            "stars": 18269,
+            "stars": 18270,
             "topics": []
           },
           "first_seen": "2026-08-28T19:00:17.247Z"
@@ -1005,7 +1005,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-12T11:15:07.692Z",
+    "last_updated": "2026-09-13T12:16:39.192Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Progressive Web Apps, resources, tools and articles",
@@ -1017,7 +1017,7 @@
       "open_issues": 46,
       "owner": "hemanth",
       "repo": "awesome-pwa",
-      "stars": 4913,
+      "stars": 4914,
       "topics": [
         "awesome-list",
         "modern-web",
