@@ -110,7 +110,7 @@
                 "open_issues": 2,
                 "owner": "gokulkrishh",
                 "repo": "demo-progressive-web-app",
-                "stars": 967,
+                "stars": 968,
                 "topics": [
                   "addtohomescreen",
                   "background-sync",
@@ -355,7 +355,7 @@
                 "open_issues": 70,
                 "owner": "GoogleChrome",
                 "repo": "workbox",
-                "stars": 13011,
+                "stars": 13013,
                 "topics": [
                   "offline-first",
                   "progressive-web-app",
@@ -411,7 +411,7 @@
                 "open_issues": 40,
                 "owner": "TalAter",
                 "repo": "UpUp",
-                "stars": 4919,
+                "stars": 4918,
                 "topics": [
                   "hacktoberfest",
                   "offline",
@@ -1005,7 +1005,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-13T12:16:39.192Z",
+    "last_updated": "2026-09-14T13:21:04.469Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Progressive Web Apps, resources, tools and articles",
@@ -1014,10 +1014,10 @@
       "language": "JavaScript",
       "license": null,
       "last_commit": "2026-08-10T05:18:51Z",
-      "open_issues": 46,
+      "open_issues": 47,
       "owner": "hemanth",
       "repo": "awesome-pwa",
-      "stars": 4914,
+      "stars": 4915,
       "topics": [
         "awesome-list",
         "modern-web",

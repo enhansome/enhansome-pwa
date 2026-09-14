@@ -118,7 +118,7 @@
 
 ### Development and Design
 
-* [Demo PWA](https://github.com/gokulkrishh/demo-progressive-web-app) ⭐ 967 | 🐛 2 | 🌐 JavaScript | 📅 2023-11-27: Demonstrating offline, push notifications, background sync etc.
+* [Demo PWA](https://github.com/gokulkrishh/demo-progressive-web-app) ⭐ 968 | 🐛 2 | 🌐 JavaScript | 📅 2023-11-27: Demonstrating offline, push notifications, background sync etc.
 * [3D House Editor](https://3dhouseplanner.com/app2.php): Free 3D floor planner
 * [ampproject](https://www.ampproject.org): Web component framework.
 * [Bento-starter](https://bento-starter.firebaseapp.com): Open-Source Full-Stack solution for fast PWA development
@@ -425,9 +425,9 @@
 
 ### Service Worker Libraries
 
-* [`Workbox`](https://github.com/GoogleChrome/workbox) ⭐ 13,011 | 🐛 70 | 🌐 JavaScript | 📅 2026-09-02: Javascript Library for building progressive web apps
+* [`Workbox`](https://github.com/GoogleChrome/workbox) ⭐ 13,013 | 🐛 70 | 🌐 JavaScript | 📅 2026-09-02: Javascript Library for building progressive web apps
 * [`sw-precache`](https://github.com/GoogleChrome/sw-precache) ⚠️ Archived: A node module to generate service worker code that will precache specific resources
-* [`UpUp`](https://github.com/TalAter/UpUp) ⭐ 4,919 | 🐛 40 | 🌐 JavaScript | 📅 2026-09-09: Makes sure your users can always access your site's content, even when they're on a plane, in an elevator, or 20,000 leagues under the sea
+* [`UpUp`](https://github.com/TalAter/UpUp) ⭐ 4,918 | 🐛 40 | 🌐 JavaScript | 📅 2026-09-09: Makes sure your users can always access your site's content, even when they're on a plane, in an elevator, or 20,000 leagues under the sea
 * [`sw-toolbox`](https://github.com/GoogleChrome/sw-toolbox) ⚠️ Archived: A runtime caching library
 * [`sw-delta`](https://github.com/gmetais/sw-delta) ⭐ 1,096 | 🐛 5 | 🌐 JavaScript | 📅 2016-08-27: An incremental cache for the web.
 * [`serviceworkerware`](https://github.com/fxos-components/serviceworkerware) ⚠️ Archived: An Express-like layer on top of ServiceWorkers to provide a way to easily plug functionality
@@ -487,4 +487,4 @@ Contributions are welcome! Please check the guidelines and open a PR.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-13._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-14._
