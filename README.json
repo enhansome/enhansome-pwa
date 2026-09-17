@@ -233,11 +233,11 @@
                 "id": 201535836,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-16T11:30:53Z",
-                "open_issues": 54,
+                "last_commit": "2026-09-17T03:38:54Z",
+                "open_issues": 52,
                 "owner": "elegantapp",
                 "repo": "pwa-asset-generator",
-                "stars": 3033,
+                "stars": 3032,
                 "topics": [
                   "android",
                   "favicon",
@@ -608,7 +608,7 @@
                 "open_issues": 110,
                 "owner": "NekR",
                 "repo": "offline-plugin",
-                "stars": 4510,
+                "stars": 4509,
                 "topics": [
                   "appcache",
                   "application-cache",
@@ -910,7 +910,7 @@
             "open_issues": 74,
             "owner": "google",
             "repo": "web-starter-kit",
-            "stars": 18269,
+            "stars": 18268,
             "topics": []
           },
           "first_seen": "2026-08-28T19:00:17.247Z"
@@ -1005,7 +1005,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-16T12:02:40.858Z",
+    "last_updated": "2026-09-17T12:05:21.042Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Progressive Web Apps, resources, tools and articles",

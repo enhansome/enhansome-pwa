@@ -414,7 +414,7 @@
 
 ### Generators and CLIs
 
-* [`PWA Asset Generator`](https://github.com/elegantapp/pwa-asset-generator) ⭐ 3,033 | 🐛 54 | 🌐 TypeScript | 📅 2026-09-16: Automates PWA asset generation and image declaration. Automatically generates icon and splash screen images, favicons and mstile images.
+* [`PWA Asset Generator`](https://github.com/elegantapp/pwa-asset-generator) ⭐ 3,032 | 🐛 52 | 🌐 TypeScript | 📅 2026-09-17: Automates PWA asset generation and image declaration. Automatically generates icon and splash screen images, favicons and mstile images.
 * [`PWAify`](https://github.com/vladikoff/PWAify) ⭐ 439 | 🐛 12 | 🌐 JavaScript | 📅 2020-06-07: CLI tool to convert your PWA into a cross-platform desktop app.
 * [`DSW`](https://github.com/naschq/dsw) ⭐ 268 | 🐛 5 | 🌐 JavaScript | 📅 2017-10-22: Generate your Service Worker dynamically, webmanifest, rules for requests, redirects, etc.
 * [`fetch-manifest-json`](https://github.com/hemanth/fetch-manifest-json) ⭐ 6 | 🐛 11 | 🌐 JavaScript | 📅 2023-06-23: Fetch the `mainfest.json` from an URL.
@@ -437,7 +437,7 @@
 
 ### Webpack and Framework Plugins
 
-* [`offline-plugin`](https://github.com/NekR/offline-plugin) ⭐ 4,510 | 🐛 110 | 🌐 JavaScript | 📅 2021-11-08: Offline plugin (ServiceWorker, AppCache) for webpack (<http://webpack.github.io/>)
+* [`offline-plugin`](https://github.com/NekR/offline-plugin) ⭐ 4,509 | 🐛 110 | 🌐 JavaScript | 📅 2021-11-08: Offline plugin (ServiceWorker, AppCache) for webpack (<http://webpack.github.io/>)
 * [`sw-precache-webpack-plugin`](https://github.com/goldhand/sw-precache-webpack-plugin) ⭐ 1,435 | 🐛 26 | 🌐 JavaScript | 📅 2020-10-15: SW Precache Webpack Plugin
 * [`serviceworker-rails`](https://github.com/rossta/serviceworker-rails) ⭐ 584 | 🐛 1 | 🌐 Ruby | 📅 2026-09-03: Plugin to integrate Service Worker with the Rails asset pipeline.
 * [`serviceworker-webpack-plugin`](https://github.com/oliviertassinari/serviceworker-webpack-plugin) ⭐ 457 | 🐛 24 | 🌐 JavaScript | 📅 2025-09-20: Simplifies creation of a service worker to serve your webpack bundles.
@@ -487,4 +487,4 @@ Contributions are welcome! Please check the guidelines and open a PR.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-16._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-17._
