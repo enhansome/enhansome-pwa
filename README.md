@@ -118,7 +118,7 @@
 
 ### Development and Design
 
-* [Demo PWA](https://github.com/gokulkrishh/demo-progressive-web-app) ⭐ 968 | 🐛 2 | 🌐 JavaScript | 📅 2023-11-27: Demonstrating offline, push notifications, background sync etc.
+* [Demo PWA](https://github.com/gokulkrishh/demo-progressive-web-app) ⭐ 969 | 🐛 2 | 🌐 JavaScript | 📅 2023-11-27: Demonstrating offline, push notifications, background sync etc.
 * [3D House Editor](https://3dhouseplanner.com/app2.php): Free 3D floor planner
 * [ampproject](https://www.ampproject.org): Web component framework.
 * [Bento-starter](https://bento-starter.firebaseapp.com): Open-Source Full-Stack solution for fast PWA development
@@ -414,7 +414,7 @@
 
 ### Generators and CLIs
 
-* [`PWA Asset Generator`](https://github.com/elegantapp/pwa-asset-generator) ⭐ 3,032 | 🐛 52 | 🌐 TypeScript | 📅 2026-09-17: Automates PWA asset generation and image declaration. Automatically generates icon and splash screen images, favicons and mstile images.
+* [`PWA Asset Generator`](https://github.com/elegantapp/pwa-asset-generator) ⭐ 3,033 | 🐛 52 | 🌐 TypeScript | 📅 2026-09-17: Automates PWA asset generation and image declaration. Automatically generates icon and splash screen images, favicons and mstile images.
 * [`PWAify`](https://github.com/vladikoff/PWAify) ⭐ 439 | 🐛 12 | 🌐 JavaScript | 📅 2020-06-07: CLI tool to convert your PWA into a cross-platform desktop app.
 * [`DSW`](https://github.com/naschq/dsw) ⭐ 268 | 🐛 5 | 🌐 JavaScript | 📅 2017-10-22: Generate your Service Worker dynamically, webmanifest, rules for requests, redirects, etc.
 * [`fetch-manifest-json`](https://github.com/hemanth/fetch-manifest-json) ⭐ 6 | 🐛 11 | 🌐 JavaScript | 📅 2023-06-23: Fetch the `mainfest.json` from an URL.
@@ -425,7 +425,7 @@
 
 ### Service Worker Libraries
 
-* [`Workbox`](https://github.com/GoogleChrome/workbox) ⭐ 13,015 | 🐛 70 | 🌐 JavaScript | 📅 2026-09-02: Javascript Library for building progressive web apps
+* [`Workbox`](https://github.com/GoogleChrome/workbox) ⭐ 13,017 | 🐛 71 | 🌐 JavaScript | 📅 2026-09-02: Javascript Library for building progressive web apps
 * [`sw-precache`](https://github.com/GoogleChrome/sw-precache) ⚠️ Archived: A node module to generate service worker code that will precache specific resources
 * [`UpUp`](https://github.com/TalAter/UpUp) ⭐ 4,919 | 🐛 40 | 🌐 JavaScript | 📅 2026-09-09: Makes sure your users can always access your site's content, even when they're on a plane, in an elevator, or 20,000 leagues under the sea
 * [`sw-toolbox`](https://github.com/GoogleChrome/sw-toolbox) ⚠️ Archived: A runtime caching library
@@ -449,7 +449,7 @@
 ### Miscellaneous Utilities
 
 * [`HNPWA`](https://github.com/tastejs/hacker-news-pwas) ⚠️ Archived: Hacker News readers as Progressive Web Apps. A spiritual successor to TodoMVC.
-* [`add-to-homescreen`](https://github.com/philfung/add-to-homescreen) ⭐ 343 | 🐛 7 | 🌐 TypeScript | 📅 2026-08-13: Easily add a website/PWA to home screen on IOS/Android/Desktop.
+* [`add-to-homescreen`](https://github.com/philfung/add-to-homescreen) ⭐ 343 | 🐛 8 | 🌐 TypeScript | 📅 2026-08-13: Easily add a website/PWA to home screen on IOS/Android/Desktop.
 * [`a2hs.js`](https://github.com/koddr/a2hs.js) ⭐ 185 | 🐛 10 | 🌐 JavaScript | 📅 2026-02-04: A useful modern JavaScript solution that helps your website users to add (install) a progressive web app to the Home Screen of their mobile iOS devices.
 * [`pwa-badge`](https://github.com/ali-master/pwa-badge) ⭐ 162 | 🐛 1 | 🌐 JavaScript | 📅 2021-01-12: Badging for PWA app icons, Like Native Apps
 * [`@forlagshuset/simple-fs`](https://github.com/fagbokforlaget/simple-fs) ⭐ 155 | 🐛 7 | 🌐 JavaScript | 📅 2024-11-14: Needs offline filesystem? SimpleFS provides sweet promise based nodejs file API on top of indexeddb.
@@ -487,4 +487,4 @@ Contributions are welcome! Please check the guidelines and open a PR.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-17._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-18._
