@@ -21,7 +21,7 @@
                 "open_issues": 18,
                 "owner": "foldergram",
                 "repo": "foldergram",
-                "stars": 560,
+                "stars": 561,
                 "topics": [
                   "docker",
                   "express",
@@ -237,7 +237,7 @@
                 "open_issues": 52,
                 "owner": "elegantapp",
                 "repo": "pwa-asset-generator",
-                "stars": 3033,
+                "stars": 3036,
                 "topics": [
                   "android",
                   "favicon",
@@ -355,7 +355,7 @@
                 "open_issues": 71,
                 "owner": "GoogleChrome",
                 "repo": "workbox",
-                "stars": 13017,
+                "stars": 13021,
                 "topics": [
                   "offline-first",
                   "progressive-web-app",
@@ -383,7 +383,7 @@
                 "open_issues": 58,
                 "owner": "GoogleChromeLabs",
                 "repo": "sw-precache",
-                "stars": 5182,
+                "stars": 5181,
                 "topics": [
                   "javascript",
                   "offline",
@@ -411,7 +411,7 @@
                 "open_issues": 40,
                 "owner": "TalAter",
                 "repo": "UpUp",
-                "stars": 4919,
+                "stars": 4918,
                 "topics": [
                   "hacktoberfest",
                   "offline",
@@ -1005,7 +1005,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-18T11:48:39.427Z",
+    "last_updated": "2026-09-19T11:32:08.085Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Progressive Web Apps, resources, tools and articles",
