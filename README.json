@@ -21,7 +21,7 @@
                 "open_issues": 18,
                 "owner": "foldergram",
                 "repo": "foldergram",
-                "stars": 561,
+                "stars": 562,
                 "topics": [
                   "docker",
                   "express",
@@ -66,7 +66,7 @@
                 "open_issues": 53,
                 "owner": "aermin",
                 "repo": "ghChat",
-                "stars": 928,
+                "stars": 929,
                 "topics": [
                   "axios",
                   "chat",
@@ -110,7 +110,7 @@
                 "open_issues": 2,
                 "owner": "gokulkrishh",
                 "repo": "demo-progressive-web-app",
-                "stars": 969,
+                "stars": 968,
                 "topics": [
                   "addtohomescreen",
                   "background-sync",
@@ -700,7 +700,7 @@
                 "open_issues": 24,
                 "owner": "oliviertassinari",
                 "repo": "serviceworker-webpack-plugin",
-                "stars": 457,
+                "stars": 456,
                 "topics": [
                   "plugin",
                   "serviceworker",
@@ -1005,7 +1005,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-19T11:32:08.085Z",
+    "last_updated": "2026-09-20T11:48:06.912Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Progressive Web Apps, resources, tools and articles",
@@ -1014,10 +1014,10 @@
       "language": "JavaScript",
       "license": null,
       "last_commit": "2026-08-10T05:18:51Z",
-      "open_issues": 50,
+      "open_issues": 53,
       "owner": "hemanth",
       "repo": "awesome-pwa",
-      "stars": 4920,
+      "stars": 4921,
       "topics": [
         "awesome-list",
         "modern-web",
