@@ -21,7 +21,7 @@
                 "open_issues": 18,
                 "owner": "foldergram",
                 "repo": "foldergram",
-                "stars": 563,
+                "stars": 564,
                 "topics": [
                   "docker",
                   "express",
@@ -110,7 +110,7 @@
                 "open_issues": 2,
                 "owner": "gokulkrishh",
                 "repo": "demo-progressive-web-app",
-                "stars": 968,
+                "stars": 969,
                 "topics": [
                   "addtohomescreen",
                   "background-sync",
@@ -608,7 +608,7 @@
                 "open_issues": 110,
                 "owner": "NekR",
                 "repo": "offline-plugin",
-                "stars": 4509,
+                "stars": 4508,
                 "topics": [
                   "appcache",
                   "application-cache",
@@ -910,7 +910,7 @@
             "open_issues": 74,
             "owner": "google",
             "repo": "web-starter-kit",
-            "stars": 18266,
+            "stars": 18265,
             "topics": []
           },
           "first_seen": "2026-08-28T19:00:17.247Z"
@@ -1005,7 +1005,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-22T12:03:28.266Z",
+    "last_updated": "2026-09-23T12:09:47.293Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Progressive Web Apps, resources, tools and articles",
@@ -1014,10 +1014,10 @@
       "language": "JavaScript",
       "license": null,
       "last_commit": "2026-08-10T05:18:51Z",
-      "open_issues": 55,
+      "open_issues": 58,
       "owner": "hemanth",
       "repo": "awesome-pwa",
-      "stars": 4920,
+      "stars": 4921,
       "topics": [
         "awesome-list",
         "modern-web",
