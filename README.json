@@ -21,7 +21,7 @@
                 "open_issues": 18,
                 "owner": "foldergram",
                 "repo": "foldergram",
-                "stars": 564,
+                "stars": 565,
                 "topics": [
                   "docker",
                   "express",
@@ -439,7 +439,7 @@
                 "open_issues": 56,
                 "owner": "GoogleChromeLabs",
                 "repo": "sw-toolbox",
-                "stars": 3579,
+                "stars": 3578,
                 "topics": [
                   "caching",
                   "javascript",
@@ -608,7 +608,7 @@
                 "open_issues": 110,
                 "owner": "NekR",
                 "repo": "offline-plugin",
-                "stars": 4508,
+                "stars": 4507,
                 "topics": [
                   "appcache",
                   "application-cache",
@@ -1005,7 +1005,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-23T12:09:47.293Z",
+    "last_updated": "2026-09-24T12:11:35.988Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Progressive Web Apps, resources, tools and articles",
@@ -1014,10 +1014,10 @@
       "language": "JavaScript",
       "license": null,
       "last_commit": "2026-08-10T05:18:51Z",
-      "open_issues": 58,
+      "open_issues": 60,
       "owner": "hemanth",
       "repo": "awesome-pwa",
-      "stars": 4921,
+      "stars": 4922,
       "topics": [
         "awesome-list",
         "modern-web",
