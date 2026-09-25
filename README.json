@@ -21,7 +21,7 @@
                 "open_issues": 18,
                 "owner": "foldergram",
                 "repo": "foldergram",
-                "stars": 565,
+                "stars": 566,
                 "topics": [
                   "docker",
                   "express",
@@ -233,7 +233,7 @@
                 "id": 201535836,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-21T09:58:33Z",
+                "last_commit": "2026-09-24T16:10:26Z",
                 "open_issues": 52,
                 "owner": "elegantapp",
                 "repo": "pwa-asset-generator",
@@ -355,7 +355,7 @@
                 "open_issues": 71,
                 "owner": "GoogleChrome",
                 "repo": "workbox",
-                "stars": 13023,
+                "stars": 13022,
                 "topics": [
                   "offline-first",
                   "progressive-web-app",
@@ -383,7 +383,7 @@
                 "open_issues": 58,
                 "owner": "GoogleChromeLabs",
                 "repo": "sw-precache",
-                "stars": 5181,
+                "stars": 5180,
                 "topics": [
                   "javascript",
                   "offline",
@@ -1005,7 +1005,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-24T12:11:35.988Z",
+    "last_updated": "2026-09-25T12:13:37.023Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Progressive Web Apps, resources, tools and articles",
