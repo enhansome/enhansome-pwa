@@ -414,7 +414,7 @@
 
 ### Generators and CLIs
 
-* [`PWA Asset Generator`](https://github.com/elegantapp/pwa-asset-generator) ⭐ 3,036 | 🐛 52 | 🌐 TypeScript | 📅 2026-09-24: Automates PWA asset generation and image declaration. Automatically generates icon and splash screen images, favicons and mstile images.
+* [`PWA Asset Generator`](https://github.com/elegantapp/pwa-asset-generator) ⭐ 3,037 | 🐛 52 | 🌐 TypeScript | 📅 2026-09-24: Automates PWA asset generation and image declaration. Automatically generates icon and splash screen images, favicons and mstile images.
 * [`PWAify`](https://github.com/vladikoff/PWAify) ⭐ 439 | 🐛 12 | 🌐 JavaScript | 📅 2020-06-07: CLI tool to convert your PWA into a cross-platform desktop app.
 * [`DSW`](https://github.com/naschq/dsw) ⭐ 268 | 🐛 5 | 🌐 JavaScript | 📅 2017-10-22: Generate your Service Worker dynamically, webmanifest, rules for requests, redirects, etc.
 * [`fetch-manifest-json`](https://github.com/hemanth/fetch-manifest-json) ⭐ 6 | 🐛 11 | 🌐 JavaScript | 📅 2023-06-23: Fetch the `mainfest.json` from an URL.
@@ -425,7 +425,7 @@
 
 ### Service Worker Libraries
 
-* [`Workbox`](https://github.com/GoogleChrome/workbox) ⭐ 13,022 | 🐛 71 | 🌐 JavaScript | 📅 2026-09-02: Javascript Library for building progressive web apps
+* [`Workbox`](https://github.com/GoogleChrome/workbox) ⭐ 13,022 | 🐛 70 | 🌐 JavaScript | 📅 2026-09-02: Javascript Library for building progressive web apps
 * [`sw-precache`](https://github.com/GoogleChrome/sw-precache) ⚠️ Archived: A node module to generate service worker code that will precache specific resources
 * [`UpUp`](https://github.com/TalAter/UpUp) ⭐ 4,918 | 🐛 40 | 🌐 JavaScript | 📅 2026-09-09: Makes sure your users can always access your site's content, even when they're on a plane, in an elevator, or 20,000 leagues under the sea
 * [`sw-toolbox`](https://github.com/GoogleChrome/sw-toolbox) ⚠️ Archived: A runtime caching library
@@ -487,4 +487,4 @@ Contributions are welcome! Please check the guidelines and open a PR.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-25._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-26._

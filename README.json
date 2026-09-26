@@ -237,7 +237,7 @@
                 "open_issues": 52,
                 "owner": "elegantapp",
                 "repo": "pwa-asset-generator",
-                "stars": 3036,
+                "stars": 3037,
                 "topics": [
                   "android",
                   "favicon",
@@ -352,7 +352,7 @@
                 "language": "JavaScript",
                 "license": "MIT",
                 "last_commit": "2026-09-02T14:24:25Z",
-                "open_issues": 71,
+                "open_issues": 70,
                 "owner": "GoogleChrome",
                 "repo": "workbox",
                 "stars": 13022,
@@ -1005,7 +1005,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-25T12:13:37.023Z",
+    "last_updated": "2026-09-26T11:46:38.728Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Progressive Web Apps, resources, tools and articles",
@@ -1014,10 +1014,10 @@
       "language": "JavaScript",
       "license": null,
       "last_commit": "2026-08-10T05:18:51Z",
-      "open_issues": 60,
+      "open_issues": 61,
       "owner": "hemanth",
       "repo": "awesome-pwa",
-      "stars": 4922,
+      "stars": 4925,
       "topics": [
         "awesome-list",
         "modern-web",
