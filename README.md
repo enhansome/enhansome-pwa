@@ -230,7 +230,7 @@
 
 ### Tools and Utilities
 
-* [Notella](https://github.com/siddharthkp/notella) ⭐ 278 | 🐛 4 | 🌐 JavaScript | 📅 2025-07-15: No fluff notes app.
+* [Notella](https://github.com/siddharthkp/notella) ⭐ 279 | 🐛 4 | 🌐 JavaScript | 📅 2025-07-15: No fluff notes app.
 * [2brew](https://2brew.github.io/): PWA timer for coffee brewing
 * [AlarmDJ](https://alarmdj.com): Online alarm clock that plays MP3 files or YouTube videos.
 * [Anonynote](https://anonynote.org): Note-taking app.
@@ -425,7 +425,7 @@
 
 ### Service Worker Libraries
 
-* [`Workbox`](https://github.com/GoogleChrome/workbox) ⭐ 13,022 | 🐛 70 | 🌐 JavaScript | 📅 2026-09-02: Javascript Library for building progressive web apps
+* [`Workbox`](https://github.com/GoogleChrome/workbox) ⭐ 13,023 | 🐛 70 | 🌐 JavaScript | 📅 2026-09-02: Javascript Library for building progressive web apps
 * [`sw-precache`](https://github.com/GoogleChrome/sw-precache) ⚠️ Archived: A node module to generate service worker code that will precache specific resources
 * [`UpUp`](https://github.com/TalAter/UpUp) ⭐ 4,918 | 🐛 40 | 🌐 JavaScript | 📅 2026-09-09: Makes sure your users can always access your site's content, even when they're on a plane, in an elevator, or 20,000 leagues under the sea
 * [`sw-toolbox`](https://github.com/GoogleChrome/sw-toolbox) ⚠️ Archived: A runtime caching library
@@ -487,4 +487,4 @@ Contributions are welcome! Please check the guidelines and open a PR.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-26._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-27._

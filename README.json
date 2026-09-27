@@ -203,7 +203,7 @@
                 "open_issues": 4,
                 "owner": "siddharthkp",
                 "repo": "notella",
-                "stars": 278,
+                "stars": 279,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:00:17.247Z"
@@ -355,7 +355,7 @@
                 "open_issues": 70,
                 "owner": "GoogleChrome",
                 "repo": "workbox",
-                "stars": 13022,
+                "stars": 13023,
                 "topics": [
                   "offline-first",
                   "progressive-web-app",
@@ -1005,7 +1005,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-26T11:46:38.728Z",
+    "last_updated": "2026-09-27T12:26:45.572Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Progressive Web Apps, resources, tools and articles",
@@ -1014,10 +1014,10 @@
       "language": "JavaScript",
       "license": null,
       "last_commit": "2026-08-10T05:18:51Z",
-      "open_issues": 61,
+      "open_issues": 62,
       "owner": "hemanth",
       "repo": "awesome-pwa",
-      "stars": 4925,
+      "stars": 4926,
       "topics": [
         "awesome-list",
         "modern-web",
