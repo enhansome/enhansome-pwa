@@ -64,7 +64,7 @@
 
 ### Audio and Video
 
-* [Foldergram](https://github.com/foldergram/foldergram) ⭐ 566 | 🐛 18 | 🌐 TypeScript | 📅 2026-09-03: Local-only photo and video gallery for folders, with an Instagram-inspired browsing pattern.
+* [Foldergram](https://github.com/foldergram/foldergram) ⭐ 568 | 🐛 18 | 🌐 TypeScript | 📅 2026-09-03: Local-only photo and video gallery for folders, with an Instagram-inspired browsing pattern.
 * [BitMidi](https://bitmidi.com): Listen to your favorite MIDI files.
 * [guitar-tuner](https://aerotwist.com/blog/guitar-tuner/): Aerotwist Guitar Tuner
 * [Joybox](https://joybox.rosano.ca): A pinboard for audiovisual media.
@@ -425,9 +425,9 @@
 
 ### Service Worker Libraries
 
-* [`Workbox`](https://github.com/GoogleChrome/workbox) ⭐ 13,023 | 🐛 70 | 🌐 JavaScript | 📅 2026-09-02: Javascript Library for building progressive web apps
+* [`Workbox`](https://github.com/GoogleChrome/workbox) ⭐ 13,024 | 🐛 71 | 🌐 JavaScript | 📅 2026-09-02: Javascript Library for building progressive web apps
 * [`sw-precache`](https://github.com/GoogleChrome/sw-precache) ⚠️ Archived: A node module to generate service worker code that will precache specific resources
-* [`UpUp`](https://github.com/TalAter/UpUp) ⭐ 4,918 | 🐛 40 | 🌐 JavaScript | 📅 2026-09-09: Makes sure your users can always access your site's content, even when they're on a plane, in an elevator, or 20,000 leagues under the sea
+* [`UpUp`](https://github.com/TalAter/UpUp) ⭐ 4,919 | 🐛 40 | 🌐 JavaScript | 📅 2026-09-09: Makes sure your users can always access your site's content, even when they're on a plane, in an elevator, or 20,000 leagues under the sea
 * [`sw-toolbox`](https://github.com/GoogleChrome/sw-toolbox) ⚠️ Archived: A runtime caching library
 * [`sw-delta`](https://github.com/gmetais/sw-delta) ⭐ 1,096 | 🐛 5 | 🌐 JavaScript | 📅 2016-08-27: An incremental cache for the web.
 * [`serviceworkerware`](https://github.com/fxos-components/serviceworkerware) ⚠️ Archived: An Express-like layer on top of ServiceWorkers to provide a way to easily plug functionality
@@ -449,7 +449,7 @@
 ### Miscellaneous Utilities
 
 * [`HNPWA`](https://github.com/tastejs/hacker-news-pwas) ⚠️ Archived: Hacker News readers as Progressive Web Apps. A spiritual successor to TodoMVC.
-* [`add-to-homescreen`](https://github.com/philfung/add-to-homescreen) ⭐ 343 | 🐛 4 | 🌐 TypeScript | 📅 2026-09-20: Easily add a website/PWA to home screen on IOS/Android/Desktop.
+* [`add-to-homescreen`](https://github.com/philfung/add-to-homescreen) ⭐ 344 | 🐛 4 | 🌐 TypeScript | 📅 2026-09-20: Easily add a website/PWA to home screen on IOS/Android/Desktop.
 * [`a2hs.js`](https://github.com/koddr/a2hs.js) ⭐ 185 | 🐛 10 | 🌐 JavaScript | 📅 2026-02-04: A useful modern JavaScript solution that helps your website users to add (install) a progressive web app to the Home Screen of their mobile iOS devices.
 * [`pwa-badge`](https://github.com/ali-master/pwa-badge) ⭐ 162 | 🐛 1 | 🌐 JavaScript | 📅 2021-01-12: Badging for PWA app icons, Like Native Apps
 * [`@forlagshuset/simple-fs`](https://github.com/fagbokforlaget/simple-fs) ⭐ 155 | 🐛 7 | 🌐 JavaScript | 📅 2024-11-14: Needs offline filesystem? SimpleFS provides sweet promise based nodejs file API on top of indexeddb.
@@ -487,4 +487,4 @@ Contributions are welcome! Please check the guidelines and open a PR.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-27._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-28._
