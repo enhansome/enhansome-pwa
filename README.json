@@ -351,11 +351,11 @@
                 "id": 55424670,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-09-02T14:24:25Z",
-                "open_issues": 71,
+                "last_commit": "2026-09-29T05:56:37Z",
+                "open_issues": 74,
                 "owner": "GoogleChrome",
                 "repo": "workbox",
-                "stars": 13024,
+                "stars": 13025,
                 "topics": [
                   "offline-first",
                   "progressive-web-app",
@@ -761,7 +761,7 @@
                 "open_issues": 4,
                 "owner": "philfung",
                 "repo": "add-to-homescreen",
-                "stars": 344,
+                "stars": 345,
                 "topics": [
                   "add-to-homescreen",
                   "desktop",
@@ -834,7 +834,7 @@
                 "open_issues": 1,
                 "owner": "ali-master",
                 "repo": "pwa-badge",
-                "stars": 162,
+                "stars": 163,
                 "topics": [
                   "android",
                   "angular",
@@ -1005,7 +1005,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-28T14:28:16.162Z",
+    "last_updated": "2026-09-29T13:19:19.972Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Progressive Web Apps, resources, tools and articles",
@@ -1014,10 +1014,10 @@
       "language": "JavaScript",
       "license": null,
       "last_commit": "2026-08-10T05:18:51Z",
-      "open_issues": 67,
+      "open_issues": 68,
       "owner": "hemanth",
       "repo": "awesome-pwa",
-      "stars": 4927,
+      "stars": 4928,
       "topics": [
         "awesome-list",
         "modern-web",
