@@ -64,7 +64,7 @@
 
 ### Audio and Video
 
-* [Foldergram](https://github.com/foldergram/foldergram) ⭐ 568 | 🐛 18 | 🌐 TypeScript | 📅 2026-09-03: Local-only photo and video gallery for folders, with an Instagram-inspired browsing pattern.
+* [Foldergram](https://github.com/foldergram/foldergram) ⭐ 569 | 🐛 18 | 🌐 TypeScript | 📅 2026-09-03: Local-only photo and video gallery for folders, with an Instagram-inspired browsing pattern.
 * [BitMidi](https://bitmidi.com): Listen to your favorite MIDI files.
 * [guitar-tuner](https://aerotwist.com/blog/guitar-tuner/): Aerotwist Guitar Tuner
 * [Joybox](https://joybox.rosano.ca): A pinboard for audiovisual media.
@@ -425,9 +425,9 @@
 
 ### Service Worker Libraries
 
-* [`Workbox`](https://github.com/GoogleChrome/workbox) ⭐ 13,025 | 🐛 74 | 🌐 JavaScript | 📅 2026-09-29: Javascript Library for building progressive web apps
+* [`Workbox`](https://github.com/GoogleChrome/workbox) ⭐ 13,024 | 🐛 75 | 🌐 JavaScript | 📅 2026-09-29: Javascript Library for building progressive web apps
 * [`sw-precache`](https://github.com/GoogleChrome/sw-precache) ⚠️ Archived: A node module to generate service worker code that will precache specific resources
-* [`UpUp`](https://github.com/TalAter/UpUp) ⭐ 4,919 | 🐛 40 | 🌐 JavaScript | 📅 2026-09-09: Makes sure your users can always access your site's content, even when they're on a plane, in an elevator, or 20,000 leagues under the sea
+* [`UpUp`](https://github.com/TalAter/UpUp) ⭐ 4,919 | 🐛 40 | 🌐 JavaScript | 📅 2026-09-29: Makes sure your users can always access your site's content, even when they're on a plane, in an elevator, or 20,000 leagues under the sea
 * [`sw-toolbox`](https://github.com/GoogleChrome/sw-toolbox) ⚠️ Archived: A runtime caching library
 * [`sw-delta`](https://github.com/gmetais/sw-delta) ⭐ 1,096 | 🐛 5 | 🌐 JavaScript | 📅 2016-08-27: An incremental cache for the web.
 * [`serviceworkerware`](https://github.com/fxos-components/serviceworkerware) ⚠️ Archived: An Express-like layer on top of ServiceWorkers to provide a way to easily plug functionality
@@ -437,7 +437,7 @@
 
 ### Webpack and Framework Plugins
 
-* [`offline-plugin`](https://github.com/NekR/offline-plugin) ⭐ 4,507 | 🐛 110 | 🌐 JavaScript | 📅 2021-11-08: Offline plugin (ServiceWorker, AppCache) for webpack (<http://webpack.github.io/>)
+* [`offline-plugin`](https://github.com/NekR/offline-plugin) ⭐ 4,506 | 🐛 110 | 🌐 JavaScript | 📅 2021-11-08: Offline plugin (ServiceWorker, AppCache) for webpack (<http://webpack.github.io/>)
 * [`sw-precache-webpack-plugin`](https://github.com/goldhand/sw-precache-webpack-plugin) ⭐ 1,435 | 🐛 26 | 🌐 JavaScript | 📅 2020-10-15: SW Precache Webpack Plugin
 * [`serviceworker-rails`](https://github.com/rossta/serviceworker-rails) ⭐ 584 | 🐛 1 | 🌐 Ruby | 📅 2026-09-03: Plugin to integrate Service Worker with the Rails asset pipeline.
 * [`serviceworker-webpack-plugin`](https://github.com/oliviertassinari/serviceworker-webpack-plugin) ⭐ 456 | 🐛 24 | 🌐 JavaScript | 📅 2025-09-20: Simplifies creation of a service worker to serve your webpack bundles.
@@ -459,7 +459,7 @@
 
 * [`Web Starter Kit`](https://github.com/google/web-starter-kit) ⚠️ Archived: A workflow for multi-device websites.
 * [Preact CLI](https://github.com/developit/preact-cli) ⭐ 4,665 | 🐛 77 | 🌐 JavaScript | 📅 2024-03-27: "Your next Preact PWA in 30 seconds"
-* [`Bento starter`](https://github.com/kefranabg/bento-starter) ⭐ 1,512 | 🐛 23 | 🌐 JavaScript | 📅 2021-02-12: Full-stack solution to build Progressive Web Apps.
+* [`Bento starter`](https://github.com/kefranabg/bento-starter) ⭐ 1,510 | 🐛 23 | 🌐 JavaScript | 📅 2021-02-12: Full-stack solution to build Progressive Web Apps.
 * [`Progressive Web Application skeleton`](https://github.com/PolymerLabs/progressive-webapp-config) ⚠️ Archived: A simple set of skeleton files for shipping a Progressive Web App.
 * [`pwabuilder`](http://www.pwabuilder.com/): All the tools you need to build and deploy your Progressive Web Apps.
 * [Polymer App Toolbox](https://www.polymer-project.org/3.0/toolbox/): "a collection of components, tools and templates for building Progressive Web Apps with Polymer"
@@ -487,4 +487,4 @@ Contributions are welcome! Please check the guidelines and open a PR.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-29._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-30._

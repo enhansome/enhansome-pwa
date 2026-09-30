@@ -21,7 +21,7 @@
                 "open_issues": 18,
                 "owner": "foldergram",
                 "repo": "foldergram",
-                "stars": 568,
+                "stars": 569,
                 "topics": [
                   "docker",
                   "express",
@@ -352,10 +352,10 @@
                 "language": "JavaScript",
                 "license": "MIT",
                 "last_commit": "2026-09-29T05:56:37Z",
-                "open_issues": 74,
+                "open_issues": 75,
                 "owner": "GoogleChrome",
                 "repo": "workbox",
-                "stars": 13025,
+                "stars": 13024,
                 "topics": [
                   "offline-first",
                   "progressive-web-app",
@@ -407,7 +407,7 @@
                 "id": 32018674,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-09-09T19:12:55Z",
+                "last_commit": "2026-09-29T16:36:55Z",
                 "open_issues": 40,
                 "owner": "TalAter",
                 "repo": "UpUp",
@@ -608,7 +608,7 @@
                 "open_issues": 110,
                 "owner": "NekR",
                 "repo": "offline-plugin",
-                "stars": 4507,
+                "stars": 4506,
                 "topics": [
                   "appcache",
                   "application-cache",
@@ -960,7 +960,7 @@
             "open_issues": 23,
             "owner": "kefranabg",
             "repo": "bento-starter",
-            "stars": 1512,
+            "stars": 1510,
             "topics": [
               "circleci",
               "firebase",
@@ -1005,7 +1005,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-29T13:19:19.972Z",
+    "last_updated": "2026-09-30T13:00:04.898Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Progressive Web Apps, resources, tools and articles",
@@ -1014,10 +1014,10 @@
       "language": "JavaScript",
       "license": null,
       "last_commit": "2026-08-10T05:18:51Z",
-      "open_issues": 68,
+      "open_issues": 70,
       "owner": "hemanth",
       "repo": "awesome-pwa",
-      "stars": 4928,
+      "stars": 4929,
       "topics": [
         "awesome-list",
         "modern-web",
