@@ -64,7 +64,7 @@
 
 ### Audio and Video
 
-* [Foldergram](https://github.com/foldergram/foldergram) ⭐ 569 | 🐛 18 | 🌐 TypeScript | 📅 2026-09-03: Local-only photo and video gallery for folders, with an Instagram-inspired browsing pattern.
+* [Foldergram](https://github.com/foldergram/foldergram) ⭐ 569 | 🐛 17 | 🌐 TypeScript | 📅 2026-09-03: Local-only photo and video gallery for folders, with an Instagram-inspired browsing pattern.
 * [BitMidi](https://bitmidi.com): Listen to your favorite MIDI files.
 * [guitar-tuner](https://aerotwist.com/blog/guitar-tuner/): Aerotwist Guitar Tuner
 * [Joybox](https://joybox.rosano.ca): A pinboard for audiovisual media.
@@ -414,7 +414,7 @@
 
 ### Generators and CLIs
 
-* [`PWA Asset Generator`](https://github.com/elegantapp/pwa-asset-generator) ⭐ 3,037 | 🐛 52 | 🌐 TypeScript | 📅 2026-09-24: Automates PWA asset generation and image declaration. Automatically generates icon and splash screen images, favicons and mstile images.
+* [`PWA Asset Generator`](https://github.com/elegantapp/pwa-asset-generator) ⭐ 3,038 | 🐛 52 | 🌐 TypeScript | 📅 2026-09-24: Automates PWA asset generation and image declaration. Automatically generates icon and splash screen images, favicons and mstile images.
 * [`PWAify`](https://github.com/vladikoff/PWAify) ⭐ 439 | 🐛 12 | 🌐 JavaScript | 📅 2020-06-07: CLI tool to convert your PWA into a cross-platform desktop app.
 * [`DSW`](https://github.com/naschq/dsw) ⭐ 268 | 🐛 5 | 🌐 JavaScript | 📅 2017-10-22: Generate your Service Worker dynamically, webmanifest, rules for requests, redirects, etc.
 * [`fetch-manifest-json`](https://github.com/hemanth/fetch-manifest-json) ⭐ 6 | 🐛 11 | 🌐 JavaScript | 📅 2023-06-23: Fetch the `mainfest.json` from an URL.
@@ -425,7 +425,7 @@
 
 ### Service Worker Libraries
 
-* [`Workbox`](https://github.com/GoogleChrome/workbox) ⭐ 13,024 | 🐛 75 | 🌐 JavaScript | 📅 2026-09-29: Javascript Library for building progressive web apps
+* [`Workbox`](https://github.com/GoogleChrome/workbox) ⭐ 13,021 | 🐛 75 | 🌐 JavaScript | 📅 2026-09-29: Javascript Library for building progressive web apps
 * [`sw-precache`](https://github.com/GoogleChrome/sw-precache) ⚠️ Archived: A node module to generate service worker code that will precache specific resources
 * [`UpUp`](https://github.com/TalAter/UpUp) ⭐ 4,919 | 🐛 40 | 🌐 JavaScript | 📅 2026-09-29: Makes sure your users can always access your site's content, even when they're on a plane, in an elevator, or 20,000 leagues under the sea
 * [`sw-toolbox`](https://github.com/GoogleChrome/sw-toolbox) ⚠️ Archived: A runtime caching library
@@ -437,7 +437,7 @@
 
 ### Webpack and Framework Plugins
 
-* [`offline-plugin`](https://github.com/NekR/offline-plugin) ⭐ 4,506 | 🐛 110 | 🌐 JavaScript | 📅 2021-11-08: Offline plugin (ServiceWorker, AppCache) for webpack (<http://webpack.github.io/>)
+* [`offline-plugin`](https://github.com/NekR/offline-plugin) ⭐ 4,505 | 🐛 110 | 🌐 JavaScript | 📅 2021-11-08: Offline plugin (ServiceWorker, AppCache) for webpack (<http://webpack.github.io/>)
 * [`sw-precache-webpack-plugin`](https://github.com/goldhand/sw-precache-webpack-plugin) ⭐ 1,435 | 🐛 26 | 🌐 JavaScript | 📅 2020-10-15: SW Precache Webpack Plugin
 * [`serviceworker-rails`](https://github.com/rossta/serviceworker-rails) ⭐ 584 | 🐛 1 | 🌐 Ruby | 📅 2026-09-03: Plugin to integrate Service Worker with the Rails asset pipeline.
 * [`serviceworker-webpack-plugin`](https://github.com/oliviertassinari/serviceworker-webpack-plugin) ⭐ 456 | 🐛 24 | 🌐 JavaScript | 📅 2025-09-20: Simplifies creation of a service worker to serve your webpack bundles.
@@ -449,7 +449,7 @@
 ### Miscellaneous Utilities
 
 * [`HNPWA`](https://github.com/tastejs/hacker-news-pwas) ⚠️ Archived: Hacker News readers as Progressive Web Apps. A spiritual successor to TodoMVC.
-* [`add-to-homescreen`](https://github.com/philfung/add-to-homescreen) ⭐ 345 | 🐛 4 | 🌐 TypeScript | 📅 2026-09-20: Easily add a website/PWA to home screen on IOS/Android/Desktop.
+* [`add-to-homescreen`](https://github.com/philfung/add-to-homescreen) ⭐ 345 | 🐛 2 | 🌐 TypeScript | 📅 2026-09-20: Easily add a website/PWA to home screen on IOS/Android/Desktop.
 * [`a2hs.js`](https://github.com/koddr/a2hs.js) ⭐ 185 | 🐛 10 | 🌐 JavaScript | 📅 2026-02-04: A useful modern JavaScript solution that helps your website users to add (install) a progressive web app to the Home Screen of their mobile iOS devices.
 * [`pwa-badge`](https://github.com/ali-master/pwa-badge) ⭐ 163 | 🐛 1 | 🌐 JavaScript | 📅 2021-01-12: Badging for PWA app icons, Like Native Apps
 * [`@forlagshuset/simple-fs`](https://github.com/fagbokforlaget/simple-fs) ⭐ 155 | 🐛 7 | 🌐 JavaScript | 📅 2024-11-14: Needs offline filesystem? SimpleFS provides sweet promise based nodejs file API on top of indexeddb.
@@ -458,8 +458,8 @@
 ## Kits
 
 * [`Web Starter Kit`](https://github.com/google/web-starter-kit) ⚠️ Archived: A workflow for multi-device websites.
-* [Preact CLI](https://github.com/developit/preact-cli) ⭐ 4,665 | 🐛 77 | 🌐 JavaScript | 📅 2024-03-27: "Your next Preact PWA in 30 seconds"
-* [`Bento starter`](https://github.com/kefranabg/bento-starter) ⭐ 1,510 | 🐛 23 | 🌐 JavaScript | 📅 2021-02-12: Full-stack solution to build Progressive Web Apps.
+* [Preact CLI](https://github.com/developit/preact-cli) ⭐ 4,664 | 🐛 77 | 🌐 JavaScript | 📅 2024-03-27: "Your next Preact PWA in 30 seconds"
+* [`Bento starter`](https://github.com/kefranabg/bento-starter) ⭐ 1,509 | 🐛 23 | 🌐 JavaScript | 📅 2021-02-12: Full-stack solution to build Progressive Web Apps.
 * [`Progressive Web Application skeleton`](https://github.com/PolymerLabs/progressive-webapp-config) ⚠️ Archived: A simple set of skeleton files for shipping a Progressive Web App.
 * [`pwabuilder`](http://www.pwabuilder.com/): All the tools you need to build and deploy your Progressive Web Apps.
 * [Polymer App Toolbox](https://www.polymer-project.org/3.0/toolbox/): "a collection of components, tools and templates for building Progressive Web Apps with Polymer"
@@ -487,4 +487,4 @@ Contributions are welcome! Please check the guidelines and open a PR.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-30._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-01._

@@ -18,7 +18,7 @@
                 "language": "TypeScript",
                 "license": "AGPL-3.0",
                 "last_commit": "2026-09-03T13:45:08Z",
-                "open_issues": 18,
+                "open_issues": 17,
                 "owner": "foldergram",
                 "repo": "foldergram",
                 "stars": 569,
@@ -237,7 +237,7 @@
                 "open_issues": 52,
                 "owner": "elegantapp",
                 "repo": "pwa-asset-generator",
-                "stars": 3037,
+                "stars": 3038,
                 "topics": [
                   "android",
                   "favicon",
@@ -355,7 +355,7 @@
                 "open_issues": 75,
                 "owner": "GoogleChrome",
                 "repo": "workbox",
-                "stars": 13024,
+                "stars": 13021,
                 "topics": [
                   "offline-first",
                   "progressive-web-app",
@@ -439,7 +439,7 @@
                 "open_issues": 56,
                 "owner": "GoogleChromeLabs",
                 "repo": "sw-toolbox",
-                "stars": 3578,
+                "stars": 3577,
                 "topics": [
                   "caching",
                   "javascript",
@@ -608,7 +608,7 @@
                 "open_issues": 110,
                 "owner": "NekR",
                 "repo": "offline-plugin",
-                "stars": 4506,
+                "stars": 4505,
                 "topics": [
                   "appcache",
                   "application-cache",
@@ -732,7 +732,7 @@
                 "open_issues": 34,
                 "owner": "tastejs",
                 "repo": "hacker-news-pwas",
-                "stars": 2410,
+                "stars": 2404,
                 "topics": [
                   "code-splitting",
                   "hacker",
@@ -758,7 +758,7 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2026-09-20T23:24:06Z",
-                "open_issues": 4,
+                "open_issues": 2,
                 "owner": "philfung",
                 "repo": "add-to-homescreen",
                 "stars": 345,
@@ -931,7 +931,7 @@
             "open_issues": 77,
             "owner": "preactjs",
             "repo": "preact-cli",
-            "stars": 4665,
+            "stars": 4664,
             "topics": [
               "cli",
               "hacktoberfest",
@@ -960,7 +960,7 @@
             "open_issues": 23,
             "owner": "kefranabg",
             "repo": "bento-starter",
-            "stars": 1510,
+            "stars": 1509,
             "topics": [
               "circleci",
               "firebase",
@@ -1005,7 +1005,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-30T13:00:04.898Z",
+    "last_updated": "2026-10-01T13:53:48.234Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Progressive Web Apps, resources, tools and articles",
@@ -1014,7 +1014,7 @@
       "language": "JavaScript",
       "license": null,
       "last_commit": "2026-08-10T05:18:51Z",
-      "open_issues": 70,
+      "open_issues": 71,
       "owner": "hemanth",
       "repo": "awesome-pwa",
       "stars": 4929,
