@@ -17,8 +17,8 @@
                 "id": 1181781009,
                 "language": "TypeScript",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-09-03T13:45:08Z",
-                "open_issues": 17,
+                "last_commit": "2026-10-02T05:33:02Z",
+                "open_issues": 16,
                 "owner": "foldergram",
                 "repo": "foldergram",
                 "stars": 569,
@@ -352,7 +352,7 @@
                 "language": "JavaScript",
                 "license": "MIT",
                 "last_commit": "2026-09-29T05:56:37Z",
-                "open_issues": 75,
+                "open_issues": 76,
                 "owner": "GoogleChrome",
                 "repo": "workbox",
                 "stars": 13021,
@@ -407,7 +407,7 @@
                 "id": 32018674,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-09-29T16:36:55Z",
+                "last_commit": "2026-10-02T07:53:02Z",
                 "open_issues": 40,
                 "owner": "TalAter",
                 "repo": "UpUp",
@@ -1005,7 +1005,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-01T13:53:48.234Z",
+    "last_updated": "2026-10-02T13:10:22.905Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Progressive Web Apps, resources, tools and articles",
@@ -1017,7 +1017,7 @@
       "open_issues": 71,
       "owner": "hemanth",
       "repo": "awesome-pwa",
-      "stars": 4929,
+      "stars": 4931,
       "topics": [
         "awesome-list",
         "modern-web",
