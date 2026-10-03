@@ -21,7 +21,7 @@
                 "open_issues": 16,
                 "owner": "foldergram",
                 "repo": "foldergram",
-                "stars": 569,
+                "stars": 568,
                 "topics": [
                   "docker",
                   "express",
@@ -154,7 +154,7 @@
                 "open_issues": 6,
                 "owner": "kaorii-ako",
                 "repo": "Shiori-v1",
-                "stars": 43,
+                "stars": 44,
                 "topics": [
                   "ai",
                   "docker",
@@ -383,7 +383,7 @@
                 "open_issues": 58,
                 "owner": "GoogleChromeLabs",
                 "repo": "sw-precache",
-                "stars": 5180,
+                "stars": 5179,
                 "topics": [
                   "javascript",
                   "offline",
@@ -439,7 +439,7 @@
                 "open_issues": 56,
                 "owner": "GoogleChromeLabs",
                 "repo": "sw-toolbox",
-                "stars": 3577,
+                "stars": 3576,
                 "topics": [
                   "caching",
                   "javascript",
@@ -761,7 +761,7 @@
                 "open_issues": 2,
                 "owner": "philfung",
                 "repo": "add-to-homescreen",
-                "stars": 345,
+                "stars": 346,
                 "topics": [
                   "add-to-homescreen",
                   "desktop",
@@ -1005,7 +1005,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T13:10:22.905Z",
+    "last_updated": "2026-10-03T05:04:46.635Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Progressive Web Apps, resources, tools and articles",

@@ -64,7 +64,7 @@
 
 ### Audio and Video
 
-* [Foldergram](https://github.com/foldergram/foldergram) ⭐ 569 | 🐛 16 | 🌐 TypeScript | 📅 2026-10-02: Local-only photo and video gallery for folders, with an Instagram-inspired browsing pattern.
+* [Foldergram](https://github.com/foldergram/foldergram) ⭐ 568 | 🐛 16 | 🌐 TypeScript | 📅 2026-10-02: Local-only photo and video gallery for folders, with an Instagram-inspired browsing pattern.
 * [BitMidi](https://bitmidi.com): Listen to your favorite MIDI files.
 * [guitar-tuner](https://aerotwist.com/blog/guitar-tuner/): Aerotwist Guitar Tuner
 * [Joybox](https://joybox.rosano.ca): A pinboard for audiovisual media.
@@ -144,7 +144,7 @@
 
 ### Education and Reading
 
-* [Shiori](https://shiori-v1.vercel.app): Open-source AI study companion — SRS flashcards, GPA predictor, Gemini AI study plans, AI quiz generator, habit tracker. Installable PWA, works offline. Google Classroom sync. [GitHub](https://github.com/kaorii-ako/Shiori-v1) ⭐ 43 | 🐛 6 | 🌐 JavaScript | 📅 2026-07-25
+* [Shiori](https://shiori-v1.vercel.app): Open-source AI study companion — SRS flashcards, GPA predictor, Gemini AI study plans, AI quiz generator, habit tracker. Installable PWA, works offline. Google Classroom sync. [GitHub](https://github.com/kaorii-ako/Shiori-v1) ⭐ 44 | 🐛 6 | 🌐 JavaScript | 📅 2026-07-25
 * [Booksie](https://www.booksie.org/): An open catalog of free picture storybooks for children instantly available for reading.
 * [EPUB Player](https://epubplayer.com): A fully-featured audiobook player with Audible/Spotify-like UX, powered by local TTS models. Turn your EPUBs into audiobooks entirely in-browser.
 * [Kommit](https://kommit.rosano.ca): Create flashcards and learn them with spaced-repetition.
@@ -449,7 +449,7 @@
 ### Miscellaneous Utilities
 
 * [`HNPWA`](https://github.com/tastejs/hacker-news-pwas) ⚠️ Archived: Hacker News readers as Progressive Web Apps. A spiritual successor to TodoMVC.
-* [`add-to-homescreen`](https://github.com/philfung/add-to-homescreen) ⭐ 345 | 🐛 2 | 🌐 TypeScript | 📅 2026-09-20: Easily add a website/PWA to home screen on IOS/Android/Desktop.
+* [`add-to-homescreen`](https://github.com/philfung/add-to-homescreen) ⭐ 346 | 🐛 2 | 🌐 TypeScript | 📅 2026-09-20: Easily add a website/PWA to home screen on IOS/Android/Desktop.
 * [`a2hs.js`](https://github.com/koddr/a2hs.js) ⭐ 185 | 🐛 10 | 🌐 JavaScript | 📅 2026-02-04: A useful modern JavaScript solution that helps your website users to add (install) a progressive web app to the Home Screen of their mobile iOS devices.
 * [`pwa-badge`](https://github.com/ali-master/pwa-badge) ⭐ 163 | 🐛 1 | 🌐 JavaScript | 📅 2021-01-12: Badging for PWA app icons, Like Native Apps
 * [`@forlagshuset/simple-fs`](https://github.com/fagbokforlaget/simple-fs) ⭐ 155 | 🐛 7 | 🌐 JavaScript | 📅 2024-11-14: Needs offline filesystem? SimpleFS provides sweet promise based nodejs file API on top of indexeddb.
@@ -487,4 +487,4 @@ Contributions are welcome! Please check the guidelines and open a PR.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-02._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-03._
