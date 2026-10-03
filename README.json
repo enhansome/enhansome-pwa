@@ -512,7 +512,7 @@
                 "open_issues": 0,
                 "owner": "hamzaydia",
                 "repo": "verifyfetch",
-                "stars": 158,
+                "stars": 159,
                 "topics": [
                   "ai-models",
                   "browser",
@@ -1005,7 +1005,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T05:04:46.635Z",
+    "last_updated": "2026-10-03T12:01:35.363Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Progressive Web Apps, resources, tools and articles",
@@ -1014,7 +1014,7 @@
       "language": "JavaScript",
       "license": null,
       "last_commit": "2026-08-10T05:18:51Z",
-      "open_issues": 71,
+      "open_issues": 72,
       "owner": "hemanth",
       "repo": "awesome-pwa",
       "stars": 4931,
