@@ -512,7 +512,7 @@
                 "open_issues": 0,
                 "owner": "hamzaydia",
                 "repo": "verifyfetch",
-                "stars": 159,
+                "stars": 158,
                 "topics": [
                   "ai-models",
                   "browser",
@@ -732,7 +732,7 @@
                 "open_issues": 34,
                 "owner": "tastejs",
                 "repo": "hacker-news-pwas",
-                "stars": 2404,
+                "stars": 2403,
                 "topics": [
                   "code-splitting",
                   "hacker",
@@ -931,7 +931,7 @@
             "open_issues": 77,
             "owner": "preactjs",
             "repo": "preact-cli",
-            "stars": 4664,
+            "stars": 4663,
             "topics": [
               "cli",
               "hacktoberfest",
@@ -1005,7 +1005,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T12:01:35.363Z",
+    "last_updated": "2026-10-04T12:51:02.969Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Progressive Web Apps, resources, tools and articles",
@@ -1017,7 +1017,7 @@
       "open_issues": 72,
       "owner": "hemanth",
       "repo": "awesome-pwa",
-      "stars": 4931,
+      "stars": 4932,
       "topics": [
         "awesome-list",
         "modern-web",
