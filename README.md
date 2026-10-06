@@ -144,7 +144,7 @@
 
 ### Education and Reading
 
-* [Shiori](https://shiori-v1.vercel.app): Open-source AI study companion — SRS flashcards, GPA predictor, Gemini AI study plans, AI quiz generator, habit tracker. Installable PWA, works offline. Google Classroom sync. [GitHub](https://github.com/kaorii-ako/Shiori-v1) ⭐ 44 | 🐛 6 | 🌐 JavaScript | 📅 2026-07-25
+* [Shiori](https://shiori-v1.vercel.app): Open-source AI study companion — SRS flashcards, GPA predictor, Gemini AI study plans, AI quiz generator, habit tracker. Installable PWA, works offline. Google Classroom sync. [GitHub](https://github.com/kaorii-ako/Shiori-v1) ⭐ 45 | 🐛 7 | 🌐 JavaScript | 📅 2026-07-25
 * [Booksie](https://www.booksie.org/): An open catalog of free picture storybooks for children instantly available for reading.
 * [EPUB Player](https://epubplayer.com): A fully-featured audiobook player with Audible/Spotify-like UX, powered by local TTS models. Turn your EPUBs into audiobooks entirely in-browser.
 * [Kommit](https://kommit.rosano.ca): Create flashcards and learn them with spaced-repetition.
@@ -417,7 +417,7 @@
 * [`PWA Asset Generator`](https://github.com/elegantapp/pwa-asset-generator) ⭐ 3,038 | 🐛 52 | 🌐 TypeScript | 📅 2026-09-24: Automates PWA asset generation and image declaration. Automatically generates icon and splash screen images, favicons and mstile images.
 * [`PWAify`](https://github.com/vladikoff/PWAify) ⭐ 439 | 🐛 12 | 🌐 JavaScript | 📅 2020-06-07: CLI tool to convert your PWA into a cross-platform desktop app.
 * [`DSW`](https://github.com/naschq/dsw) ⭐ 268 | 🐛 5 | 🌐 JavaScript | 📅 2017-10-22: Generate your Service Worker dynamically, webmanifest, rules for requests, redirects, etc.
-* [`fetch-manifest-json`](https://github.com/hemanth/fetch-manifest-json) ⭐ 6 | 🐛 11 | 🌐 JavaScript | 📅 2023-06-23: Fetch the `mainfest.json` from an URL.
+* [`fetch-manifest-json`](https://github.com/hemanth/fetch-manifest-json) ⭐ 6 | 🐛 11 | 🌐 JavaScript | 📅 2026-10-05: Fetch the `mainfest.json` from an URL.
 * [`Manifest Generator`](https://brucelawson.github.io/manifest/): This simple page will generate the manifest file for you.
 * [`manifest-json`](https://www.npmjs.com/package/manifest-json): CLI tool for creating `mainfest.json`.
 * [`miTT PWA Asset Generator`](https://mittl-medien.de/pwa-asset-generator): Hosted, no-install web tool that generates PWA icons and iOS splash screens, plus optional app store icons.
@@ -425,7 +425,7 @@
 
 ### Service Worker Libraries
 
-* [`Workbox`](https://github.com/GoogleChrome/workbox) ⭐ 13,021 | 🐛 77 | 🌐 JavaScript | 📅 2026-10-05: Javascript Library for building progressive web apps
+* [`Workbox`](https://github.com/GoogleChrome/workbox) ⭐ 13,020 | 🐛 78 | 🌐 JavaScript | 📅 2026-10-06: Javascript Library for building progressive web apps
 * [`sw-precache`](https://github.com/GoogleChrome/sw-precache) ⚠️ Archived: A node module to generate service worker code that will precache specific resources
 * [`UpUp`](https://github.com/TalAter/UpUp) ⭐ 4,919 | 🐛 40 | 🌐 JavaScript | 📅 2026-10-02: Makes sure your users can always access your site's content, even when they're on a plane, in an elevator, or 20,000 leagues under the sea
 * [`sw-toolbox`](https://github.com/GoogleChrome/sw-toolbox) ⚠️ Archived: A runtime caching library
@@ -449,7 +449,7 @@
 ### Miscellaneous Utilities
 
 * [`HNPWA`](https://github.com/tastejs/hacker-news-pwas) ⚠️ Archived: Hacker News readers as Progressive Web Apps. A spiritual successor to TodoMVC.
-* [`add-to-homescreen`](https://github.com/philfung/add-to-homescreen) ⭐ 347 | 🐛 2 | 🌐 TypeScript | 📅 2026-09-20: Easily add a website/PWA to home screen on IOS/Android/Desktop.
+* [`add-to-homescreen`](https://github.com/philfung/add-to-homescreen) ⭐ 348 | 🐛 2 | 🌐 TypeScript | 📅 2026-09-20: Easily add a website/PWA to home screen on IOS/Android/Desktop.
 * [`a2hs.js`](https://github.com/koddr/a2hs.js) ⭐ 185 | 🐛 10 | 🌐 JavaScript | 📅 2026-02-04: A useful modern JavaScript solution that helps your website users to add (install) a progressive web app to the Home Screen of their mobile iOS devices.
 * [`pwa-badge`](https://github.com/ali-master/pwa-badge) ⭐ 163 | 🐛 1 | 🌐 JavaScript | 📅 2021-01-12: Badging for PWA app icons, Like Native Apps
 * [`@forlagshuset/simple-fs`](https://github.com/fagbokforlaget/simple-fs) ⭐ 155 | 🐛 7 | 🌐 JavaScript | 📅 2024-11-14: Needs offline filesystem? SimpleFS provides sweet promise based nodejs file API on top of indexeddb.
@@ -487,4 +487,4 @@ Contributions are welcome! Please check the guidelines and open a PR.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-05._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-06._
