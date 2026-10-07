@@ -18,7 +18,7 @@
                 "language": "TypeScript",
                 "license": "AGPL-3.0",
                 "last_commit": "2026-10-04T16:24:36Z",
-                "open_issues": 16,
+                "open_issues": 18,
                 "owner": "foldergram",
                 "repo": "foldergram",
                 "stars": 568,
@@ -203,7 +203,7 @@
                 "open_issues": 4,
                 "owner": "siddharthkp",
                 "repo": "notella",
-                "stars": 279,
+                "stars": 278,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:00:17.247Z"
@@ -355,7 +355,7 @@
                 "open_issues": 78,
                 "owner": "GoogleChrome",
                 "repo": "workbox",
-                "stars": 13021,
+                "stars": 13022,
                 "topics": [
                   "offline-first",
                   "progressive-web-app",
@@ -411,7 +411,7 @@
                 "open_issues": 40,
                 "owner": "TalAter",
                 "repo": "UpUp",
-                "stars": 4919,
+                "stars": 4918,
                 "topics": [
                   "hacktoberfest",
                   "offline",
@@ -467,7 +467,7 @@
                 "open_issues": 5,
                 "owner": "gmetais",
                 "repo": "sw-delta",
-                "stars": 1096,
+                "stars": 1095,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:00:17.247Z"
@@ -732,7 +732,7 @@
                 "open_issues": 34,
                 "owner": "tastejs",
                 "repo": "hacker-news-pwas",
-                "stars": 2404,
+                "stars": 2403,
                 "topics": [
                   "code-splitting",
                   "hacker",
@@ -801,7 +801,7 @@
                 "open_issues": 10,
                 "owner": "koddr",
                 "repo": "a2hs.js",
-                "stars": 185,
+                "stars": 186,
                 "topics": [
                   "css-animation",
                   "css3",
@@ -910,7 +910,7 @@
             "open_issues": 74,
             "owner": "google",
             "repo": "web-starter-kit",
-            "stars": 18265,
+            "stars": 18264,
             "topics": []
           },
           "first_seen": "2026-08-28T19:00:17.247Z"
@@ -931,7 +931,7 @@
             "open_issues": 77,
             "owner": "preactjs",
             "repo": "preact-cli",
-            "stars": 4663,
+            "stars": 4662,
             "topics": [
               "cli",
               "hacktoberfest",
@@ -1005,7 +1005,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T13:37:12.958Z",
+    "last_updated": "2026-10-07T13:55:45.169Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Progressive Web Apps, resources, tools and articles",
@@ -1014,10 +1014,10 @@
       "language": "JavaScript",
       "license": null,
       "last_commit": "2026-08-10T05:18:51Z",
-      "open_issues": 73,
+      "open_issues": 74,
       "owner": "hemanth",
       "repo": "awesome-pwa",
-      "stars": 4930,
+      "stars": 4931,
       "topics": [
         "awesome-list",
         "modern-web",
