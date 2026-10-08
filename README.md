@@ -425,7 +425,7 @@
 
 ### Service Worker Libraries
 
-* [`Workbox`](https://github.com/GoogleChrome/workbox) ⭐ 13,022 | 🐛 78 | 🌐 JavaScript | 📅 2026-10-06: Javascript Library for building progressive web apps
+* [`Workbox`](https://github.com/GoogleChrome/workbox) ⭐ 13,020 | 🐛 78 | 🌐 JavaScript | 📅 2026-10-06: Javascript Library for building progressive web apps
 * [`sw-precache`](https://github.com/GoogleChrome/sw-precache) ⚠️ Archived: A node module to generate service worker code that will precache specific resources
 * [`UpUp`](https://github.com/TalAter/UpUp) ⭐ 4,918 | 🐛 40 | 🌐 JavaScript | 📅 2026-10-02: Makes sure your users can always access your site's content, even when they're on a plane, in an elevator, or 20,000 leagues under the sea
 * [`sw-toolbox`](https://github.com/GoogleChrome/sw-toolbox) ⚠️ Archived: A runtime caching library
@@ -437,7 +437,7 @@
 
 ### Webpack and Framework Plugins
 
-* [`offline-plugin`](https://github.com/NekR/offline-plugin) ⭐ 4,505 | 🐛 110 | 🌐 JavaScript | 📅 2021-11-08: Offline plugin (ServiceWorker, AppCache) for webpack (<http://webpack.github.io/>)
+* [`offline-plugin`](https://github.com/NekR/offline-plugin) ⭐ 4,504 | 🐛 110 | 🌐 JavaScript | 📅 2021-11-08: Offline plugin (ServiceWorker, AppCache) for webpack (<http://webpack.github.io/>)
 * [`sw-precache-webpack-plugin`](https://github.com/goldhand/sw-precache-webpack-plugin) ⭐ 1,435 | 🐛 26 | 🌐 JavaScript | 📅 2020-10-15: SW Precache Webpack Plugin
 * [`serviceworker-rails`](https://github.com/rossta/serviceworker-rails) ⭐ 584 | 🐛 1 | 🌐 Ruby | 📅 2026-09-03: Plugin to integrate Service Worker with the Rails asset pipeline.
 * [`serviceworker-webpack-plugin`](https://github.com/oliviertassinari/serviceworker-webpack-plugin) ⭐ 456 | 🐛 24 | 🌐 JavaScript | 📅 2025-09-20: Simplifies creation of a service worker to serve your webpack bundles.
@@ -487,4 +487,4 @@ Contributions are welcome! Please check the guidelines and open a PR.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-07._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-08._
