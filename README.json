@@ -237,7 +237,7 @@
                 "open_issues": 52,
                 "owner": "elegantapp",
                 "repo": "pwa-asset-generator",
-                "stars": 3039,
+                "stars": 3040,
                 "topics": [
                   "android",
                   "favicon",
@@ -608,7 +608,7 @@
                 "open_issues": 110,
                 "owner": "NekR",
                 "repo": "offline-plugin",
-                "stars": 4504,
+                "stars": 4503,
                 "topics": [
                   "appcache",
                   "application-cache",
@@ -834,7 +834,7 @@
                 "open_issues": 1,
                 "owner": "ali-master",
                 "repo": "pwa-badge",
-                "stars": 163,
+                "stars": 162,
                 "topics": [
                   "android",
                   "angular",
@@ -1005,7 +1005,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-09T13:45:51.478Z",
+    "last_updated": "2026-10-10T13:03:00.070Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Progressive Web Apps, resources, tools and articles",
@@ -1014,10 +1014,10 @@
       "language": "JavaScript",
       "license": null,
       "last_commit": "2026-08-10T05:18:51Z",
-      "open_issues": 77,
+      "open_issues": 79,
       "owner": "hemanth",
       "repo": "awesome-pwa",
-      "stars": 4932,
+      "stars": 4933,
       "topics": [
         "awesome-list",
         "modern-web",
