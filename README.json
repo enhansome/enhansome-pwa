@@ -233,11 +233,11 @@
                 "id": 201535836,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-24T16:10:26Z",
-                "open_issues": 52,
+                "last_commit": "2026-10-12T15:47:14Z",
+                "open_issues": 53,
                 "owner": "elegantapp",
                 "repo": "pwa-asset-generator",
-                "stars": 3039,
+                "stars": 3040,
                 "topics": [
                   "android",
                   "favicon",
@@ -355,7 +355,7 @@
                 "open_issues": 78,
                 "owner": "GoogleChrome",
                 "repo": "workbox",
-                "stars": 13023,
+                "stars": 13025,
                 "topics": [
                   "offline-first",
                   "progressive-web-app",
@@ -732,7 +732,7 @@
                 "open_issues": 34,
                 "owner": "tastejs",
                 "repo": "hacker-news-pwas",
-                "stars": 2402,
+                "stars": 2403,
                 "topics": [
                   "code-splitting",
                   "hacker",
@@ -761,7 +761,7 @@
                 "open_issues": 2,
                 "owner": "philfung",
                 "repo": "add-to-homescreen",
-                "stars": 348,
+                "stars": 349,
                 "topics": [
                   "add-to-homescreen",
                   "desktop",
@@ -910,7 +910,7 @@
             "open_issues": 74,
             "owner": "google",
             "repo": "web-starter-kit",
-            "stars": 18266,
+            "stars": 18265,
             "topics": []
           },
           "first_seen": "2026-08-28T19:00:17.247Z"
@@ -1005,7 +1005,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-11T13:31:12.845Z",
+    "last_updated": "2026-10-12T16:06:33.713Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Progressive Web Apps, resources, tools and articles",
@@ -1014,7 +1014,7 @@
       "language": "JavaScript",
       "license": null,
       "last_commit": "2026-08-10T05:18:51Z",
-      "open_issues": 81,
+      "open_issues": 82,
       "owner": "hemanth",
       "repo": "awesome-pwa",
       "stars": 4933,
