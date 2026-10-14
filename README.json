@@ -21,7 +21,7 @@
                 "open_issues": 18,
                 "owner": "foldergram",
                 "repo": "foldergram",
-                "stars": 571,
+                "stars": 572,
                 "topics": [
                   "docker",
                   "express",
@@ -66,7 +66,7 @@
                 "open_issues": 53,
                 "owner": "aermin",
                 "repo": "ghChat",
-                "stars": 928,
+                "stars": 929,
                 "topics": [
                   "axios",
                   "chat",
@@ -299,7 +299,7 @@
                 "open_issues": 5,
                 "owner": "NascHQ",
                 "repo": "dsw",
-                "stars": 268,
+                "stars": 269,
                 "topics": [
                   "dynamic-service-worker",
                   "indexeddb",
@@ -355,7 +355,7 @@
                 "open_issues": 80,
                 "owner": "GoogleChrome",
                 "repo": "workbox",
-                "stars": 13023,
+                "stars": 13025,
                 "topics": [
                   "offline-first",
                   "progressive-web-app",
@@ -383,7 +383,7 @@
                 "open_issues": 58,
                 "owner": "GoogleChromeLabs",
                 "repo": "sw-precache",
-                "stars": 5180,
+                "stars": 5181,
                 "topics": [
                   "javascript",
                   "offline",
@@ -467,7 +467,7 @@
                 "open_issues": 5,
                 "owner": "gmetais",
                 "repo": "sw-delta",
-                "stars": 1096,
+                "stars": 1097,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:00:17.247Z"
@@ -732,7 +732,7 @@
                 "open_issues": 34,
                 "owner": "tastejs",
                 "repo": "hacker-news-pwas",
-                "stars": 2403,
+                "stars": 2404,
                 "topics": [
                   "code-splitting",
                   "hacker",
@@ -910,7 +910,7 @@
             "open_issues": 74,
             "owner": "google",
             "repo": "web-starter-kit",
-            "stars": 18264,
+            "stars": 18265,
             "topics": []
           },
           "first_seen": "2026-08-28T19:00:17.247Z"
@@ -931,7 +931,7 @@
             "open_issues": 77,
             "owner": "preactjs",
             "repo": "preact-cli",
-            "stars": 4662,
+            "stars": 4663,
             "topics": [
               "cli",
               "hacktoberfest",
@@ -1005,7 +1005,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-13T14:34:21.620Z",
+    "last_updated": "2026-10-14T12:22:22.659Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Progressive Web Apps, resources, tools and articles",
@@ -1014,7 +1014,7 @@
       "language": "JavaScript",
       "license": null,
       "last_commit": "2026-08-10T05:18:51Z",
-      "open_issues": 84,
+      "open_issues": 89,
       "owner": "hemanth",
       "repo": "awesome-pwa",
       "stars": 4933,

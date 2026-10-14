@@ -64,7 +64,7 @@
 
 ### Audio and Video
 
-* [Foldergram](https://github.com/foldergram/foldergram) ⭐ 571 | 🐛 18 | 🌐 TypeScript | 📅 2026-10-04: Local-only photo and video gallery for folders, with an Instagram-inspired browsing pattern.
+* [Foldergram](https://github.com/foldergram/foldergram) ⭐ 572 | 🐛 18 | 🌐 TypeScript | 📅 2026-10-04: Local-only photo and video gallery for folders, with an Instagram-inspired browsing pattern.
 * [BitMidi](https://bitmidi.com): Listen to your favorite MIDI files.
 * [guitar-tuner](https://aerotwist.com/blog/guitar-tuner/): Aerotwist Guitar Tuner
 * [Joybox](https://joybox.rosano.ca): A pinboard for audiovisual media.
@@ -102,7 +102,7 @@
 
 ### Communication and Social
 
-* [ghChat](https://github.com/aermin/ghChat) ⭐ 928 | 🐛 53 | 🌐 JavaScript | 📅 2023-01-04: Chat application for GitHub.
+* [ghChat](https://github.com/aermin/ghChat) ⭐ 929 | 🐛 53 | 🌐 JavaScript | 📅 2023-01-04: Chat application for GitHub.
 * [Bloom Pro](https://bloompro.de/): Bloom Pro – Your Grow Journal - Keep track of your grows
 * [Chitchatter](https://chitchatter.im/): Secure peer-to-peer chat that is serverless, decentralized, and ephemeral
 * [Datememe](https://www.datememe.com): Online dating.
@@ -416,7 +416,7 @@
 
 * [`PWA Asset Generator`](https://github.com/elegantapp/pwa-asset-generator) ⭐ 3,040 | 🐛 53 | 🌐 TypeScript | 📅 2026-10-12: Automates PWA asset generation and image declaration. Automatically generates icon and splash screen images, favicons and mstile images.
 * [`PWAify`](https://github.com/vladikoff/PWAify) ⭐ 439 | 🐛 12 | 🌐 JavaScript | 📅 2020-06-07: CLI tool to convert your PWA into a cross-platform desktop app.
-* [`DSW`](https://github.com/naschq/dsw) ⭐ 268 | 🐛 5 | 🌐 JavaScript | 📅 2017-10-22: Generate your Service Worker dynamically, webmanifest, rules for requests, redirects, etc.
+* [`DSW`](https://github.com/naschq/dsw) ⭐ 269 | 🐛 5 | 🌐 JavaScript | 📅 2017-10-22: Generate your Service Worker dynamically, webmanifest, rules for requests, redirects, etc.
 * [`fetch-manifest-json`](https://github.com/hemanth/fetch-manifest-json) ⭐ 6 | 🐛 11 | 🌐 JavaScript | 📅 2026-10-05: Fetch the `mainfest.json` from an URL.
 * [`Manifest Generator`](https://brucelawson.github.io/manifest/): This simple page will generate the manifest file for you.
 * [`manifest-json`](https://www.npmjs.com/package/manifest-json): CLI tool for creating `mainfest.json`.
@@ -425,11 +425,11 @@
 
 ### Service Worker Libraries
 
-* [`Workbox`](https://github.com/GoogleChrome/workbox) ⭐ 13,023 | 🐛 80 | 🌐 JavaScript | 📅 2026-10-13: Javascript Library for building progressive web apps
+* [`Workbox`](https://github.com/GoogleChrome/workbox) ⭐ 13,025 | 🐛 80 | 🌐 JavaScript | 📅 2026-10-13: Javascript Library for building progressive web apps
 * [`sw-precache`](https://github.com/GoogleChrome/sw-precache) ⚠️ Archived: A node module to generate service worker code that will precache specific resources
 * [`UpUp`](https://github.com/TalAter/UpUp) ⭐ 4,919 | 🐛 40 | 🌐 JavaScript | 📅 2026-10-02: Makes sure your users can always access your site's content, even when they're on a plane, in an elevator, or 20,000 leagues under the sea
 * [`sw-toolbox`](https://github.com/GoogleChrome/sw-toolbox) ⚠️ Archived: A runtime caching library
-* [`sw-delta`](https://github.com/gmetais/sw-delta) ⭐ 1,096 | 🐛 5 | 🌐 JavaScript | 📅 2016-08-27: An incremental cache for the web.
+* [`sw-delta`](https://github.com/gmetais/sw-delta) ⭐ 1,097 | 🐛 5 | 🌐 JavaScript | 📅 2016-08-27: An incremental cache for the web.
 * [`serviceworkerware`](https://github.com/fxos-components/serviceworkerware) ⚠️ Archived: An Express-like layer on top of ServiceWorkers to provide a way to easily plug functionality
 * [`verifyfetch`](https://github.com/hamzaydia/verifyfetch) ⭐ 159 | 🐛 0 | 🌐 TypeScript | 📅 2026-04-07: Resumable, integrity-verified downloads for large offline assets. Includes Service Worker mode for transparent verification of all fetch requests.
 * [`fetch-sync`](https://github.com/sdgluck/fetch-sync) ⭐ 127 | 🐛 1 | 🌐 JavaScript | 📅 2017-07-30: Proxy Fetch requests through the Background Sync API
@@ -458,7 +458,7 @@
 ## Kits
 
 * [`Web Starter Kit`](https://github.com/google/web-starter-kit) ⚠️ Archived: A workflow for multi-device websites.
-* [Preact CLI](https://github.com/developit/preact-cli) ⭐ 4,662 | 🐛 77 | 🌐 JavaScript | 📅 2024-03-27: "Your next Preact PWA in 30 seconds"
+* [Preact CLI](https://github.com/developit/preact-cli) ⭐ 4,663 | 🐛 77 | 🌐 JavaScript | 📅 2024-03-27: "Your next Preact PWA in 30 seconds"
 * [`Bento starter`](https://github.com/kefranabg/bento-starter) ⭐ 1,509 | 🐛 23 | 🌐 JavaScript | 📅 2021-02-12: Full-stack solution to build Progressive Web Apps.
 * [`Progressive Web Application skeleton`](https://github.com/PolymerLabs/progressive-webapp-config) ⚠️ Archived: A simple set of skeleton files for shipping a Progressive Web App.
 * [`pwabuilder`](http://www.pwabuilder.com/): All the tools you need to build and deploy your Progressive Web Apps.
@@ -487,4 +487,4 @@ Contributions are welcome! Please check the guidelines and open a PR.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-13._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-14._
