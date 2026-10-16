@@ -21,7 +21,7 @@
                 "open_issues": 18,
                 "owner": "foldergram",
                 "repo": "foldergram",
-                "stars": 573,
+                "stars": 574,
                 "topics": [
                   "docker",
                   "express",
@@ -237,7 +237,7 @@
                 "open_issues": 53,
                 "owner": "elegantapp",
                 "repo": "pwa-asset-generator",
-                "stars": 3040,
+                "stars": 3041,
                 "topics": [
                   "android",
                   "favicon",
@@ -351,8 +351,8 @@
                 "id": 55424670,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-10-13T06:32:33Z",
-                "open_issues": 80,
+                "last_commit": "2026-10-16T11:07:03Z",
+                "open_issues": 81,
                 "owner": "GoogleChrome",
                 "repo": "workbox",
                 "stars": 13025,
@@ -383,7 +383,7 @@
                 "open_issues": 58,
                 "owner": "GoogleChromeLabs",
                 "repo": "sw-precache",
-                "stars": 5181,
+                "stars": 5180,
                 "topics": [
                   "javascript",
                   "offline",
@@ -608,7 +608,7 @@
                 "open_issues": 110,
                 "owner": "NekR",
                 "repo": "offline-plugin",
-                "stars": 4503,
+                "stars": 4502,
                 "topics": [
                   "appcache",
                   "application-cache",
@@ -910,7 +910,7 @@
             "open_issues": 74,
             "owner": "google",
             "repo": "web-starter-kit",
-            "stars": 18264,
+            "stars": 18265,
             "topics": []
           },
           "first_seen": "2026-08-28T19:00:17.247Z"
@@ -931,7 +931,7 @@
             "open_issues": 77,
             "owner": "preactjs",
             "repo": "preact-cli",
-            "stars": 4663,
+            "stars": 4662,
             "topics": [
               "cli",
               "hacktoberfest",
@@ -1005,7 +1005,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-15T12:07:06.926Z",
+    "last_updated": "2026-10-16T11:54:06.210Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Progressive Web Apps, resources, tools and articles",
@@ -1014,7 +1014,7 @@
       "language": "JavaScript",
       "license": null,
       "last_commit": "2026-08-10T05:18:51Z",
-      "open_issues": 89,
+      "open_issues": 91,
       "owner": "hemanth",
       "repo": "awesome-pwa",
       "stars": 4933,
