@@ -21,7 +21,7 @@
                 "open_issues": 18,
                 "owner": "foldergram",
                 "repo": "foldergram",
-                "stars": 574,
+                "stars": 575,
                 "topics": [
                   "docker",
                   "express",
@@ -351,8 +351,8 @@
                 "id": 55424670,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-10-16T11:07:03Z",
-                "open_issues": 81,
+                "last_commit": "2026-10-17T10:09:58Z",
+                "open_issues": 82,
                 "owner": "GoogleChrome",
                 "repo": "workbox",
                 "stars": 13025,
@@ -411,7 +411,7 @@
                 "open_issues": 40,
                 "owner": "TalAter",
                 "repo": "UpUp",
-                "stars": 4919,
+                "stars": 4920,
                 "topics": [
                   "hacktoberfest",
                   "offline",
@@ -553,7 +553,7 @@
                 "open_issues": 1,
                 "owner": "sdgluck",
                 "repo": "fetch-background-sync",
-                "stars": 127,
+                "stars": 128,
                 "topics": [
                   "background-sync",
                   "service-workers"
@@ -577,7 +577,7 @@
                 "open_issues": 0,
                 "owner": "sdgluck",
                 "repo": "msgr",
-                "stars": 40,
+                "stars": 41,
                 "topics": [
                   "message-handler",
                   "service-worker"
@@ -1005,7 +1005,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-16T11:54:06.210Z",
+    "last_updated": "2026-10-17T11:10:31.610Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Progressive Web Apps, resources, tools and articles",
@@ -1017,7 +1017,7 @@
       "open_issues": 91,
       "owner": "hemanth",
       "repo": "awesome-pwa",
-      "stars": 4933,
+      "stars": 4935,
       "topics": [
         "awesome-list",
         "modern-web",
