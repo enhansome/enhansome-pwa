@@ -355,7 +355,7 @@
                 "open_issues": 82,
                 "owner": "GoogleChrome",
                 "repo": "workbox",
-                "stars": 13025,
+                "stars": 13024,
                 "topics": [
                   "offline-first",
                   "progressive-web-app",
@@ -411,7 +411,7 @@
                 "open_issues": 40,
                 "owner": "TalAter",
                 "repo": "UpUp",
-                "stars": 4920,
+                "stars": 4919,
                 "topics": [
                   "hacktoberfest",
                   "offline",
@@ -608,7 +608,7 @@
                 "open_issues": 110,
                 "owner": "NekR",
                 "repo": "offline-plugin",
-                "stars": 4502,
+                "stars": 4501,
                 "topics": [
                   "appcache",
                   "application-cache",
@@ -931,7 +931,7 @@
             "open_issues": 77,
             "owner": "preactjs",
             "repo": "preact-cli",
-            "stars": 4662,
+            "stars": 4661,
             "topics": [
               "cli",
               "hacktoberfest",
@@ -1005,7 +1005,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-17T11:10:31.610Z",
+    "last_updated": "2026-10-18T11:42:22.916Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Progressive Web Apps, resources, tools and articles",
@@ -1014,10 +1014,10 @@
       "language": "JavaScript",
       "license": null,
       "last_commit": "2026-08-10T05:18:51Z",
-      "open_issues": 91,
+      "open_issues": 95,
       "owner": "hemanth",
       "repo": "awesome-pwa",
-      "stars": 4935,
+      "stars": 4933,
       "topics": [
         "awesome-list",
         "modern-web",
