@@ -21,7 +21,7 @@
                 "open_issues": 18,
                 "owner": "foldergram",
                 "repo": "foldergram",
-                "stars": 575,
+                "stars": 576,
                 "topics": [
                   "docker",
                   "express",
@@ -910,7 +910,7 @@
             "open_issues": 74,
             "owner": "google",
             "repo": "web-starter-kit",
-            "stars": 18265,
+            "stars": 18264,
             "topics": []
           },
           "first_seen": "2026-08-28T19:00:17.247Z"
@@ -1005,7 +1005,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-19T13:56:52.845Z",
+    "last_updated": "2026-10-20T12:11:32.852Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Progressive Web Apps, resources, tools and articles",
@@ -1017,7 +1017,7 @@
       "open_issues": 101,
       "owner": "hemanth",
       "repo": "awesome-pwa",
-      "stars": 4935,
+      "stars": 4937,
       "topics": [
         "awesome-list",
         "modern-web",
