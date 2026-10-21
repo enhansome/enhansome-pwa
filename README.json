@@ -18,7 +18,7 @@
                 "language": "TypeScript",
                 "license": "AGPL-3.0",
                 "last_commit": "2026-10-04T16:24:36Z",
-                "open_issues": 18,
+                "open_issues": 17,
                 "owner": "foldergram",
                 "repo": "foldergram",
                 "stars": 576,
@@ -154,7 +154,7 @@
                 "open_issues": 7,
                 "owner": "kaorii-ako",
                 "repo": "Shiori-v1",
-                "stars": 45,
+                "stars": 46,
                 "topics": [
                   "ai",
                   "docker",
@@ -351,11 +351,11 @@
                 "id": 55424670,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-10-17T10:09:58Z",
-                "open_issues": 82,
+                "last_commit": "2026-10-20T18:07:54Z",
+                "open_issues": 83,
                 "owner": "GoogleChrome",
                 "repo": "workbox",
-                "stars": 13026,
+                "stars": 13028,
                 "topics": [
                   "offline-first",
                   "progressive-web-app",
@@ -411,7 +411,7 @@
                 "open_issues": 40,
                 "owner": "TalAter",
                 "repo": "UpUp",
-                "stars": 4920,
+                "stars": 4919,
                 "topics": [
                   "hacktoberfest",
                   "offline",
@@ -608,7 +608,7 @@
                 "open_issues": 110,
                 "owner": "NekR",
                 "repo": "offline-plugin",
-                "stars": 4501,
+                "stars": 4500,
                 "topics": [
                   "appcache",
                   "application-cache",
@@ -960,7 +960,7 @@
             "open_issues": 23,
             "owner": "kefranabg",
             "repo": "bento-starter",
-            "stars": 1509,
+            "stars": 1508,
             "topics": [
               "circleci",
               "firebase",
@@ -1005,7 +1005,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-20T12:11:32.852Z",
+    "last_updated": "2026-10-21T12:24:48.359Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Progressive Web Apps, resources, tools and articles",
@@ -1014,7 +1014,7 @@
       "language": "JavaScript",
       "license": null,
       "last_commit": "2026-08-10T05:18:51Z",
-      "open_issues": 101,
+      "open_issues": 103,
       "owner": "hemanth",
       "repo": "awesome-pwa",
       "stars": 4937,
