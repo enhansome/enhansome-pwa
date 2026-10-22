@@ -18,10 +18,10 @@
                 "language": "TypeScript",
                 "license": "AGPL-3.0",
                 "last_commit": "2026-10-04T16:24:36Z",
-                "open_issues": 17,
+                "open_issues": 18,
                 "owner": "foldergram",
                 "repo": "foldergram",
-                "stars": 576,
+                "stars": 577,
                 "topics": [
                   "docker",
                   "express",
@@ -237,7 +237,7 @@
                 "open_issues": 53,
                 "owner": "elegantapp",
                 "repo": "pwa-asset-generator",
-                "stars": 3041,
+                "stars": 3040,
                 "topics": [
                   "android",
                   "favicon",
@@ -355,7 +355,7 @@
                 "open_issues": 83,
                 "owner": "GoogleChrome",
                 "repo": "workbox",
-                "stars": 13028,
+                "stars": 13030,
                 "topics": [
                   "offline-first",
                   "progressive-web-app",
@@ -467,7 +467,7 @@
                 "open_issues": 5,
                 "owner": "gmetais",
                 "repo": "sw-delta",
-                "stars": 1097,
+                "stars": 1096,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:00:17.247Z"
@@ -608,7 +608,7 @@
                 "open_issues": 110,
                 "owner": "NekR",
                 "repo": "offline-plugin",
-                "stars": 4500,
+                "stars": 4499,
                 "topics": [
                   "appcache",
                   "application-cache",
@@ -700,7 +700,7 @@
                 "open_issues": 24,
                 "owner": "oliviertassinari",
                 "repo": "serviceworker-webpack-plugin",
-                "stars": 456,
+                "stars": 455,
                 "topics": [
                   "plugin",
                   "serviceworker",
@@ -910,7 +910,7 @@
             "open_issues": 74,
             "owner": "google",
             "repo": "web-starter-kit",
-            "stars": 18264,
+            "stars": 18263,
             "topics": []
           },
           "first_seen": "2026-08-28T19:00:17.247Z"
@@ -1005,7 +1005,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-21T12:24:48.359Z",
+    "last_updated": "2026-10-22T12:25:06.250Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Progressive Web Apps, resources, tools and articles",
@@ -1017,7 +1017,7 @@
       "open_issues": 103,
       "owner": "hemanth",
       "repo": "awesome-pwa",
-      "stars": 4937,
+      "stars": 4939,
       "topics": [
         "awesome-list",
         "modern-web",
