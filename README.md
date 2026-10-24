@@ -64,7 +64,7 @@
 
 ### Audio and Video
 
-* [Foldergram](https://github.com/foldergram/foldergram) ⭐ 577 | 🐛 18 | 🌐 TypeScript | 📅 2026-10-04: Local-only photo and video gallery for folders, with an Instagram-inspired browsing pattern.
+* [Foldergram](https://github.com/foldergram/foldergram) ⭐ 579 | 🐛 18 | 🌐 TypeScript | 📅 2026-10-04: Local-only photo and video gallery for folders, with an Instagram-inspired browsing pattern.
 * [BitMidi](https://bitmidi.com): Listen to your favorite MIDI files.
 * [guitar-tuner](https://aerotwist.com/blog/guitar-tuner/): Aerotwist Guitar Tuner
 * [Joybox](https://joybox.rosano.ca): A pinboard for audiovisual media.
@@ -431,7 +431,7 @@
 * [`sw-toolbox`](https://github.com/GoogleChrome/sw-toolbox) ⚠️ Archived: A runtime caching library
 * [`sw-delta`](https://github.com/gmetais/sw-delta) ⭐ 1,096 | 🐛 5 | 🌐 JavaScript | 📅 2016-08-27: An incremental cache for the web.
 * [`serviceworkerware`](https://github.com/fxos-components/serviceworkerware) ⚠️ Archived: An Express-like layer on top of ServiceWorkers to provide a way to easily plug functionality
-* [`verifyfetch`](https://github.com/hamzaydia/verifyfetch) ⭐ 159 | 🐛 0 | 🌐 TypeScript | 📅 2026-04-07: Resumable, integrity-verified downloads for large offline assets. Includes Service Worker mode for transparent verification of all fetch requests.
+* [`verifyfetch`](https://github.com/hamzaydia/verifyfetch) ⭐ 160 | 🐛 0 | 🌐 TypeScript | 📅 2026-04-07: Resumable, integrity-verified downloads for large offline assets. Includes Service Worker mode for transparent verification of all fetch requests.
 * [`fetch-sync`](https://github.com/sdgluck/fetch-sync) ⭐ 128 | 🐛 1 | 🌐 JavaScript | 📅 2017-07-30: Proxy Fetch requests through the Background Sync API
 * [`msgr`](https://github.com/sdgluck/msgr) ⭐ 41 | 🐛 0 | 🌐 JavaScript | 📅 2016-08-02: Nifty service worker/client message utility
 
@@ -487,4 +487,4 @@ Contributions are welcome! Please check the guidelines and open a PR.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-23._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-24._

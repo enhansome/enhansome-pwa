@@ -21,7 +21,7 @@
                 "open_issues": 18,
                 "owner": "foldergram",
                 "repo": "foldergram",
-                "stars": 577,
+                "stars": 579,
                 "topics": [
                   "docker",
                   "express",
@@ -512,7 +512,7 @@
                 "open_issues": 0,
                 "owner": "hamzaydia",
                 "repo": "verifyfetch",
-                "stars": 159,
+                "stars": 160,
                 "topics": [
                   "ai-models",
                   "browser",
@@ -907,10 +907,10 @@
             "language": "HTML",
             "license": "Apache-2.0",
             "last_commit": "2024-04-22T23:42:34Z",
-            "open_issues": 74,
+            "open_issues": 73,
             "owner": "google",
             "repo": "web-starter-kit",
-            "stars": 18263,
+            "stars": 18262,
             "topics": []
           },
           "first_seen": "2026-08-28T19:00:17.247Z"
@@ -1005,7 +1005,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-23T12:06:36.453Z",
+    "last_updated": "2026-10-24T11:37:53.834Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Progressive Web Apps, resources, tools and articles",
