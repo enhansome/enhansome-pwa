@@ -64,7 +64,7 @@
 
 ### Audio and Video
 
-* [Foldergram](https://github.com/foldergram/foldergram) ⭐ 579 | 🐛 18 | 🌐 TypeScript | 📅 2026-10-04: Local-only photo and video gallery for folders, with an Instagram-inspired browsing pattern.
+* [Foldergram](https://github.com/foldergram/foldergram) ⭐ 580 | 🐛 18 | 🌐 TypeScript | 📅 2026-10-04: Local-only photo and video gallery for folders, with an Instagram-inspired browsing pattern.
 * [BitMidi](https://bitmidi.com): Listen to your favorite MIDI files.
 * [guitar-tuner](https://aerotwist.com/blog/guitar-tuner/): Aerotwist Guitar Tuner
 * [Joybox](https://joybox.rosano.ca): A pinboard for audiovisual media.
@@ -425,7 +425,7 @@
 
 ### Service Worker Libraries
 
-* [`Workbox`](https://github.com/GoogleChrome/workbox) ⭐ 13,031 | 🐛 84 | 🌐 JavaScript | 📅 2026-10-20: Javascript Library for building progressive web apps
+* [`Workbox`](https://github.com/GoogleChrome/workbox) ⭐ 13,035 | 🐛 84 | 🌐 JavaScript | 📅 2026-10-20: Javascript Library for building progressive web apps
 * [`sw-precache`](https://github.com/GoogleChrome/sw-precache) ⚠️ Archived: A node module to generate service worker code that will precache specific resources
 * [`UpUp`](https://github.com/TalAter/UpUp) ⭐ 4,919 | 🐛 40 | 🌐 JavaScript | 📅 2026-10-02: Makes sure your users can always access your site's content, even when they're on a plane, in an elevator, or 20,000 leagues under the sea
 * [`sw-toolbox`](https://github.com/GoogleChrome/sw-toolbox) ⚠️ Archived: A runtime caching library
@@ -458,7 +458,7 @@
 ## Kits
 
 * [`Web Starter Kit`](https://github.com/google/web-starter-kit) ⚠️ Archived: A workflow for multi-device websites.
-* [Preact CLI](https://github.com/developit/preact-cli) ⭐ 4,660 | 🐛 77 | 🌐 JavaScript | 📅 2024-03-27: "Your next Preact PWA in 30 seconds"
+* [Preact CLI](https://github.com/developit/preact-cli) ⭐ 4,659 | 🐛 77 | 🌐 JavaScript | 📅 2024-03-27: "Your next Preact PWA in 30 seconds"
 * [`Bento starter`](https://github.com/kefranabg/bento-starter) ⭐ 1,508 | 🐛 23 | 🌐 JavaScript | 📅 2021-02-12: Full-stack solution to build Progressive Web Apps.
 * [`Progressive Web Application skeleton`](https://github.com/PolymerLabs/progressive-webapp-config) ⚠️ Archived: A simple set of skeleton files for shipping a Progressive Web App.
 * [`pwabuilder`](http://www.pwabuilder.com/): All the tools you need to build and deploy your Progressive Web Apps.
@@ -487,4 +487,4 @@ Contributions are welcome! Please check the guidelines and open a PR.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-24._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-25._

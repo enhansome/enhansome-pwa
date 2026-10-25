@@ -21,7 +21,7 @@
                 "open_issues": 18,
                 "owner": "foldergram",
                 "repo": "foldergram",
-                "stars": 579,
+                "stars": 580,
                 "topics": [
                   "docker",
                   "express",
@@ -355,7 +355,7 @@
                 "open_issues": 84,
                 "owner": "GoogleChrome",
                 "repo": "workbox",
-                "stars": 13031,
+                "stars": 13035,
                 "topics": [
                   "offline-first",
                   "progressive-web-app",
@@ -383,7 +383,7 @@
                 "open_issues": 58,
                 "owner": "GoogleChromeLabs",
                 "repo": "sw-precache",
-                "stars": 5180,
+                "stars": 5181,
                 "topics": [
                   "javascript",
                   "offline",
@@ -910,7 +910,7 @@
             "open_issues": 73,
             "owner": "google",
             "repo": "web-starter-kit",
-            "stars": 18262,
+            "stars": 18263,
             "topics": []
           },
           "first_seen": "2026-08-28T19:00:17.247Z"
@@ -931,7 +931,7 @@
             "open_issues": 77,
             "owner": "preactjs",
             "repo": "preact-cli",
-            "stars": 4660,
+            "stars": 4659,
             "topics": [
               "cli",
               "hacktoberfest",
@@ -1005,7 +1005,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-24T11:37:53.834Z",
+    "last_updated": "2026-10-25T11:59:04.507Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Progressive Web Apps, resources, tools and articles",
@@ -1014,10 +1014,10 @@
       "language": "JavaScript",
       "license": null,
       "last_commit": "2026-08-10T05:18:51Z",
-      "open_issues": 107,
+      "open_issues": 109,
       "owner": "hemanth",
       "repo": "awesome-pwa",
-      "stars": 4939,
+      "stars": 4941,
       "topics": [
         "awesome-list",
         "modern-web",
