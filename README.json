@@ -21,7 +21,7 @@
                 "open_issues": 21,
                 "owner": "foldergram",
                 "repo": "foldergram",
-                "stars": 580,
+                "stars": 581,
                 "topics": [
                   "docker",
                   "express",
@@ -66,7 +66,7 @@
                 "open_issues": 53,
                 "owner": "aermin",
                 "repo": "ghChat",
-                "stars": 929,
+                "stars": 928,
                 "topics": [
                   "axios",
                   "chat",
@@ -237,7 +237,7 @@
                 "open_issues": 53,
                 "owner": "elegantapp",
                 "repo": "pwa-asset-generator",
-                "stars": 3040,
+                "stars": 3041,
                 "topics": [
                   "android",
                   "favicon",
@@ -355,7 +355,7 @@
                 "open_issues": 84,
                 "owner": "GoogleChrome",
                 "repo": "workbox",
-                "stars": 13034,
+                "stars": 13036,
                 "topics": [
                   "offline-first",
                   "progressive-web-app",
@@ -761,7 +761,7 @@
                 "open_issues": 2,
                 "owner": "philfung",
                 "repo": "add-to-homescreen",
-                "stars": 350,
+                "stars": 351,
                 "topics": [
                   "add-to-homescreen",
                   "desktop",
@@ -1005,7 +1005,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-26T13:34:05.109Z",
+    "last_updated": "2026-10-27T12:40:12.856Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Progressive Web Apps, resources, tools and articles",
@@ -1014,7 +1014,7 @@
       "language": "JavaScript",
       "license": null,
       "last_commit": "2026-08-10T05:18:51Z",
-      "open_issues": 111,
+      "open_issues": 117,
       "owner": "hemanth",
       "repo": "awesome-pwa",
       "stars": 4940,
