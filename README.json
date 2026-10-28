@@ -18,7 +18,7 @@
                 "language": "TypeScript",
                 "license": "AGPL-3.0",
                 "last_commit": "2026-10-04T16:24:36Z",
-                "open_issues": 21,
+                "open_issues": 22,
                 "owner": "foldergram",
                 "repo": "foldergram",
                 "stars": 581,
@@ -110,7 +110,7 @@
                 "open_issues": 2,
                 "owner": "gokulkrishh",
                 "repo": "demo-progressive-web-app",
-                "stars": 969,
+                "stars": 967,
                 "topics": [
                   "addtohomescreen",
                   "background-sync",
@@ -154,7 +154,7 @@
                 "open_issues": 6,
                 "owner": "kaorii-ako",
                 "repo": "Shiori-v1",
-                "stars": 46,
+                "stars": 47,
                 "topics": [
                   "ai",
                   "docker",
@@ -355,7 +355,7 @@
                 "open_issues": 84,
                 "owner": "GoogleChrome",
                 "repo": "workbox",
-                "stars": 13036,
+                "stars": 13038,
                 "topics": [
                   "offline-first",
                   "progressive-web-app",
@@ -411,7 +411,7 @@
                 "open_issues": 40,
                 "owner": "TalAter",
                 "repo": "UpUp",
-                "stars": 4920,
+                "stars": 4919,
                 "topics": [
                   "hacktoberfest",
                   "offline",
@@ -673,7 +673,7 @@
                 "open_issues": 1,
                 "owner": "rossta",
                 "repo": "serviceworker-rails",
-                "stars": 584,
+                "stars": 585,
                 "topics": [
                   "javascript",
                   "rails",
@@ -732,7 +732,7 @@
                 "open_issues": 34,
                 "owner": "tastejs",
                 "repo": "hacker-news-pwas",
-                "stars": 2403,
+                "stars": 2402,
                 "topics": [
                   "code-splitting",
                   "hacker",
@@ -1005,7 +1005,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-27T12:40:12.856Z",
+    "last_updated": "2026-10-28T13:31:31.658Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Progressive Web Apps, resources, tools and articles",
@@ -1014,10 +1014,10 @@
       "language": "JavaScript",
       "license": null,
       "last_commit": "2026-08-10T05:18:51Z",
-      "open_issues": 117,
+      "open_issues": 122,
       "owner": "hemanth",
       "repo": "awesome-pwa",
-      "stars": 4940,
+      "stars": 4939,
       "topics": [
         "awesome-list",
         "modern-web",
