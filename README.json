@@ -110,7 +110,7 @@
                 "open_issues": 2,
                 "owner": "gokulkrishh",
                 "repo": "demo-progressive-web-app",
-                "stars": 967,
+                "stars": 968,
                 "topics": [
                   "addtohomescreen",
                   "background-sync",
@@ -237,7 +237,7 @@
                 "open_issues": 53,
                 "owner": "elegantapp",
                 "repo": "pwa-asset-generator",
-                "stars": 3041,
+                "stars": 3042,
                 "topics": [
                   "android",
                   "favicon",
@@ -352,7 +352,7 @@
                 "language": "JavaScript",
                 "license": "MIT",
                 "last_commit": "2026-10-20T18:07:54Z",
-                "open_issues": 84,
+                "open_issues": 85,
                 "owner": "GoogleChrome",
                 "repo": "workbox",
                 "stars": 13038,
@@ -383,7 +383,7 @@
                 "open_issues": 58,
                 "owner": "GoogleChromeLabs",
                 "repo": "sw-precache",
-                "stars": 5181,
+                "stars": 5180,
                 "topics": [
                   "javascript",
                   "offline",
@@ -761,7 +761,7 @@
                 "open_issues": 2,
                 "owner": "philfung",
                 "repo": "add-to-homescreen",
-                "stars": 351,
+                "stars": 348,
                 "topics": [
                   "add-to-homescreen",
                   "desktop",
@@ -910,7 +910,7 @@
             "open_issues": 73,
             "owner": "google",
             "repo": "web-starter-kit",
-            "stars": 18262,
+            "stars": 18260,
             "topics": []
           },
           "first_seen": "2026-08-28T19:00:17.247Z"
@@ -1005,7 +1005,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-28T13:31:31.658Z",
+    "last_updated": "2026-10-29T13:43:25.170Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Progressive Web Apps, resources, tools and articles",
@@ -1014,7 +1014,7 @@
       "language": "JavaScript",
       "license": null,
       "last_commit": "2026-08-10T05:18:51Z",
-      "open_issues": 122,
+      "open_issues": 125,
       "owner": "hemanth",
       "repo": "awesome-pwa",
       "stars": 4939,
