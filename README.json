@@ -17,11 +17,11 @@
                 "id": 1181781009,
                 "language": "TypeScript",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-10-04T16:24:36Z",
-                "open_issues": 20,
+                "last_commit": "2026-10-31T01:17:01Z",
+                "open_issues": 15,
                 "owner": "foldergram",
                 "repo": "foldergram",
-                "stars": 582,
+                "stars": 587,
                 "topics": [
                   "docker",
                   "express",
@@ -352,10 +352,10 @@
                 "language": "JavaScript",
                 "license": "MIT",
                 "last_commit": "2026-10-29T21:43:40Z",
-                "open_issues": 85,
+                "open_issues": 86,
                 "owner": "GoogleChrome",
                 "repo": "workbox",
-                "stars": 13039,
+                "stars": 13040,
                 "topics": [
                   "offline-first",
                   "progressive-web-app",
@@ -910,7 +910,7 @@
             "open_issues": 73,
             "owner": "google",
             "repo": "web-starter-kit",
-            "stars": 18258,
+            "stars": 18257,
             "topics": []
           },
           "first_seen": "2026-08-28T19:00:17.247Z"
@@ -1005,7 +1005,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-30T13:34:01.475Z",
+    "last_updated": "2026-10-31T13:03:42.590Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Progressive Web Apps, resources, tools and articles",
@@ -1014,7 +1014,7 @@
       "language": "JavaScript",
       "license": null,
       "last_commit": "2026-08-10T05:18:51Z",
-      "open_issues": 126,
+      "open_issues": 129,
       "owner": "hemanth",
       "repo": "awesome-pwa",
       "stars": 4940,
