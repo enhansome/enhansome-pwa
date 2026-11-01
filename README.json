@@ -21,7 +21,7 @@
                 "open_issues": 15,
                 "owner": "foldergram",
                 "repo": "foldergram",
-                "stars": 587,
+                "stars": 594,
                 "topics": [
                   "docker",
                   "express",
@@ -1005,7 +1005,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-31T13:03:42.590Z",
+    "last_updated": "2026-11-01T13:47:13.580Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Progressive Web Apps, resources, tools and articles",
