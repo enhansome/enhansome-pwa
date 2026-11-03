@@ -64,7 +64,7 @@
 
 ### Audio and Video
 
-* [Foldergram](https://github.com/foldergram/foldergram) ⭐ 600 | 🐛 14 | 🌐 TypeScript | 📅 2026-11-02: Local-only photo and video gallery for folders, with an Instagram-inspired browsing pattern.
+* [Foldergram](https://github.com/foldergram/foldergram) ⭐ 601 | 🐛 14 | 🌐 TypeScript | 📅 2026-11-03: Local-only photo and video gallery for folders, with an Instagram-inspired browsing pattern.
 * [BitMidi](https://bitmidi.com): Listen to your favorite MIDI files.
 * [guitar-tuner](https://aerotwist.com/blog/guitar-tuner/): Aerotwist Guitar Tuner
 * [Joybox](https://joybox.rosano.ca): A pinboard for audiovisual media.
@@ -118,7 +118,7 @@
 
 ### Development and Design
 
-* [Demo PWA](https://github.com/gokulkrishh/demo-progressive-web-app) ⭐ 968 | 🐛 2 | 🌐 JavaScript | 📅 2023-11-27: Demonstrating offline, push notifications, background sync etc.
+* [Demo PWA](https://github.com/gokulkrishh/demo-progressive-web-app) ⭐ 967 | 🐛 2 | 🌐 JavaScript | 📅 2023-11-27: Demonstrating offline, push notifications, background sync etc.
 * [3D House Editor](https://3dhouseplanner.com/app2.php): Free 3D floor planner
 * [ampproject](https://www.ampproject.org): Web component framework.
 * [Bento-starter](https://bento-starter.firebaseapp.com): Open-Source Full-Stack solution for fast PWA development
@@ -414,7 +414,7 @@
 
 ### Generators and CLIs
 
-* [`PWA Asset Generator`](https://github.com/elegantapp/pwa-asset-generator) ⭐ 3,042 | 🐛 53 | 🌐 TypeScript | 📅 2026-10-12: Automates PWA asset generation and image declaration. Automatically generates icon and splash screen images, favicons and mstile images.
+* [`PWA Asset Generator`](https://github.com/elegantapp/pwa-asset-generator) ⭐ 3,043 | 🐛 53 | 🌐 TypeScript | 📅 2026-10-12: Automates PWA asset generation and image declaration. Automatically generates icon and splash screen images, favicons and mstile images.
 * [`PWAify`](https://github.com/vladikoff/PWAify) ⭐ 439 | 🐛 12 | 🌐 JavaScript | 📅 2020-06-07: CLI tool to convert your PWA into a cross-platform desktop app.
 * [`DSW`](https://github.com/naschq/dsw) ⭐ 269 | 🐛 5 | 🌐 JavaScript | 📅 2017-10-22: Generate your Service Worker dynamically, webmanifest, rules for requests, redirects, etc.
 * [`fetch-manifest-json`](https://github.com/hemanth/fetch-manifest-json) ⭐ 6 | 🐛 11 | 🌐 JavaScript | 📅 2026-10-05: Fetch the `mainfest.json` from an URL.
@@ -425,7 +425,7 @@
 
 ### Service Worker Libraries
 
-* [`Workbox`](https://github.com/GoogleChrome/workbox) ⭐ 13,040 | 🐛 87 | 🌐 JavaScript | 📅 2026-10-29: Javascript Library for building progressive web apps
+* [`Workbox`](https://github.com/GoogleChrome/workbox) ⭐ 13,041 | 🐛 87 | 🌐 JavaScript | 📅 2026-10-29: Javascript Library for building progressive web apps
 * [`sw-precache`](https://github.com/GoogleChrome/sw-precache) ⚠️ Archived: A node module to generate service worker code that will precache specific resources
 * [`UpUp`](https://github.com/TalAter/UpUp) ⭐ 4,920 | 🐛 40 | 🌐 JavaScript | 📅 2026-10-29: Makes sure your users can always access your site's content, even when they're on a plane, in an elevator, or 20,000 leagues under the sea
 * [`sw-toolbox`](https://github.com/GoogleChrome/sw-toolbox) ⚠️ Archived: A runtime caching library
@@ -487,4 +487,4 @@ Contributions are welcome! Please check the guidelines and open a PR.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-02._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-03._
