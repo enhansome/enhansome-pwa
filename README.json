@@ -17,11 +17,11 @@
                 "id": 1181781009,
                 "language": "TypeScript",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-11-03T14:04:07Z",
+                "last_commit": "2026-11-03T18:08:58Z",
                 "open_issues": 14,
                 "owner": "foldergram",
                 "repo": "foldergram",
-                "stars": 601,
+                "stars": 602,
                 "topics": [
                   "docker",
                   "express",
@@ -355,7 +355,7 @@
                 "open_issues": 87,
                 "owner": "GoogleChrome",
                 "repo": "workbox",
-                "stars": 13041,
+                "stars": 13042,
                 "topics": [
                   "offline-first",
                   "progressive-web-app",
@@ -669,8 +669,8 @@
                 "id": 56937166,
                 "language": "Ruby",
                 "license": "MIT",
-                "last_commit": "2026-09-03T11:11:03Z",
-                "open_issues": 1,
+                "last_commit": "2026-11-04T13:07:18Z",
+                "open_issues": 2,
                 "owner": "rossta",
                 "repo": "serviceworker-rails",
                 "stars": 585,
@@ -910,7 +910,7 @@
             "open_issues": 73,
             "owner": "google",
             "repo": "web-starter-kit",
-            "stars": 18255,
+            "stars": 18256,
             "topics": []
           },
           "first_seen": "2026-08-28T19:00:17.247Z"
@@ -1005,7 +1005,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-03T14:39:14.486Z",
+    "last_updated": "2026-11-04T14:52:28.603Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Progressive Web Apps, resources, tools and articles",
@@ -1014,7 +1014,7 @@
       "language": "JavaScript",
       "license": null,
       "last_commit": "2026-08-10T05:18:51Z",
-      "open_issues": 134,
+      "open_issues": 137,
       "owner": "hemanth",
       "repo": "awesome-pwa",
       "stars": 4942,
