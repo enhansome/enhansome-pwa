@@ -21,7 +21,7 @@
                 "open_issues": 20,
                 "owner": "foldergram",
                 "repo": "foldergram",
-                "stars": 602,
+                "stars": 603,
                 "topics": [
                   "docker",
                   "express",
@@ -66,7 +66,7 @@
                 "open_issues": 53,
                 "owner": "aermin",
                 "repo": "ghChat",
-                "stars": 928,
+                "stars": 926,
                 "topics": [
                   "axios",
                   "chat",
@@ -154,7 +154,7 @@
                 "open_issues": 6,
                 "owner": "kaorii-ako",
                 "repo": "Shiori-v1",
-                "stars": 47,
+                "stars": 48,
                 "topics": [
                   "ai",
                   "docker",
@@ -352,7 +352,7 @@
                 "language": "JavaScript",
                 "license": "MIT",
                 "last_commit": "2026-10-29T21:43:40Z",
-                "open_issues": 87,
+                "open_issues": 91,
                 "owner": "GoogleChrome",
                 "repo": "workbox",
                 "stars": 13042,
@@ -383,7 +383,7 @@
                 "open_issues": 58,
                 "owner": "GoogleChromeLabs",
                 "repo": "sw-precache",
-                "stars": 5181,
+                "stars": 5180,
                 "topics": [
                   "javascript",
                   "offline",
@@ -910,7 +910,7 @@
             "open_issues": 73,
             "owner": "google",
             "repo": "web-starter-kit",
-            "stars": 18256,
+            "stars": 18255,
             "topics": []
           },
           "first_seen": "2026-08-28T19:00:17.247Z"
@@ -1005,7 +1005,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-05T14:57:33.906Z",
+    "last_updated": "2026-11-06T14:36:36.166Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Progressive Web Apps, resources, tools and articles",
@@ -1014,10 +1014,10 @@
       "language": "JavaScript",
       "license": null,
       "last_commit": "2026-08-10T05:18:51Z",
-      "open_issues": 142,
+      "open_issues": 143,
       "owner": "hemanth",
       "repo": "awesome-pwa",
-      "stars": 4943,
+      "stars": 4942,
       "topics": [
         "awesome-list",
         "modern-web",
