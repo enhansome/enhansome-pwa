@@ -21,7 +21,7 @@
                 "open_issues": 20,
                 "owner": "foldergram",
                 "repo": "foldergram",
-                "stars": 603,
+                "stars": 604,
                 "topics": [
                   "docker",
                   "express",
@@ -352,10 +352,10 @@
                 "language": "JavaScript",
                 "license": "MIT",
                 "last_commit": "2026-10-29T21:43:40Z",
-                "open_issues": 91,
+                "open_issues": 92,
                 "owner": "GoogleChrome",
                 "repo": "workbox",
-                "stars": 13042,
+                "stars": 13041,
                 "topics": [
                   "offline-first",
                   "progressive-web-app",
@@ -732,7 +732,7 @@
                 "open_issues": 34,
                 "owner": "tastejs",
                 "repo": "hacker-news-pwas",
-                "stars": 2402,
+                "stars": 2401,
                 "topics": [
                   "code-splitting",
                   "hacker",
@@ -761,7 +761,7 @@
                 "open_issues": 2,
                 "owner": "philfung",
                 "repo": "add-to-homescreen",
-                "stars": 348,
+                "stars": 349,
                 "topics": [
                   "add-to-homescreen",
                   "desktop",
@@ -1005,7 +1005,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-06T14:36:36.166Z",
+    "last_updated": "2026-11-07T13:32:49.788Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Progressive Web Apps, resources, tools and articles",
@@ -1014,10 +1014,10 @@
       "language": "JavaScript",
       "license": null,
       "last_commit": "2026-08-10T05:18:51Z",
-      "open_issues": 143,
+      "open_issues": 142,
       "owner": "hemanth",
       "repo": "awesome-pwa",
-      "stars": 4942,
+      "stars": 4943,
       "topics": [
         "awesome-list",
         "modern-web",
