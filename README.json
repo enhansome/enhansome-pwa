@@ -17,8 +17,8 @@
                 "id": 1181781009,
                 "language": "TypeScript",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-11-03T18:08:58Z",
-                "open_issues": 20,
+                "last_commit": "2026-11-08T13:47:04Z",
+                "open_issues": 21,
                 "owner": "foldergram",
                 "repo": "foldergram",
                 "stars": 604,
@@ -1005,7 +1005,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-07T13:32:49.788Z",
+    "last_updated": "2026-11-08T13:51:14.833Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Progressive Web Apps, resources, tools and articles",
@@ -1014,10 +1014,10 @@
       "language": "JavaScript",
       "license": null,
       "last_commit": "2026-08-10T05:18:51Z",
-      "open_issues": 142,
+      "open_issues": 149,
       "owner": "hemanth",
       "repo": "awesome-pwa",
-      "stars": 4943,
+      "stars": 4942,
       "topics": [
         "awesome-list",
         "modern-web",
