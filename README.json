@@ -21,7 +21,7 @@
                 "open_issues": 19,
                 "owner": "foldergram",
                 "repo": "foldergram",
-                "stars": 604,
+                "stars": 605,
                 "topics": [
                   "docker",
                   "express",
@@ -66,7 +66,7 @@
                 "open_issues": 53,
                 "owner": "aermin",
                 "repo": "ghChat",
-                "stars": 926,
+                "stars": 927,
                 "topics": [
                   "axios",
                   "chat",
@@ -355,7 +355,7 @@
                 "open_issues": 92,
                 "owner": "GoogleChrome",
                 "repo": "workbox",
-                "stars": 13042,
+                "stars": 13041,
                 "topics": [
                   "offline-first",
                   "progressive-web-app",
@@ -673,7 +673,7 @@
                 "open_issues": 2,
                 "owner": "rossta",
                 "repo": "serviceworker-rails",
-                "stars": 585,
+                "stars": 586,
                 "topics": [
                   "javascript",
                   "rails",
@@ -1005,7 +1005,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-09T16:51:10.344Z",
+    "last_updated": "2026-11-10T15:14:02.917Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Progressive Web Apps, resources, tools and articles",
@@ -1014,7 +1014,7 @@
       "language": "JavaScript",
       "license": null,
       "last_commit": "2026-08-10T05:18:51Z",
-      "open_issues": 154,
+      "open_issues": 158,
       "owner": "hemanth",
       "repo": "awesome-pwa",
       "stars": 4944,
