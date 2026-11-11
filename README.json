@@ -110,7 +110,7 @@
                 "open_issues": 2,
                 "owner": "gokulkrishh",
                 "repo": "demo-progressive-web-app",
-                "stars": 967,
+                "stars": 966,
                 "topics": [
                   "addtohomescreen",
                   "background-sync",
@@ -355,7 +355,7 @@
                 "open_issues": 92,
                 "owner": "GoogleChrome",
                 "repo": "workbox",
-                "stars": 13041,
+                "stars": 13042,
                 "topics": [
                   "offline-first",
                   "progressive-web-app",
@@ -383,7 +383,7 @@
                 "open_issues": 58,
                 "owner": "GoogleChromeLabs",
                 "repo": "sw-precache",
-                "stars": 5180,
+                "stars": 5179,
                 "topics": [
                   "javascript",
                   "offline",
@@ -439,7 +439,7 @@
                 "open_issues": 56,
                 "owner": "GoogleChromeLabs",
                 "repo": "sw-toolbox",
-                "stars": 3578,
+                "stars": 3577,
                 "topics": [
                   "caching",
                   "javascript",
@@ -608,7 +608,7 @@
                 "open_issues": 110,
                 "owner": "NekR",
                 "repo": "offline-plugin",
-                "stars": 4499,
+                "stars": 4498,
                 "topics": [
                   "appcache",
                   "application-cache",
@@ -669,8 +669,8 @@
                 "id": 56937166,
                 "language": "Ruby",
                 "license": "MIT",
-                "last_commit": "2026-11-04T13:07:18Z",
-                "open_issues": 2,
+                "last_commit": "2026-11-11T11:46:58Z",
+                "open_issues": 8,
                 "owner": "rossta",
                 "repo": "serviceworker-rails",
                 "stars": 586,
@@ -931,7 +931,7 @@
             "open_issues": 77,
             "owner": "preactjs",
             "repo": "preact-cli",
-            "stars": 4659,
+            "stars": 4657,
             "topics": [
               "cli",
               "hacktoberfest",
@@ -1005,7 +1005,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-10T15:14:02.917Z",
+    "last_updated": "2026-11-11T14:42:33.019Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Progressive Web Apps, resources, tools and articles",
@@ -1017,7 +1017,7 @@
       "open_issues": 158,
       "owner": "hemanth",
       "repo": "awesome-pwa",
-      "stars": 4944,
+      "stars": 4945,
       "topics": [
         "awesome-list",
         "modern-web",
