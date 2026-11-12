@@ -18,7 +18,7 @@
                 "language": "TypeScript",
                 "license": "AGPL-3.0",
                 "last_commit": "2026-11-08T14:02:08Z",
-                "open_issues": 19,
+                "open_issues": 20,
                 "owner": "foldergram",
                 "repo": "foldergram",
                 "stars": 605,
@@ -355,7 +355,7 @@
                 "open_issues": 92,
                 "owner": "GoogleChrome",
                 "repo": "workbox",
-                "stars": 13042,
+                "stars": 13043,
                 "topics": [
                   "offline-first",
                   "progressive-web-app",
@@ -383,7 +383,7 @@
                 "open_issues": 58,
                 "owner": "GoogleChromeLabs",
                 "repo": "sw-precache",
-                "stars": 5179,
+                "stars": 5180,
                 "topics": [
                   "javascript",
                   "offline",
@@ -411,7 +411,7 @@
                 "open_issues": 40,
                 "owner": "TalAter",
                 "repo": "UpUp",
-                "stars": 4920,
+                "stars": 4921,
                 "topics": [
                   "hacktoberfest",
                   "offline",
@@ -608,7 +608,7 @@
                 "open_issues": 110,
                 "owner": "NekR",
                 "repo": "offline-plugin",
-                "stars": 4498,
+                "stars": 4499,
                 "topics": [
                   "appcache",
                   "application-cache",
@@ -673,7 +673,7 @@
                 "open_issues": 8,
                 "owner": "rossta",
                 "repo": "serviceworker-rails",
-                "stars": 586,
+                "stars": 585,
                 "topics": [
                   "javascript",
                   "rails",
@@ -910,7 +910,7 @@
             "open_issues": 73,
             "owner": "google",
             "repo": "web-starter-kit",
-            "stars": 18255,
+            "stars": 18256,
             "topics": []
           },
           "first_seen": "2026-08-28T19:00:17.247Z"
@@ -1005,7 +1005,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-11T14:42:33.019Z",
+    "last_updated": "2026-11-12T15:35:31.556Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Progressive Web Apps, resources, tools and articles",
@@ -1014,10 +1014,10 @@
       "language": "JavaScript",
       "license": null,
       "last_commit": "2026-08-10T05:18:51Z",
-      "open_issues": 158,
+      "open_issues": 159,
       "owner": "hemanth",
       "repo": "awesome-pwa",
-      "stars": 4945,
+      "stars": 4947,
       "topics": [
         "awesome-list",
         "modern-web",
