@@ -21,7 +21,7 @@
                 "open_issues": 20,
                 "owner": "foldergram",
                 "repo": "foldergram",
-                "stars": 605,
+                "stars": 606,
                 "topics": [
                   "docker",
                   "express",
@@ -355,7 +355,7 @@
                 "open_issues": 92,
                 "owner": "GoogleChrome",
                 "repo": "workbox",
-                "stars": 13043,
+                "stars": 13048,
                 "topics": [
                   "offline-first",
                   "progressive-web-app",
@@ -411,7 +411,7 @@
                 "open_issues": 40,
                 "owner": "TalAter",
                 "repo": "UpUp",
-                "stars": 4921,
+                "stars": 4922,
                 "topics": [
                   "hacktoberfest",
                   "offline",
@@ -669,8 +669,8 @@
                 "id": 56937166,
                 "language": "Ruby",
                 "license": "MIT",
-                "last_commit": "2026-11-11T11:46:58Z",
-                "open_issues": 8,
+                "last_commit": "2026-11-13T09:31:58Z",
+                "open_issues": 10,
                 "owner": "rossta",
                 "repo": "serviceworker-rails",
                 "stars": 585,
@@ -931,7 +931,7 @@
             "open_issues": 77,
             "owner": "preactjs",
             "repo": "preact-cli",
-            "stars": 4657,
+            "stars": 4656,
             "topics": [
               "cli",
               "hacktoberfest",
@@ -1005,7 +1005,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-12T15:35:31.556Z",
+    "last_updated": "2026-11-13T14:54:20.986Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Progressive Web Apps, resources, tools and articles",
@@ -1014,7 +1014,7 @@
       "language": "JavaScript",
       "license": null,
       "last_commit": "2026-08-10T05:18:51Z",
-      "open_issues": 159,
+      "open_issues": 161,
       "owner": "hemanth",
       "repo": "awesome-pwa",
       "stars": 4947,
