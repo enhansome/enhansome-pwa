@@ -17,11 +17,11 @@
                 "id": 1181781009,
                 "language": "TypeScript",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-11-15T06:01:58Z",
-                "open_issues": 19,
+                "last_commit": "2026-11-16T14:29:00Z",
+                "open_issues": 17,
                 "owner": "foldergram",
                 "repo": "foldergram",
-                "stars": 608,
+                "stars": 609,
                 "topics": [
                   "docker",
                   "express",
@@ -355,7 +355,7 @@
                 "open_issues": 95,
                 "owner": "GoogleChrome",
                 "repo": "workbox",
-                "stars": 13053,
+                "stars": 13055,
                 "topics": [
                   "offline-first",
                   "progressive-web-app",
@@ -439,7 +439,7 @@
                 "open_issues": 56,
                 "owner": "GoogleChromeLabs",
                 "repo": "sw-toolbox",
-                "stars": 3577,
+                "stars": 3576,
                 "topics": [
                   "caching",
                   "javascript",
@@ -910,7 +910,7 @@
             "open_issues": 73,
             "owner": "google",
             "repo": "web-starter-kit",
-            "stars": 18257,
+            "stars": 18256,
             "topics": []
           },
           "first_seen": "2026-08-28T19:00:17.247Z"
@@ -1005,7 +1005,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-15T14:18:06.213Z",
+    "last_updated": "2026-11-16T16:25:08.536Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Progressive Web Apps, resources, tools and articles",
@@ -1014,10 +1014,10 @@
       "language": "JavaScript",
       "license": null,
       "last_commit": "2026-08-10T05:18:51Z",
-      "open_issues": 163,
+      "open_issues": 167,
       "owner": "hemanth",
       "repo": "awesome-pwa",
-      "stars": 4947,
+      "stars": 4948,
       "topics": [
         "awesome-list",
         "modern-web",
