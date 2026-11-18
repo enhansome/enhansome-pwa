@@ -17,8 +17,8 @@
                 "id": 1181781009,
                 "language": "TypeScript",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-11-17T13:11:14Z",
-                "open_issues": 12,
+                "last_commit": "2026-11-18T11:26:53Z",
+                "open_issues": 13,
                 "owner": "foldergram",
                 "repo": "foldergram",
                 "stars": 610,
@@ -237,7 +237,7 @@
                 "open_issues": 53,
                 "owner": "elegantapp",
                 "repo": "pwa-asset-generator",
-                "stars": 3043,
+                "stars": 3044,
                 "topics": [
                   "android",
                   "favicon",
@@ -355,7 +355,7 @@
                 "open_issues": 95,
                 "owner": "GoogleChrome",
                 "repo": "workbox",
-                "stars": 13059,
+                "stars": 13060,
                 "topics": [
                   "offline-first",
                   "progressive-web-app",
@@ -761,7 +761,7 @@
                 "open_issues": 2,
                 "owner": "philfung",
                 "repo": "add-to-homescreen",
-                "stars": 349,
+                "stars": 350,
                 "topics": [
                   "add-to-homescreen",
                   "desktop",
@@ -910,7 +910,7 @@
             "open_issues": 73,
             "owner": "google",
             "repo": "web-starter-kit",
-            "stars": 18256,
+            "stars": 18257,
             "topics": []
           },
           "first_seen": "2026-08-28T19:00:17.247Z"
@@ -1005,7 +1005,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-17T16:28:44.756Z",
+    "last_updated": "2026-11-18T15:57:56.359Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Progressive Web Apps, resources, tools and articles",
@@ -1014,10 +1014,10 @@
       "language": "JavaScript",
       "license": null,
       "last_commit": "2026-08-10T05:18:51Z",
-      "open_issues": 169,
+      "open_issues": 170,
       "owner": "hemanth",
       "repo": "awesome-pwa",
-      "stars": 4947,
+      "stars": 4948,
       "topics": [
         "awesome-list",
         "modern-web",
