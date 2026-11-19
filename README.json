@@ -17,11 +17,11 @@
                 "id": 1181781009,
                 "language": "TypeScript",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-11-18T11:26:53Z",
-                "open_issues": 13,
+                "last_commit": "2026-11-19T15:32:04Z",
+                "open_issues": 11,
                 "owner": "foldergram",
                 "repo": "foldergram",
-                "stars": 610,
+                "stars": 612,
                 "topics": [
                   "docker",
                   "express",
@@ -355,7 +355,7 @@
                 "open_issues": 95,
                 "owner": "GoogleChrome",
                 "repo": "workbox",
-                "stars": 13060,
+                "stars": 13062,
                 "topics": [
                   "offline-first",
                   "progressive-web-app",
@@ -1005,7 +1005,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-18T15:57:56.359Z",
+    "last_updated": "2026-11-19T16:03:28.358Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Progressive Web Apps, resources, tools and articles",
