@@ -21,7 +21,7 @@
                 "open_issues": 11,
                 "owner": "foldergram",
                 "repo": "foldergram",
-                "stars": 612,
+                "stars": 613,
                 "topics": [
                   "docker",
                   "express",
@@ -66,7 +66,7 @@
                 "open_issues": 53,
                 "owner": "aermin",
                 "repo": "ghChat",
-                "stars": 927,
+                "stars": 926,
                 "topics": [
                   "axios",
                   "chat",
@@ -110,7 +110,7 @@
                 "open_issues": 2,
                 "owner": "gokulkrishh",
                 "repo": "demo-progressive-web-app",
-                "stars": 965,
+                "stars": 966,
                 "topics": [
                   "addtohomescreen",
                   "background-sync",
@@ -355,7 +355,7 @@
                 "open_issues": 95,
                 "owner": "GoogleChrome",
                 "repo": "workbox",
-                "stars": 13062,
+                "stars": 13061,
                 "topics": [
                   "offline-first",
                   "progressive-web-app",
@@ -383,7 +383,7 @@
                 "open_issues": 58,
                 "owner": "GoogleChromeLabs",
                 "repo": "sw-precache",
-                "stars": 5180,
+                "stars": 5179,
                 "topics": [
                   "javascript",
                   "offline",
@@ -411,7 +411,7 @@
                 "open_issues": 36,
                 "owner": "TalAter",
                 "repo": "UpUp",
-                "stars": 4923,
+                "stars": 4922,
                 "topics": [
                   "hacktoberfest",
                   "offline",
@@ -439,7 +439,7 @@
                 "open_issues": 56,
                 "owner": "GoogleChromeLabs",
                 "repo": "sw-toolbox",
-                "stars": 3576,
+                "stars": 3575,
                 "topics": [
                   "caching",
                   "javascript",
@@ -467,7 +467,7 @@
                 "open_issues": 5,
                 "owner": "gmetais",
                 "repo": "sw-delta",
-                "stars": 1094,
+                "stars": 1093,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:00:17.247Z"
@@ -608,7 +608,7 @@
                 "open_issues": 110,
                 "owner": "NekR",
                 "repo": "offline-plugin",
-                "stars": 4499,
+                "stars": 4497,
                 "topics": [
                   "appcache",
                   "application-cache",
@@ -645,7 +645,7 @@
                 "open_issues": 26,
                 "owner": "goldhand",
                 "repo": "sw-precache-webpack-plugin",
-                "stars": 1436,
+                "stars": 1435,
                 "topics": [
                   "offline",
                   "progressive-web-app",
@@ -673,7 +673,7 @@
                 "open_issues": 11,
                 "owner": "rossta",
                 "repo": "serviceworker-rails",
-                "stars": 585,
+                "stars": 584,
                 "topics": [
                   "javascript",
                   "rails",
@@ -732,7 +732,7 @@
                 "open_issues": 34,
                 "owner": "tastejs",
                 "repo": "hacker-news-pwas",
-                "stars": 2401,
+                "stars": 2400,
                 "topics": [
                   "code-splitting",
                   "hacker",
@@ -910,7 +910,7 @@
             "open_issues": 73,
             "owner": "google",
             "repo": "web-starter-kit",
-            "stars": 18257,
+            "stars": 18255,
             "topics": []
           },
           "first_seen": "2026-08-28T19:00:17.247Z"
@@ -931,7 +931,7 @@
             "open_issues": 77,
             "owner": "preactjs",
             "repo": "preact-cli",
-            "stars": 4656,
+            "stars": 4655,
             "topics": [
               "cli",
               "hacktoberfest",
@@ -1005,7 +1005,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-19T16:03:28.358Z",
+    "last_updated": "2026-11-20T15:45:24.766Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Progressive Web Apps, resources, tools and articles",
@@ -1014,10 +1014,10 @@
       "language": "JavaScript",
       "license": null,
       "last_commit": "2026-08-10T05:18:51Z",
-      "open_issues": 170,
+      "open_issues": 171,
       "owner": "hemanth",
       "repo": "awesome-pwa",
-      "stars": 4948,
+      "stars": 4949,
       "topics": [
         "awesome-list",
         "modern-web",

@@ -64,7 +64,7 @@
 
 ### Audio and Video
 
-* [Foldergram](https://github.com/foldergram/foldergram) ⭐ 612 | 🐛 11 | 🌐 TypeScript | 📅 2026-11-19: Local-only photo and video gallery for folders, with an Instagram-inspired browsing pattern.
+* [Foldergram](https://github.com/foldergram/foldergram) ⭐ 613 | 🐛 11 | 🌐 TypeScript | 📅 2026-11-19: Local-only photo and video gallery for folders, with an Instagram-inspired browsing pattern.
 * [BitMidi](https://bitmidi.com): Listen to your favorite MIDI files.
 * [guitar-tuner](https://aerotwist.com/blog/guitar-tuner/): Aerotwist Guitar Tuner
 * [Joybox](https://joybox.rosano.ca): A pinboard for audiovisual media.
@@ -102,7 +102,7 @@
 
 ### Communication and Social
 
-* [ghChat](https://github.com/aermin/ghChat) ⭐ 927 | 🐛 53 | 🌐 JavaScript | 📅 2023-01-04: Chat application for GitHub.
+* [ghChat](https://github.com/aermin/ghChat) ⭐ 926 | 🐛 53 | 🌐 JavaScript | 📅 2023-01-04: Chat application for GitHub.
 * [Bloom Pro](https://bloompro.de/): Bloom Pro – Your Grow Journal - Keep track of your grows
 * [Chitchatter](https://chitchatter.im/): Secure peer-to-peer chat that is serverless, decentralized, and ephemeral
 * [Datememe](https://www.datememe.com): Online dating.
@@ -118,7 +118,7 @@
 
 ### Development and Design
 
-* [Demo PWA](https://github.com/gokulkrishh/demo-progressive-web-app) ⭐ 965 | 🐛 2 | 🌐 JavaScript | 📅 2023-11-27: Demonstrating offline, push notifications, background sync etc.
+* [Demo PWA](https://github.com/gokulkrishh/demo-progressive-web-app) ⭐ 966 | 🐛 2 | 🌐 JavaScript | 📅 2023-11-27: Demonstrating offline, push notifications, background sync etc.
 * [3D House Editor](https://3dhouseplanner.com/app2.php): Free 3D floor planner
 * [ampproject](https://www.ampproject.org): Web component framework.
 * [Bento-starter](https://bento-starter.firebaseapp.com): Open-Source Full-Stack solution for fast PWA development
@@ -425,11 +425,11 @@
 
 ### Service Worker Libraries
 
-* [`Workbox`](https://github.com/GoogleChrome/workbox) ⭐ 13,062 | 🐛 95 | 🌐 JavaScript | 📅 2026-11-15: Javascript Library for building progressive web apps
+* [`Workbox`](https://github.com/GoogleChrome/workbox) ⭐ 13,061 | 🐛 95 | 🌐 JavaScript | 📅 2026-11-15: Javascript Library for building progressive web apps
 * [`sw-precache`](https://github.com/GoogleChrome/sw-precache) ⚠️ Archived: A node module to generate service worker code that will precache specific resources
-* [`UpUp`](https://github.com/TalAter/UpUp) ⭐ 4,923 | 🐛 36 | 🌐 JavaScript | 📅 2026-11-13: Makes sure your users can always access your site's content, even when they're on a plane, in an elevator, or 20,000 leagues under the sea
+* [`UpUp`](https://github.com/TalAter/UpUp) ⭐ 4,922 | 🐛 36 | 🌐 JavaScript | 📅 2026-11-13: Makes sure your users can always access your site's content, even when they're on a plane, in an elevator, or 20,000 leagues under the sea
 * [`sw-toolbox`](https://github.com/GoogleChrome/sw-toolbox) ⚠️ Archived: A runtime caching library
-* [`sw-delta`](https://github.com/gmetais/sw-delta) ⭐ 1,094 | 🐛 5 | 🌐 JavaScript | 📅 2016-08-27: An incremental cache for the web.
+* [`sw-delta`](https://github.com/gmetais/sw-delta) ⭐ 1,093 | 🐛 5 | 🌐 JavaScript | 📅 2016-08-27: An incremental cache for the web.
 * [`serviceworkerware`](https://github.com/fxos-components/serviceworkerware) ⚠️ Archived: An Express-like layer on top of ServiceWorkers to provide a way to easily plug functionality
 * [`verifyfetch`](https://github.com/hamzaydia/verifyfetch) ⭐ 160 | 🐛 0 | 🌐 TypeScript | 📅 2026-04-07: Resumable, integrity-verified downloads for large offline assets. Includes Service Worker mode for transparent verification of all fetch requests.
 * [`fetch-sync`](https://github.com/sdgluck/fetch-sync) ⭐ 128 | 🐛 1 | 🌐 JavaScript | 📅 2017-07-30: Proxy Fetch requests through the Background Sync API
@@ -437,9 +437,9 @@
 
 ### Webpack and Framework Plugins
 
-* [`offline-plugin`](https://github.com/NekR/offline-plugin) ⭐ 4,499 | 🐛 110 | 🌐 JavaScript | 📅 2021-11-08: Offline plugin (ServiceWorker, AppCache) for webpack (<http://webpack.github.io/>)
-* [`sw-precache-webpack-plugin`](https://github.com/goldhand/sw-precache-webpack-plugin) ⭐ 1,436 | 🐛 26 | 🌐 JavaScript | 📅 2020-10-15: SW Precache Webpack Plugin
-* [`serviceworker-rails`](https://github.com/rossta/serviceworker-rails) ⭐ 585 | 🐛 11 | 🌐 Ruby | 📅 2026-11-14: Plugin to integrate Service Worker with the Rails asset pipeline.
+* [`offline-plugin`](https://github.com/NekR/offline-plugin) ⭐ 4,497 | 🐛 110 | 🌐 JavaScript | 📅 2021-11-08: Offline plugin (ServiceWorker, AppCache) for webpack (<http://webpack.github.io/>)
+* [`sw-precache-webpack-plugin`](https://github.com/goldhand/sw-precache-webpack-plugin) ⭐ 1,435 | 🐛 26 | 🌐 JavaScript | 📅 2020-10-15: SW Precache Webpack Plugin
+* [`serviceworker-rails`](https://github.com/rossta/serviceworker-rails) ⭐ 584 | 🐛 11 | 🌐 Ruby | 📅 2026-11-14: Plugin to integrate Service Worker with the Rails asset pipeline.
 * [`serviceworker-webpack-plugin`](https://github.com/oliviertassinari/serviceworker-webpack-plugin) ⭐ 455 | 🐛 24 | 🌐 JavaScript | 📅 2025-09-20: Simplifies creation of a service worker to serve your webpack bundles.
 
 ### Testing and Auditing
@@ -458,7 +458,7 @@
 ## Kits
 
 * [`Web Starter Kit`](https://github.com/google/web-starter-kit) ⚠️ Archived: A workflow for multi-device websites.
-* [Preact CLI](https://github.com/developit/preact-cli) ⭐ 4,656 | 🐛 77 | 🌐 JavaScript | 📅 2024-03-27: "Your next Preact PWA in 30 seconds"
+* [Preact CLI](https://github.com/developit/preact-cli) ⭐ 4,655 | 🐛 77 | 🌐 JavaScript | 📅 2024-03-27: "Your next Preact PWA in 30 seconds"
 * [`Bento starter`](https://github.com/kefranabg/bento-starter) ⭐ 1,508 | 🐛 23 | 🌐 JavaScript | 📅 2021-02-12: Full-stack solution to build Progressive Web Apps.
 * [`Progressive Web Application skeleton`](https://github.com/PolymerLabs/progressive-webapp-config) ⚠️ Archived: A simple set of skeleton files for shipping a Progressive Web App.
 * [`pwabuilder`](http://www.pwabuilder.com/): All the tools you need to build and deploy your Progressive Web Apps.
@@ -487,4 +487,4 @@ Contributions are welcome! Please check the guidelines and open a PR.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-19._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-20._
