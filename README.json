@@ -21,7 +21,7 @@
                 "open_issues": 11,
                 "owner": "foldergram",
                 "repo": "foldergram",
-                "stars": 613,
+                "stars": 618,
                 "topics": [
                   "docker",
                   "express",
@@ -1005,7 +1005,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-20T15:45:24.766Z",
+    "last_updated": "2026-11-21T14:55:51.248Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Progressive Web Apps, resources, tools and articles",
@@ -1014,10 +1014,10 @@
       "language": "JavaScript",
       "license": null,
       "last_commit": "2026-08-10T05:18:51Z",
-      "open_issues": 171,
+      "open_issues": 169,
       "owner": "hemanth",
       "repo": "awesome-pwa",
-      "stars": 4949,
+      "stars": 4950,
       "topics": [
         "awesome-list",
         "modern-web",
