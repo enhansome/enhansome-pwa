@@ -13,15 +13,15 @@
               "repo_info": {
                 "archived": false,
                 "description": "Self-hosted folder-based Instagram-style photo and video gallery app.",
-                "homepage": "https://foldergram.github.io",
+                "homepage": "https://foldergram.app",
                 "id": 1181781009,
                 "language": "TypeScript",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-11-22T15:19:03Z",
-                "open_issues": 11,
+                "last_commit": "2026-11-24T17:45:05Z",
+                "open_issues": 8,
                 "owner": "foldergram",
                 "repo": "foldergram",
-                "stars": 620,
+                "stars": 621,
                 "topics": [
                   "docker",
                   "express",
@@ -352,10 +352,10 @@
                 "language": "JavaScript",
                 "license": "MIT",
                 "last_commit": "2026-11-15T11:04:23Z",
-                "open_issues": 95,
+                "open_issues": 93,
                 "owner": "GoogleChrome",
                 "repo": "workbox",
-                "stars": 13064,
+                "stars": 13063,
                 "topics": [
                   "offline-first",
                   "progressive-web-app",
@@ -383,7 +383,7 @@
                 "open_issues": 58,
                 "owner": "GoogleChromeLabs",
                 "repo": "sw-precache",
-                "stars": 5179,
+                "stars": 5178,
                 "topics": [
                   "javascript",
                   "offline",
@@ -411,7 +411,7 @@
                 "open_issues": 36,
                 "owner": "TalAter",
                 "repo": "UpUp",
-                "stars": 4922,
+                "stars": 4921,
                 "topics": [
                   "hacktoberfest",
                   "offline",
@@ -608,7 +608,7 @@
                 "open_issues": 110,
                 "owner": "NekR",
                 "repo": "offline-plugin",
-                "stars": 4498,
+                "stars": 4497,
                 "topics": [
                   "appcache",
                   "application-cache",
@@ -645,7 +645,7 @@
                 "open_issues": 26,
                 "owner": "goldhand",
                 "repo": "sw-precache-webpack-plugin",
-                "stars": 1435,
+                "stars": 1434,
                 "topics": [
                   "offline",
                   "progressive-web-app",
@@ -910,7 +910,7 @@
             "open_issues": 73,
             "owner": "google",
             "repo": "web-starter-kit",
-            "stars": 18252,
+            "stars": 18250,
             "topics": []
           },
           "first_seen": "2026-08-28T19:00:17.247Z"
@@ -1005,7 +1005,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-23T18:44:31.579Z",
+    "last_updated": "2026-11-24T18:19:18.340Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Progressive Web Apps, resources, tools and articles",
@@ -1014,10 +1014,10 @@
       "language": "JavaScript",
       "license": null,
       "last_commit": "2026-08-10T05:18:51Z",
-      "open_issues": 181,
+      "open_issues": 185,
       "owner": "hemanth",
       "repo": "awesome-pwa",
-      "stars": 4951,
+      "stars": 4950,
       "topics": [
         "awesome-list",
         "modern-web",
