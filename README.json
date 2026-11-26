@@ -17,11 +17,11 @@
                 "id": 1181781009,
                 "language": "TypeScript",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-11-25T14:47:36Z",
+                "last_commit": "2026-11-25T18:13:55Z",
                 "open_issues": 8,
                 "owner": "foldergram",
                 "repo": "foldergram",
-                "stars": 624,
+                "stars": 626,
                 "topics": [
                   "docker",
                   "express",
@@ -355,7 +355,7 @@
                 "open_issues": 93,
                 "owner": "GoogleChrome",
                 "repo": "workbox",
-                "stars": 13062,
+                "stars": 13064,
                 "topics": [
                   "offline-first",
                   "progressive-web-app",
@@ -761,7 +761,7 @@
                 "open_issues": 2,
                 "owner": "philfung",
                 "repo": "add-to-homescreen",
-                "stars": 350,
+                "stars": 352,
                 "topics": [
                   "add-to-homescreen",
                   "desktop",
@@ -910,7 +910,7 @@
             "open_issues": 73,
             "owner": "google",
             "repo": "web-starter-kit",
-            "stars": 18250,
+            "stars": 18249,
             "topics": []
           },
           "first_seen": "2026-08-28T19:00:17.247Z"
@@ -1005,7 +1005,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-25T17:37:18.005Z",
+    "last_updated": "2026-11-26T17:18:52.479Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Progressive Web Apps, resources, tools and articles",
@@ -1014,10 +1014,10 @@
       "language": "JavaScript",
       "license": null,
       "last_commit": "2026-08-10T05:18:51Z",
-      "open_issues": 189,
+      "open_issues": 188,
       "owner": "hemanth",
       "repo": "awesome-pwa",
-      "stars": 4951,
+      "stars": 4952,
       "topics": [
         "awesome-list",
         "modern-web",
