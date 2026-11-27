@@ -17,8 +17,8 @@
                 "id": 1181781009,
                 "language": "TypeScript",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-11-25T18:13:55Z",
-                "open_issues": 8,
+                "last_commit": "2026-11-27T16:39:41Z",
+                "open_issues": 11,
                 "owner": "foldergram",
                 "repo": "foldergram",
                 "stars": 626,
@@ -179,6 +179,123 @@
                 ]
               },
               "first_seen": "2026-08-28T19:00:17.247Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Ordkort",
+              "description": "Flashcards with spaced repetition (FSRS) for 60 languages: ready word lists by topic, a dictionary, a grammar book and a translator that explains every word. No account, installable, works offline. GitHub",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Free, open-source flashcards with FSRS spaced repetition for 60 languages: ready word lists, a learner's dictionary, grammar and a translator that explains every word. No sign-up, no ads, works offline.",
+                "homepage": "https://ordkort.com",
+                "id": 1384158968,
+                "language": "HTML",
+                "license": "AGPL-3.0",
+                "last_commit": "2026-11-19T20:42:24Z",
+                "open_issues": 7,
+                "owner": "silicq",
+                "repo": "ordkort",
+                "stars": 18,
+                "topics": [
+                  "anki-alternative",
+                  "cloudflare-workers",
+                  "dictionary",
+                  "education",
+                  "end-to-end-encryption",
+                  "flashcards",
+                  "fsrs",
+                  "language-learning",
+                  "learn-norwegian",
+                  "mcp-server",
+                  "no-tracking",
+                  "norwegian",
+                  "offline-first",
+                  "open-source",
+                  "privacy",
+                  "pwa",
+                  "quizlet-alternative",
+                  "self-hosted",
+                  "spaced-repetition",
+                  "vocabulary"
+                ]
+              },
+              "first_seen": "2026-11-27T16:58:34.222Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Stackapella",
+              "description": "Learn to sing harmony one part at a time, then record each part over the others to stack a whole a cappella arrangement. Installable, open source. GitHub",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Learn harmony and stack your own voice in the browser. Laravel, Vue (no npm) and Web Audio.",
+                "homepage": "https://stackapella.com/?ref=github",
+                "id": 1438927339,
+                "language": "PHP",
+                "license": "NOASSERTION",
+                "last_commit": "2026-11-27T13:50:36Z",
+                "open_issues": 0,
+                "owner": "Stackapella",
+                "repo": "stackapella",
+                "stars": 6,
+                "topics": [
+                  "a-cappella",
+                  "audioworklet",
+                  "choir",
+                  "harmony",
+                  "laravel",
+                  "music-education",
+                  "pwa",
+                  "self-hosted",
+                  "singing",
+                  "vue",
+                  "web-audio"
+                ]
+              },
+              "first_seen": "2026-11-27T16:58:34.222Z"
+            },
+            {
+              "node_type": "item",
+              "title": "AshuTeacher",
+              "description": "Open-source AI voice blackboard, 195-country syllabus explorer, exam paper solver, and 3D spaced-repetition flashcards in 100+ languages. Installable PWA + Android TWA. GitHub",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Interactive AI Voice Blackboard, 195-Country Syllabus & Competitive Exam Academy (KG to Doctoral/MIT, IGNOU, UPSC, CBSE), Exam Solver & Viva Lab in 100+ Languages",
+                "homepage": "https://ashuteacher.vercel.app",
+                "id": 1443815314,
+                "language": "TypeScript",
+                "license": null,
+                "last_commit": "2026-11-27T11:56:51Z",
+                "open_issues": 0,
+                "owner": "sanzaya-p",
+                "repo": "ashuteacher",
+                "stars": 0,
+                "topics": [
+                  "ai-tutor",
+                  "android-app",
+                  "blackboard",
+                  "cbse",
+                  "e-learning",
+                  "edtech",
+                  "education",
+                  "exam-solver",
+                  "flashcards",
+                  "gemini-api",
+                  "ignou",
+                  "india",
+                  "multilingual",
+                  "nextjs",
+                  "open-source",
+                  "pwa",
+                  "quiz-generator",
+                  "research-assistant",
+                  "upsc",
+                  "voice-ai"
+                ]
+              },
+              "first_seen": "2026-11-27T16:58:34.222Z"
             }
           ],
           "description": null,
@@ -187,6 +304,82 @@
         },
         {
           "children": [
+            {
+              "node_type": "item",
+              "title": "StudyLife",
+              "description": "Self-hosted study organizer — calendar, exam/study planner, focus timer, notes and a progress dashboard, installable PWA, plus a family of companion add-ons (browser extensions, CLI, VS Code, Telegram, Discord, Home Assistant...). GitHub",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Self-hosted study organizer — calendar, exam/study planner, focus timer, notes, and progress dashboard. Built with Blazor WASM + ASP.NET Core (.NET 10); passkey login, 26 languages, optional Home Assistant integration.",
+                "homepage": "https://studylife-demo.lktec.org",
+                "id": 1322072505,
+                "language": "C#",
+                "license": "AGPL-3.0",
+                "last_commit": "2026-11-27T04:29:36Z",
+                "open_issues": 3,
+                "owner": "lukislp",
+                "repo": "studylife",
+                "stars": 8,
+                "topics": [
+                  "aspnetcore",
+                  "blazor",
+                  "blazor-webassembly",
+                  "calendar",
+                  "csharp",
+                  "dotnet",
+                  "education",
+                  "focus-timer",
+                  "home-assistant",
+                  "homeassistant",
+                  "mcp",
+                  "mcp-server",
+                  "notes",
+                  "passkey",
+                  "productivity",
+                  "pwa",
+                  "self-hosted",
+                  "students",
+                  "study-app",
+                  "webauthn"
+                ]
+              },
+              "first_seen": "2026-11-27T16:58:34.222Z"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Games and Entertainment"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "OmniTool Hub",
+              "description": "50+ privacy-first developer utilities (PDF, JSON, Crypto, JWT) running 100% client-side in browser memory. (Source Code)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": null,
+                "homepage": "https://omnitool.worldsneed.com/",
+                "id": 1267586771,
+                "language": "HTML",
+                "license": null,
+                "last_commit": "2026-11-23T17:10:47Z",
+                "open_issues": 0,
+                "owner": "Ravik0892",
+                "repo": "Tools",
+                "stars": 0,
+                "topics": [
+                  "design-tools",
+                  "developer-tools",
+                  "math-tools",
+                  "text-tools",
+                  "tools"
+                ]
+              },
+              "first_seen": "2026-11-27T16:58:34.222Z"
+            },
             {
               "node_type": "item",
               "title": "Notella",
@@ -207,6 +400,70 @@
                 "topics": []
               },
               "first_seen": "2026-08-28T19:00:17.247Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Focus Flow",
+              "description": "Local-first Pomodoro timer with procedural ambient soundscapes, session goals, and private progress tracking. Fully offline, zero tracking, no sign-up. GitHub",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Minimalist Pomodoro timer with focus mode, statistics, ambient sounds, and study tips.",
+                "homepage": "https://focusflow.ink",
+                "id": 1254491838,
+                "language": "TypeScript",
+                "license": "MIT",
+                "last_commit": "2026-11-25T23:15:41Z",
+                "open_issues": 12,
+                "owner": "w3ziqv",
+                "repo": "focus-flow",
+                "stars": 3,
+                "topics": [
+                  "es-modules",
+                  "focus",
+                  "javascript",
+                  "pomodoro",
+                  "productivity",
+                  "timer",
+                  "vercel",
+                  "web-audio-api"
+                ]
+              },
+              "first_seen": "2026-11-27T16:58:34.222Z"
+            },
+            {
+              "node_type": "item",
+              "title": "FreeBookConvert",
+              "description": "Offline-capable file converter for ebooks, PDFs, HEIC and images, plus on-device audiobook tools. Files never leave the browser. GitHub",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Free file converters that never upload your files: EPUB, PDF, HEIC, images, and audiobooks, all in the browser with WebAssembly.",
+                "homepage": "https://freebookconvert.com",
+                "id": 1240281105,
+                "language": "HTML",
+                "license": "MIT",
+                "last_commit": "2026-11-20T04:03:38Z",
+                "open_issues": 0,
+                "owner": "andrewnakas",
+                "repo": "freebookconvert",
+                "stars": 0,
+                "topics": [
+                  "audiobook",
+                  "epub",
+                  "ffmpeg-wasm",
+                  "file-converter",
+                  "heic",
+                  "m4b",
+                  "pdf",
+                  "privacy",
+                  "pwa",
+                  "static-site",
+                  "text-to-speech",
+                  "webassembly"
+                ]
+              },
+              "first_seen": "2026-11-27T16:58:34.222Z"
             }
           ],
           "description": null,
@@ -355,7 +612,7 @@
                 "open_issues": 93,
                 "owner": "GoogleChrome",
                 "repo": "workbox",
-                "stars": 13064,
+                "stars": 13066,
                 "topics": [
                   "offline-first",
                   "progressive-web-app",
@@ -708,11 +965,75 @@
                 ]
               },
               "first_seen": "2026-08-28T19:00:17.247Z"
+            },
+            {
+              "node_type": "item",
+              "title": "filament-pwa",
+              "description": "Plugin that turns a Laravel FilamentPHP admin panel into an installable PWA, with the manifest, icons and service worker managed from the panel settings.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "get a PWA feature on your FilamentPHP app with settings from panel",
+                "homepage": "https://tomatophp.com/en/plugins/filament-pwa",
+                "id": 836198171,
+                "language": "PHP",
+                "license": "MIT",
+                "last_commit": "2026-11-13T13:41:43Z",
+                "open_issues": 1,
+                "owner": "tomatophp",
+                "repo": "filament-pwa",
+                "stars": 97,
+                "topics": [
+                  "filament",
+                  "filament-plugin",
+                  "filamentphp",
+                  "laravel",
+                  "php",
+                  "pwa",
+                  "pwa-apps"
+                ]
+              },
+              "first_seen": "2026-11-27T16:58:34.222Z"
             }
           ],
           "description": null,
           "node_type": "group",
           "title": "Webpack and Framework Plugins"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "pwa-manifest-auditor",
+              "description": "Offline Node.js CLI that checks a local web app manifest against an exported site inventory; missing evidence stays incomplete, and it does not run a browser or service worker.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Validate manifest fields, icons, display modes and offline shell expectations.",
+                "homepage": null,
+                "id": 1363712745,
+                "language": "JavaScript",
+                "license": "MIT",
+                "last_commit": "2026-09-28T12:51:34Z",
+                "open_issues": 0,
+                "owner": "edilec",
+                "repo": "pwa-manifest-auditor",
+                "stars": 0,
+                "topics": [
+                  "cli",
+                  "nodejs",
+                  "progressive-web-app",
+                  "pwa",
+                  "web-development",
+                  "web-manifest"
+                ]
+              },
+              "first_seen": "2026-11-27T16:58:34.222Z"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Testing and Auditing"
         },
         {
           "children": [
@@ -1005,7 +1326,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-26T17:18:52.479Z",
+    "last_updated": "2026-11-27T16:58:34.222Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Progressive Web Apps, resources, tools and articles",
@@ -1013,11 +1334,11 @@
       "id": 48058974,
       "language": "JavaScript",
       "license": null,
-      "last_commit": "2026-08-10T05:18:51Z",
-      "open_issues": 188,
+      "last_commit": "2026-11-26T20:50:07Z",
+      "open_issues": 10,
       "owner": "hemanth",
       "repo": "awesome-pwa",
-      "stars": 4952,
+      "stars": 4953,
       "topics": [
         "awesome-list",
         "modern-web",
@@ -1027,7 +1348,7 @@
         "web-development"
       ]
     },
-    "original_repository_sha": "550377feeb35aaedb3ea74397463e7891d5c051e",
+    "original_repository_sha": "11a6aabf8bd3283fb70582ca13c46e39692b63ce",
     "enhanced_repository": "enhansome/enhansome-pwa",
     "enhanced_repository_description": null,
     "title": "awesome-pwa with stars"
