@@ -18,7 +18,7 @@
                 "language": "TypeScript",
                 "license": "AGPL-3.0",
                 "last_commit": "2026-11-27T16:39:41Z",
-                "open_issues": 11,
+                "open_issues": 15,
                 "owner": "foldergram",
                 "repo": "foldergram",
                 "stars": 626,
@@ -267,7 +267,7 @@
                 "id": 1443815314,
                 "language": "TypeScript",
                 "license": null,
-                "last_commit": "2026-11-27T11:56:51Z",
+                "last_commit": "2026-11-28T07:32:04Z",
                 "open_issues": 0,
                 "owner": "sanzaya-p",
                 "repo": "ashuteacher",
@@ -612,7 +612,7 @@
                 "open_issues": 93,
                 "owner": "GoogleChrome",
                 "repo": "workbox",
-                "stars": 13066,
+                "stars": 13067,
                 "topics": [
                   "offline-first",
                   "progressive-web-app",
@@ -1231,7 +1231,7 @@
             "open_issues": 73,
             "owner": "google",
             "repo": "web-starter-kit",
-            "stars": 18249,
+            "stars": 18250,
             "topics": []
           },
           "first_seen": "2026-08-28T19:00:17.247Z"
@@ -1326,7 +1326,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-27T16:58:34.222Z",
+    "last_updated": "2026-11-28T15:49:31.671Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Progressive Web Apps, resources, tools and articles",
@@ -1335,10 +1335,10 @@
       "language": "JavaScript",
       "license": null,
       "last_commit": "2026-11-26T20:50:07Z",
-      "open_issues": 10,
+      "open_issues": 14,
       "owner": "hemanth",
       "repo": "awesome-pwa",
-      "stars": 4953,
+      "stars": 4954,
       "topics": [
         "awesome-list",
         "modern-web",

@@ -66,7 +66,7 @@
 
 ### Audio and Video
 
-* [Foldergram](https://github.com/foldergram/foldergram) ⭐ 626 | 🐛 11 | 🌐 TypeScript | 📅 2026-11-27: Local-only photo and video gallery for folders, with an Instagram-inspired browsing pattern.
+* [Foldergram](https://github.com/foldergram/foldergram) ⭐ 626 | 🐛 15 | 🌐 TypeScript | 📅 2026-11-27: Local-only photo and video gallery for folders, with an Instagram-inspired browsing pattern.
 * [Air Drift](https://airdrift.stream/): Live internet radio from around 59,000 stations worldwide, browsable on a 3D globe.
 * [BitMidi](https://bitmidi.com): Listen to your favorite MIDI files.
 * [Clipabay](https://clipabay.com/): Video, audio, music and photo editor that runs in the browser. No uploads, no sign-up, no watermark.
@@ -177,7 +177,7 @@
 * [Shiori](https://shiori-v1.vercel.app): Open-source AI study companion — SRS flashcards, GPA predictor, Gemini AI study plans, AI quiz generator, habit tracker. Installable PWA, works offline. Google Classroom sync. [GitHub](https://github.com/kaorii-ako/Shiori-v1) ⭐ 49 | 🐛 6 | 🌐 JavaScript | 📅 2026-07-25
 * [Ordkort](https://ordkort.com): Flashcards with spaced repetition (FSRS) for 60 languages: ready word lists by topic, a dictionary, a grammar book and a translator that explains every word. No account, installable, works offline. [GitHub](https://github.com/silicq/ordkort) ⭐ 18 | 🐛 7 | 🌐 HTML | 📅 2026-11-19
 * [Stackapella](https://app.stackapella.com/): Learn to sing harmony one part at a time, then record each part over the others to stack a whole a cappella arrangement. Installable, open source. [GitHub](https://github.com/Stackapella/stackapella) ⭐ 6 | 🐛 0 | 🌐 PHP | 📅 2026-11-27
-* [AshuTeacher](https://ashuteacher.vercel.app): Open-source AI voice blackboard, 195-country syllabus explorer, exam paper solver, and 3D spaced-repetition flashcards in 100+ languages. Installable PWA + Android TWA. [GitHub](https://github.com/sanzaya-p/ashuteacher) ⭐ 0 | 🐛 0 | 🌐 TypeScript | 📅 2026-11-27
+* [AshuTeacher](https://ashuteacher.vercel.app): Open-source AI voice blackboard, 195-country syllabus explorer, exam paper solver, and 3D spaced-repetition flashcards in 100+ languages. Installable PWA + Android TWA. [GitHub](https://github.com/sanzaya-p/ashuteacher) ⭐ 0 | 🐛 0 | 🌐 TypeScript | 📅 2026-11-28
 * [AIQ](https://aiq.ph): Free PWA teaching AI literacy to kids ages 5-18, adapting its UI, gamification, and content depth across four age modes (Explorer, Builder, Hacker, Architect). No ads, no account required; curriculum is open-source (CC BY 4.0).
 * [Booksie](https://www.booksie.org/): An open catalog of free picture storybooks for children instantly available for reading.
 * [EPUB Player](https://epubplayer.com): A fully-featured audiobook player with Audible/Spotify-like UX, powered by local TTS models. Turn your EPUBs into audiobooks entirely in-browser.
@@ -561,7 +561,7 @@
 
 ### Service Worker Libraries
 
-* [`Workbox`](https://github.com/GoogleChrome/workbox) ⭐ 13,066 | 🐛 93 | 🌐 JavaScript | 📅 2026-11-15: Javascript Library for building progressive web apps
+* [`Workbox`](https://github.com/GoogleChrome/workbox) ⭐ 13,067 | 🐛 93 | 🌐 JavaScript | 📅 2026-11-15: Javascript Library for building progressive web apps
 * [`sw-precache`](https://github.com/GoogleChrome/sw-precache) ⚠️ Archived: A node module to generate service worker code that will precache specific resources
 * [`UpUp`](https://github.com/TalAter/UpUp) ⭐ 4,921 | 🐛 36 | 🌐 JavaScript | 📅 2026-11-13: Makes sure your users can always access your site's content, even when they're on a plane, in an elevator, or 20,000 leagues under the sea
 * [`sw-toolbox`](https://github.com/GoogleChrome/sw-toolbox) ⚠️ Archived: A runtime caching library
@@ -627,4 +627,4 @@ Contributions are welcome! Please check the guidelines and open a PR.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-27._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-28._
